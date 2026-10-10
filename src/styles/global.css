@@ -917,6 +917,14 @@ button[disabled] { opacity: 0.6; cursor: progress; }
 
 
 
+/* Unscoped: .profile-page class is not used in templates, so these must
+   apply directly (same fix as the donate button variables). */
+.ai-summary { margin: 0; border: 1px solid var(--profile-cool-line); border-radius: 0; background: var(--profile-paper); }
+.ai-summary__trigger { padding: 0.85rem 1rem; color: var(--profile-ink); font-family: var(--font-ui); font-size: 0.85rem; }
+.ai-summary__trigger > span:first-child { color: var(--profile-blue); }
+.ai-summary__option { border-radius: 0.15rem; }
+.ai-summary__option:hover, .ai-summary__option:focus-visible { border-color: var(--profile-blue); }
+
 /* ---------- Ask AI mobile visibility fallback ---------- */
 .ai-summary__trigger,
 .ai-summary__option,
