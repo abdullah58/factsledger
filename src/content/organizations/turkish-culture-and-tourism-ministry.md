@@ -152,8 +152,6 @@ openItems:
   - "Hürriyet's 2017 wording that Ayla's South Korea campaign coincided with the '60th Anniversary' of the Turkish soldiers' landing in Busan is repeated only as the article's framing, not as an independently checked fact."
   - "Manuscript-preservation and DÖSİMM revolving-fund functions appear only in Wikipedia's ministry article and were not re-verified from a full-read source; this profile makes no claims about them."
 related:
-  - label: "Ayla: The Daughter of War"
-    href: /creative-works/ayla-the-daughter-of-war/
   - label: "Turkey"
     href: "/places/turkey/"
   - label: "Turkish Airlines"
@@ -176,7 +174,7 @@ The least-understood of the ministry's powers runs through its General Directora
 | Oscar campaign | Film | The ministry's role |
 | --- | --- | --- |
 | 2012 | *Where the Fire Burns* (Ateşin Düştüğü Yer), İsmail Güneş | Selected by the ministry as Turkey's Oscar entry; decision reported to the American Film Academy; producer framed the effort as state-backed "lobbying" ([Hürriyet Daily News](https://www.hurriyetdailynews.com/where-the-fire-burns-eyes-support-for-oscar--32630)) |
-| 2017 | [*Ayla: The Daughter of War*](/creative-works/ayla-the-daughter-of-war/), Can Ülkay | ₺1.5M production support from the General Directorate of Cinema; ministry a main supporter of the Oscar PR campaign (Turkish Airlines the main sponsor), carrying the film to South Korea and Los Angeles ([İKSV](https://film.iksv.org/i/content/1550_1_Koprude_Bulusmalar_Sektor_Raporu_2017.pdf); [Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)) |
+| 2017 | *Ayla: The Daughter of War*, Can Ülkay | ₺1.5M production support from the General Directorate of Cinema; ministry a main supporter of the Oscar PR campaign (Turkish Airlines the main sponsor), carrying the film to South Korea and Los Angeles ([İKSV](https://film.iksv.org/i/content/1550_1_Koprude_Bulusmalar_Sektor_Raporu_2017.pdf); [Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)) |
 | 2024–25 | *Hayat* (Life), Zeki Demirkubuz | Ministry-supported Paris premiere for 500 guests; the film also featured at the Hollywood Turkish Film and Drama Days at Sony Studios through ministry initiatives ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkiyes-oscar-entry-hayat-premieres-in-paris-203215)) |
 
 ## Heritage economics — and its critics

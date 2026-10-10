@@ -124,12 +124,6 @@ openItems:
   - "The 'ninth/second most-watched' style domestic box-office rankings and the 63% domestic-preference figure are 2018-era ministry-compiled data; they are dated, not current."
   - "GDP rankings (e.g. 16th nominal) appear only in lower-tier profile sources and are deliberately not asserted here; the profile uses Britannica's 2024 GNI figure context instead."
 related:
-  - label: "Ayla: The Daughter of War"
-    href: /creative-works/ayla-the-daughter-of-war/
-  - label: "Süleyman Dilbirliği"
-    href: /people/suleyman-dilbirligi/
-  - label: "United Nations"
-    href: /organizations/united-nations/
   - label: "Istanbul"
     href: "/places/istanbul/"
   - label: "Korean War"
@@ -180,7 +174,7 @@ The United Nations adopted "Türkiye" as the official name in all languages in J
 Turkish dizis are sold to more than 170 countries, with global demand up 184% between 2020 and 2023 (Parrot Analytics) and annual export revenues past $1 billion ([Express Tribune/AFP](https://tribune.com.pk/story/2593550/turkey-bets-big-on-dizi-diplomacy)). By hours sold, Turkey is the world's second-largest exporter of television series after the United States ([Express Tribune/AFP](https://tribune.com.pk/story/2593550/turkey-bets-big-on-dizi-diplomacy)).
 
 **What is Ayla: The Daughter of War?**
-[The 2017 Turkish film](/creative-works/ayla-the-daughter-of-war/) directed by Can Ülkay, based on the true story of [Sgt. Süleyman Dilbirliği](/people/suleyman-dilbirligi/) and the Korean orphan he sheltered during the Korean War ([Hürriyet Daily News](https://www.hurriyetdailynews.com/amp/ayla-a-story-of-love-turkeys-oscar-entry-121072)). Backed by the Culture and Tourism Ministry, it sold more than 5 million tickets — Turkey's second most-watched film of 2017 — and was the country's official Oscar entry ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkish-films-soaring-with-support-143623)).
+The 2017 Turkish film directed by Can Ülkay, based on the true story of Sgt. Süleyman Dilbirliği and the Korean orphan he sheltered during the Korean War ([Hürriyet Daily News](https://www.hurriyetdailynews.com/amp/ayla-a-story-of-love-turkeys-oscar-entry-121072)). Backed by the Culture and Tourism Ministry, it sold more than 5 million tickets — Turkey's second most-watched film of 2017 — and was the country's official Oscar entry ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkish-films-soaring-with-support-143623)).
 
 **Where do Turkey's tourists come from?**
 Russians were the largest foreign group in 2025 at 6.9 million, followed by Germans (6.75 million), Britons (4.27 million), and Americans (1.58 million, up nearly 10%) ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkiyes-2025-tourism-income-up-6-8-percent-to-65-2-billion-218417)). Istanbul took 18.97 million foreign arrivals — 36% of the national total — and Antalya more than 16 million ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkiyes-2025-tourism-income-up-6-8-percent-to-65-2-billion-218417)).

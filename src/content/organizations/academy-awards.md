@@ -174,8 +174,6 @@ openItems:
   - "PwC's ballot-tabulation role and the Best Picture preferential-vote mechanics since 2009 are widely reported but were not re-verified from a personally-read source; they are not stated."
   - "Britannica phrases the stunt-design award as debuting 'in 2027' while the AP reports the first award at the 100th ceremony 'in 2028'; this profile uses the AP ceremony-year framing (honoring films released in 2027), which reconciles both."
 related:
-  - label: "Ayla: The Daughter of War"
-    href: /creative-works/ayla-the-daughter-of-war/
   - label: "Los Angeles"
     href: "/places/los-angeles/"
   - label: "90th Academy Awards"

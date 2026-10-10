@@ -74,10 +74,6 @@ openItems:
   - "No 2026 edition or recurring schedule could be confirmed from the sources read."
   - "A remark attributed to Turkish actor Muttalip Mujdeci about film-location tourism was visible only at snippet level on anews.com.tr and is excluded from this profile."
 related:
-  - label: "Ayla: The Daughter of War"
-    href: /creative-works/ayla-the-daughter-of-war/
-  - label: United Nations
-    href: /organizations/united-nations/
   - label: "Istanbul"
     href: "/places/istanbul/"
 published: 2026-10-10

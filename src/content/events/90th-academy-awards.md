@@ -160,8 +160,6 @@ openItems:
   - "The 9th Governors Awards venue (reported as the Ray Dolby Ballroom at Hollywood & Highland) appeared only at snippet level and is not claimed in this profile."
   - "The Oscars.org recap page for the 9th Governors Awards was rate-limited during research; its facts are covered here by the Indian Express full read instead."
 related:
-  - label: "Ayla: The Daughter of War — Turkey's entry for Best Foreign Language Film at the 90th Academy Awards (not nominated)"
-    href: /creative-works/ayla-the-daughter-of-war/
   - label: "Los Angeles"
     href: "/places/los-angeles/"
   - label: "Academy Awards"

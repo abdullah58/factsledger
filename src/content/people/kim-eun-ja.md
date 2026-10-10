@@ -181,10 +181,6 @@ openItems:
     that identification rests on search-level checking only, not a source
     read in full.
 related:
-  - label: "Süleyman Dilbirliği"
-    href: /people/suleyman-dilbirligi/
-  - label: "Ayla: The Daughter of War"
-    href: /creative-works/ayla-the-daughter-of-war/
   - label: "Kim Seol"
     href: "/people/kim-seol/"
   - label: "South Korea"

@@ -96,8 +96,6 @@ openItems:
   - "Screen-credit totals are a moving target: ScreenRant reported 'over 700' in August 2023 with 91 projects then in production; figures vary by database and date, and no official counter exists."
   - "The often-repeated claim that Roberts is the only non-British actor to play the Master in Doctor Who was not re-verified from a full read; this profile states only that he played the Master in the Doctor Who TV movie."
 related:
-  - label: "Ayla: The Daughter of War"
-    href: /creative-works/ayla-the-daughter-of-war/
   - label: "Golden Globe Awards"
     href: /events/golden-globe-awards/
   - label: "Can Ülkay"
@@ -187,7 +185,7 @@ not an accident
 
 ## Ayla, the memoir, and the family reckoning
 
-In 2017 Roberts took a supporting role in [*Ayla: The Daughter of War*](/creative-works/ayla-the-daughter-of-war/),
+In 2017 Roberts took a supporting role in *Ayla: The Daughter of War*,
 directed by Can Ülkay — Turkey's submission for Best Foreign Language Film at
 the 90th Academy Awards
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
