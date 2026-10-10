@@ -25,6 +25,18 @@
   --flag-soft: #f3ebdf;
   --num: #b5ac9e;
 
+  /* Profile trust-blue system (global so article__support etc. resolve even
+     without a .profile-page ancestor) */
+  --profile-ink: #172132;
+  --profile-blue: #2557d6;
+  --profile-blue-dark: #163b9e;
+  --profile-teal: #0f7c83;
+  --profile-blue-soft: #eef4ff;
+  --profile-teal-soft: #e7f5f3;
+  --profile-amber: #d99a35;
+  --profile-paper: #fbfaf6;
+  --profile-cool-line: #d9dee7;
+
   --measure: 70ch;
   --radius: 2px;
 
