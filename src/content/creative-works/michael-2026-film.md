@@ -57,6 +57,10 @@ openItems:
 - Totals for Bohemian Rhapsody vary slightly by outlet (around $911 million per the Economic Times via Variety; $903.6 million per BroadwayWorld); the record itself — Michael overtaking it — is consistent across sources.
 - Reports that the planned sequel may address the abuse allegations cut from this film are attributed press speculation (Economic Times), not a confirmed plan.
 - This profile does not repeat the widely circulated claim of 116 million trailer views in 24 hours, which was found only in a single lower-tier outlet and could not be independently confirmed.
+related:
+  - label: "Michael Jackson"
+    href: /people/michael-jackson/
+
 sources:
 - title: "''Michael': Lionsgate's Antoine Fuqua-Directed Biopic Underwent $15M Reshoots, After Child Abuse Allegation Scenes In Third Act Were Cut [Report]"
   url: https://theplaylist.net/michael-lionsgates-antoine-fuqua-directed-biopic-underwent-15m-reshoots-after-child-abuse-allegation-scenes-in-third-act-were-cut-report-20260407/

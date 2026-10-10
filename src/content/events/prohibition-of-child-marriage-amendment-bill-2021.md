@@ -58,6 +58,12 @@ openItems:
     the bill lapsing with the 17th Lok Sabha's term; whether an equivalent
     bill was reintroduced in a later Lok Sabha was not confirmed in this
     research pass.
+related:
+  - label: "PRS Legislative Research"
+    href: /organizations/prs-legislative-research/
+  - label: "Lok Sabha"
+    href: /organizations/lok-sabha/
+
 sources:
   - title: "The Prohibition of Child Marriage (Amendment) Bill, 2021"
     url: https://prsindia.org/billtrack/prs-products/prs-bill-summary-3898
