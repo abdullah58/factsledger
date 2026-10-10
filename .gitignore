@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.astro/
+.wrangler/
+.DS_Store
+*.log
+.env
+.env.*
+# Hero thumbnails are downloaded at build time (scripts/fetch-hero-images.mjs),
+# never committed as binaries.
+public/img/heroes/
