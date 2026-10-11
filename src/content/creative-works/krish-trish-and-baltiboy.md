@@ -135,31 +135,31 @@ draft: false
 
 ## Overview
 
-"Krish, Trish and Baltiboy" is an Indian animated anthology produced by Mumbai-based studio
-Graphiti Multimedia, created by Munjal Shroff and Tilak Raj Shetty, running since 2009
+"Krish, Trish and Baltiboy" is an Indian animated anthology produced by [Mumbai](/places/mumbai/)-based studio
+[Graphiti Multimedia](/organizations/graphiti-multimedia/), created by [Munjal Shroff](/people/munjal-shroff/) and [Tilak Raj Shetty](/people/tilak-raj-shetty/), running since 2009
 ([Animation Vibes](https://animationvibes.com/krish-trish-and-baltiboy-full-case-study/)). The
 series uses three animated characters — Krish, Trish and Baltiboy — as narrators for stories
-drawn from Indian folk art and, in its later seasons, from India's freedom struggle. Its Season
+drawn from Indian folk art and, in its later seasons, from [India](/places/india/)'s freedom struggle. Its Season
 2, subtitled "Bharat Hain Hum," is a joint production between Graphiti Multimedia and the
-Central Bureau of Communication, a wing of India's Ministry of Information & Broadcasting,
+[Central Bureau of Communication](/organizations/central-bureau-of-communication/), a wing of India's [Ministry of Information & Broadcasting](/organizations/ministry-of-information-and-broadcasting/),
 dramatising lesser-known independence fighters across 52 episodes spanning both seasons
 ([PIB](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1966550&reg=48&lang=2)).
 
 ## Government co-production and Prime Ministerial recognition
 
-Union Minister for Information & Broadcasting Anurag Thakur launched the Season 2 trailer on 11
+Union Minister for Information & Broadcasting [Anurag Thakur](/people/anurag-thakur/) launched the Season 2 trailer on 11
 October 2023, confirming the ministry's Central Bureau of Communication as co-producer and
-describing the series' reach across Doordarshan, Netflix and Amazon Prime Video in 12 Indian
+describing the series' reach across [Doordarshan](/organizations/doordarshan/), Netflix and Amazon Prime Video in 12 Indian
 languages and 7 international languages
 ([PIB](https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1966550&reg=48&lang=2)). Season 2
-itself was formally launched at the International Film Festival of India in Goa on 23 November
+itself was formally launched at the [International Film Festival of India](/events/international-film-festival-of-india/) in [Goa](/places/goa/) on 23 November
 2024, with actor Nagarjuna at the event; that expanded season added coverage in additional
-languages and streamed on Prasar Bharati's Waves platform, featuring fighters including Wazir Ram
-Singh Pathania of Himachal Pradesh and Birsa Munda of Jharkhand
+languages and streamed on [Prasar Bharati](/organizations/prasar-bharati/)'s Waves platform, featuring fighters including [Wazir Ram
+Singh Pathania](/people/wazir-ram-singh-pathania/) of [Himachal Pradesh](/places/himachal-pradesh/) and [Birsa Munda](/people/birsa-munda/) of [Jharkhand](/places/jharkhand/)
 ([The Tribune](https://www.tribuneindia.com/news/entertainment/second-season-of-animated-series-krish-trish-and-baltiboy-bharat-hain-hum-launched-at-iffi/)).
 
-In the 117th episode of his monthly radio address "Mann Ki Baat," broadcast in December 2024,
-Prime Minister Narendra Modi named the series directly, saying "KTB is a superhit among" children
+In the 117th episode of his monthly radio address "[Mann Ki Baat](/creative-works/mann-ki-baat/)," broadcast in December 2024,
+Prime Minister [Narendra Modi](/people/narendra-modi/) named the series directly, saying "KTB is a superhit among" children
 and describing it as telling the stories of "men and women associated with the Indian freedom
 struggle who are not discussed much." He noted the show's reach across Indian and foreign
 languages and its Season 2 launch at IFFI Goa
@@ -169,7 +169,7 @@ languages and its Season 2 launch at IFFI Goa
 
 Before its government co-production, the series had already drawn international notice: in 2012,
 "Krish, Trish and Baltiboy 2" was nominated in the children's animation category at the 21st
-Cairo International Film Festival for Children. Speaking to AnimationXpress at the time,
+[Cairo International Film Festival for Children](/events/cairo-international-film-festival-for-children/). Speaking to AnimationXpress at the time,
 director Munjal Shroff said "KTB is an attempt to resurrect and nurture the dying folk art
 forms. Kids today are completely alienated from our vibrant visual culture," while co-director
 Tilak Shetty said, "We expect that we should win, obviously. But, more than that I am excited to
