@@ -198,7 +198,7 @@ lastUpdated: 2026-09-30
 
 ## Overview
 
-The White House is the official residence of the president of the United States — "the President's private home," in the words of the White House's own archived history — and the president's workplace, a complex that includes the West Wing offices. It stands at 1600 Pennsylvania Avenue in Washington, D.C., a site chosen by George Washington together with city planner Pierre L'Enfant, and has been a symbol of the presidency for more than two centuries ([Bush White House archive](http://georgewbush-whitehouse.archives.gov/history/facts.html)).
+The [White House](/places/white-house/) is the official residence of the president of the United States — "the President's private home," in the words of the White House's own archived history — and the president's workplace, a complex that includes the West Wing offices. It stands at 1600 Pennsylvania Avenue in Washington, D.C., a site chosen by George Washington together with city planner Pierre L'Enfant, and has been a symbol of the presidency for more than two centuries ([Bush White House archive](http://georgewbush-whitehouse.archives.gov/history/facts.html)).
 
 ## Building a presidency's home
 

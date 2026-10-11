@@ -94,7 +94,7 @@ The founding insight, as Uretsky told TechCrunch in 2013, was that "getting star
 
 The growth was almost entirely word-of-mouth. The Economic Times wrote in early 2014 that in two years DigitalOcean had become the ninth-largest cloud infrastructure company in the world, with 150,000 customers and a new Amsterdam data center — and quoted Ben Uretsky describing how the team learned that Beyoncé's developers had picked DigitalOcean to host her website only when traffic went wild the day she surprise-released her album in December 2013 ([The Economic Times](https://economictimes.indiatimes.com/magazines/panache/how-a-new-start-up-digitalocean-poses-threat-to-amazon/articleshow/34103009.cms)). In 2013, by Uretsky's own telling to TechCrunch, the company was already profitable, with its scale letting it negotiate bulk hardware and bandwidth deals ([TechCrunch](https://techcrunch.com/?p=839032)).
 
-## "Not scared of Amazon, Google, and Microsoft"
+## "Not scared of Amazon, [Google](/organizations/google/), and Microsoft"
 
 VentureBeat's 2014 headline put the positioning bluntly: the fast-growing cloud provider might not have "hundreds of thousands of servers — the way Amazon, Google, and Microsoft do — to run its high-profile public clouds," but it was refusing to play their game ([VentureBeat](https://venturebeat.com/dev/digitalocean)). "These providers focus on the technical features, and what we focus on is — this is why we're highly differentiated — is we're focused on people, and in this specific case, we're focused on developers," Uretsky told VentureBeat. "We are a product-driven company, whereas these other businesses are more technically driven, I guess."
 

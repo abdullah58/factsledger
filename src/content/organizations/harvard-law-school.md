@@ -146,7 +146,7 @@ The school's second founding idea arrived half a century later. Dean Christopher
 
 ## The method's rough reception
 
-Langdell's innovations were not welcomed at the time. His methods were so shocking to the reigning lecture model that there was an exodus of students from Harvard, many fleeing to the newly founded Boston University Law School ([Harvard Law School](http://hls.harvard.edu/today/talking-about-a-revolution/)). And Langdell's vaunted meritocracy had sharp limits: he was vigorously opposed to the admission of women, and women started applying in the 1870s, 1890s, and 1910s without success — what the school's historian calls "gender apartheid" held until 1950, when women were finally admitted ([Harvard Law School](http://hls.harvard.edu/today/talking-about-a-revolution/)).
+Langdell's innovations were not welcomed at the time. His methods were so shocking to the reigning lecture model that there was an exodus of students from Harvard, many fleeing to the newly founded [Boston University](/universities/boston-university/) Law School ([Harvard Law School](http://hls.harvard.edu/today/talking-about-a-revolution/)). And Langdell's vaunted meritocracy had sharp limits: he was vigorously opposed to the admission of women, and women started applying in the 1870s, 1890s, and 1910s without success — what the school's historian calls "gender apartheid" held until 1950, when women were finally admitted ([Harvard Law School](http://hls.harvard.edu/today/talking-about-a-revolution/)).
 
 ## Entangled with the nation's divides
 

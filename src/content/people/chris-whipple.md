@@ -97,7 +97,7 @@ Appearing on NPR after publication, Whipple confirmed the exchange was entirely 
 
 The White House pushed back through spokeswoman Lauren Bis, who said Trump had been "totally exonerated on anything relating to Epstein" and credited him with releasing thousands of pages of documents, cooperating with a House Oversight Committee subpoena, and signing the transparency act. [4] The context is a real legislative arc: Trump had said in a June 2024 Fox News interview that he would likely declassify the files, then reversed course before signing the Epstein Files Transparency Act on November 19, 2025; a major Justice Department release followed on January 30, 2026, though millions of records remained unsealed or heavily redacted. [4] The trove names Trump thousands of times, but no criminal wrongdoing has been alleged against him in connection with Epstein. [4]
 
-The Carlson–Trump rupture kept widening. On September 24, 2026, Carlson told NPR's Steve Inskeep that Trump should be removed from office under the 25th Amendment over his threats of nuclear war against Iran, calling him "flamboyantly corrupt." [4]
+The Carlson–Trump rupture kept widening. On September 24, 2026, Carlson told NPR's [Steve Inskeep](/people/steve-inskeep/) that Trump should be removed from office under the 25th Amendment over his threats of nuclear war against Iran, calling him "flamboyantly corrupt." [4]
 
 ## From *60 Minutes* to the Gatekeepers
 

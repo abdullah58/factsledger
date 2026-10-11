@@ -74,7 +74,7 @@ draft: false
 
 ## Overview
 
-The Gaza Strip is a narrow coastal enclave — about 25 miles long and 7 miles wide, holding roughly 2.3 million people in some 360 square kilometers, a density of about 5,500 people per square kilometer that Arab News compares to London's [Arab News](https://www.arabnews.com/middle-east/the-gaza-strip-tiny-cramped-and-as-densely-populated-as-london-2420961). What the density figures don't capture is what happened to its economy: after Israel and Egypt sealed the territory in 2007, Gaza's trade went literally underground, through a network of smuggling tunnels into Egypt that briefly boomed, then was blown up. This profile starts from that under-reported arc — the economy that tunneled beneath the blockade — before the seventy years of changing rulers that produced it.
+The Gaza Strip is a narrow coastal enclave — about 25 miles long and 7 miles wide, holding roughly 2.3 million people in some 360 square kilometers, a density of about 5,500 people per square kilometer that Arab News compares to London's [Arab News](https://www.arabnews.com/middle-east/the-gaza-strip-tiny-cramped-and-as-densely-populated-as-london-2420961). What the density figures don't capture is what happened to its economy: after [Israel](/places/israel/) and Egypt sealed the territory in 2007, Gaza's trade went literally underground, through a network of smuggling tunnels into Egypt that briefly boomed, then was blown up. This profile starts from that under-reported arc — the economy that tunneled beneath the blockade — before the seventy years of changing rulers that produced it.
 
 ## An economy that went underground
 

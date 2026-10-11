@@ -128,7 +128,7 @@ draft: false
 
 Sathupati Prasanna Sree is a linguist and professor of English who, in February 2025, became
 Vice-Chancellor of [Adikavi Nannaya University](/universities/adikavi-nannaya-university/) in
-Rajamahendravaram, Andhra Pradesh, moving from a professorship in the English department at Andhra
+Rajamahendravaram, [Andhra Pradesh](/places/andhra-pradesh/), moving from a professorship in the English department at Andhra
 University in Visakhapatnam ([The Hans India](https://www.thehansindia.com/andhra-pradesh/prof-prasanna-sree-appointed-as-vice-chancellor-of-aknu-947039);
 [Deccan Chronicle](https://www.deccanchronicle.com/southern-states/andhra-pradesh/new-vcs-named-for-9-ap-universities-1862038)).
 The Week, reporting on her appointment, described her as the first tribal woman to hold a

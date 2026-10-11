@@ -265,7 +265,7 @@ This profile does not claim an exact month for her 2024 promotion to managing ed
 her biography page says March 2024 while the paper's own announcement is dated April 4,
 2024, so the profile states "spring 2024." It does not pin an end year to her WBAI FM
 New York run, because her résumé lists 2018-2024 while her biography page says
-2018-2025. It does not repeat the earlier Columbia Journalism Review framing of the
+2018-2025. It does not repeat the earlier [Columbia Journalism Review](/organizations/columbia-journalism-review/) framing of the
 Newsweek firings, since that CJR page now returns a 404 and could not be re-verified
 this pass; the firing account rests on the New York Times and Adweek reporting instead.
 Her Nieman Reports extremism piece is a verified 2022 Mirror Award finalist, not a

@@ -94,4 +94,4 @@ This profile does not state Mamdani's exact date of birth — widely repeated on
 
 [^1]: Adriana Gallardo, "Mahmood Mamdani on how Uganda's history shaped his belonging — and his son's moment," NPR (via WEXT Radio), Dec 16, 2025.
 [^2]: "Mahmood Mamdani," Columbia University MESAAS faculty directory.
-[^3]: "Meet Zohran Mamdani's family: Scholar father Mahmood Mamdani, filmmaker mother Mira Nair, and artist wife Rama Duwaji," livemint (HT Media), Nov 4, 2025.
+[^3]: "Meet Zohran Mamdani's family: Scholar father Mahmood Mamdani, filmmaker mother Mira Nair, and artist wife [Rama Duwaji](/people/rama-duwaji/)," livemint (HT Media), Nov 4, 2025.

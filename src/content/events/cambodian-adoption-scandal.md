@@ -184,7 +184,7 @@ draft: false
 
 ## Overview
 
-Between 1997 and 2001, American adoption facilitator [Lauryn Galindo](/people/lauryn-galindo/) and her sister [Lynn Devin](/people/lynn-devin/), who ran the agency Seattle International Adoptions, arranged roughly 700 to 800 adoptions of Cambodian children by U.S. families — reportedly about half of all adoptions between the two countries during that period ([Vice](https://www.vice.com/en/article/cambodian-adoption-fraud-united-states/); [ABC News](https://abcnews.go.com/2020/International/story?id=611826&page=1)). Many of the children placed for adoption were presented to U.S. families as orphans when they in fact had living relatives; the scheme involved falsified birth documents, forged medical records and fraudulent visa applications.
+Between 1997 and 2001, American adoption facilitator [Lauryn Galindo](/people/lauryn-galindo/) and her sister [Lynn Devin](/people/lynn-devin/), who ran the agency [Seattle International Adoptions](/organizations/seattle-international-adoptions/), arranged roughly 700 to 800 adoptions of Cambodian children by U.S. families — reportedly about half of all adoptions between the two countries during that period ([Vice](https://www.vice.com/en/article/cambodian-adoption-fraud-united-states/); [ABC News](https://abcnews.go.com/2020/International/story?id=611826&page=1)). Many of the children placed for adoption were presented to U.S. families as orphans when they in fact had living relatives; the scheme involved falsified birth documents, forged medical records and fraudulent visa applications.
 
 ## Investigation and legal outcome
 

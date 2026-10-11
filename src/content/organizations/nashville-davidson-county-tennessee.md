@@ -61,7 +61,7 @@ The Metropolitan Nashville-Davidson County government was organized in 1963, and
 
 ## The counterterrorism-grant lawsuit
 
-The suit was *Metropolitan Government of Nashville and Davidson County, Tennessee, et al. v. U.S. Department of Homeland Security, et al.*, filed in the U.S. District Court for the District of Columbia and heard by Judge Amir H. Ali ([Democracy Docket](https://www.democracydocket.com/cases/fema-national-security-grant-conditional-funding-challenge/)). The complaint was filed on August 17, 2026 ([Democracy Docket](https://www.democracydocket.com/cases/fema-national-security-grant-conditional-funding-challenge/)).
+The suit was *Metropolitan Government of Nashville and Davidson County, Tennessee, et al. v. [U.S. Department of Homeland Security](/organizations/us-department-of-homeland-security/), et al.*, filed in the U.S. District Court for the District of Columbia and heard by Judge Amir H. Ali ([Democracy Docket](https://www.democracydocket.com/cases/fema-national-security-grant-conditional-funding-challenge/)). The complaint was filed on August 17, 2026 ([Democracy Docket](https://www.democracydocket.com/cases/fema-national-security-grant-conditional-funding-challenge/)).
 
 The original plaintiffs were Nashville and Davidson County, Tennessee; Harris County and El Paso County, Texas; and Columbus, Ohio — joined later by Dallas County and Travis County, Texas ([Associated Press (via 990theanswer)](https://990theanswer.com/news/national/trump-cant-force-election-changes-by-blocking-counterterrorism-funds-to-states-j/ede327cf2d9d71869dd82cc9536b4a4c)).
 

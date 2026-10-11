@@ -105,7 +105,7 @@ Most judicial biographies of Raymond C. Fisher open with the Ninth Circuit. But 
 
 Ali's description of his mentor is revealing. Fisher was "a measured judge who deeply appreciated the serious impact that the law has on real lives" — and his lesson on advocacy was about temperament: persuasion came from preparedness, not from being the loudest voice in the room. "I carry that lesson with me every day," Ali said ([Bloomberg Law](https://news.bloomberglaw.com/business-and-practice/theyve-got-next-the-40-under-40-amir-ali-of-macarthur-justice-center)).
 
-That mentorship did not happen by accident. It was the way Fisher ran his chambers, his commissions, and his courtroom: through careful relationship-building across the legal community of Los Angeles.
+That mentorship did not happen by accident. It was the way Fisher ran his chambers, his commissions, and his courtroom: through careful relationship-building across the legal community of [Los Angeles](/places/los-angeles/).
 
 ## The man who reformed the LAPD
 

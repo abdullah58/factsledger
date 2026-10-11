@@ -190,7 +190,7 @@ lastUpdated: 2026-10-11
 draft: false
 ---
 
-**Wazir Ram Singh Pathania (1824–1849)** was the minister — not the king — of the hill state of Nurpur who led an armed uprising against the British in 1848, was captured unarmed at his daily worship, and died in exile in Rangoon on 11 November 1849 ([The Tribune](https://www.tribuneindia.com/news/himachal/governor-unveils-statue-of-wazir-ram-singh/); [Himachal Pradesh Government](http://himachalpr.gov.in/%28S%2830zwyj5jvbhngd5hlhvwmkny%29%29/OnePressRelease.aspx?Language=1&ID=36255)). His story, long kept alive in Himachali folk song, reached a new generation when *Krish, Trish and Baltiboy* dramatised him in its Season 2, "Bharat Hain Hum" ([The Tribune](https://www.tribuneindia.com/news/entertainment/second-season-of-animated-series-krish-trish-and-baltiboy-bharat-hain-hum-launched-at-iffi/)).
+**Wazir Ram Singh Pathania (1824–1849)** was the minister — not the king — of the hill state of Nurpur who led an armed uprising against the British in 1848, was captured unarmed at his daily worship, and died in exile in Rangoon on 11 November 1849 ([The Tribune](https://www.tribuneindia.com/news/himachal/governor-unveils-statue-of-wazir-ram-singh/); [[Himachal Pradesh](/places/himachal-pradesh/) Government](http://himachalpr.gov.in/%28S%2830zwyj5jvbhngd5hlhvwmkny%29%29/OnePressRelease.aspx?Language=1&ID=36255)). His story, long kept alive in Himachali folk song, reached a new generation when *Krish, Trish and Baltiboy* dramatised him in its Season 2, "Bharat Hain Hum" ([The Tribune](https://www.tribuneindia.com/news/entertainment/second-season-of-animated-series-krish-trish-and-baltiboy-bharat-hain-hum-launched-at-iffi/)).
 
 ## A minister's son and the annexation of Nurpur
 

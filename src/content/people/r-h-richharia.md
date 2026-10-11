@@ -109,7 +109,7 @@ Institute (CRRI) at Cuttack, Odisha, from 1959 to 1966, and whose research on cl
 seedlings — showing yield increases of 17% to 61% over conventional transplanting — was published in the
 journal *Nature* in May 1962
 ([The Wire](https://m.thewire.in/article/agriculture/r-h-richharia-is-the-unsung-hero-of-indian-agriculture)).
-Born in 1909 in Nandanvara village, Hoshangabad district, [Madhya Pradesh](https://factsledger.com/places/madhya-pradesh), he held an M.Sc. in Botany from
+Born in 1909 in Nandanvara village, Hoshangabad district, [[Madhya Pradesh](/places/madhya-pradesh/)](https://factsledger.com/places/madhya-pradesh), he held an M.Sc. in Botany from
 Nagpur and completed a Ph.D. at Cambridge University under Professor P. S. Hudson
 ([The Wire](https://m.thewire.in/article/agriculture/r-h-richharia-is-the-unsung-hero-of-indian-agriculture);
 [Countercurrents](https://countercurrents.org/2021/02/top-rice-scientist-dr-richharia-who-sacrificed-much-to-protect-interests-of-farmers/)).

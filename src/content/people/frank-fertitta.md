@@ -118,7 +118,7 @@ He was born in 1962; Red Rock Resorts' April 2026 proxy statement lists him at a
 
 ## The $70 million anniversary gift
 
-On September 9, 2026, Frank and Lorenzo Fertitta stood before a surprised gathering of employees at the Red Rock Casino Resort & Spa and announced one of the largest employee stock awards in Las Vegas history: more than $70 million worth of Red Rock Resorts Class A stock to nearly 10,000 team members across Station Casinos, as part of the company's 50th anniversary celebration. ([InterGame](https://www.intergameonline.com/land-based-gaming/news/station-casinos-employees-awarded-70m-in-stock))
+On September 9, 2026, Frank and [Lorenzo Fertitta](/people/lorenzo-fertitta/) stood before a surprised gathering of employees at the Red Rock Casino Resort & Spa and announced one of the largest employee stock awards in Las Vegas history: more than $70 million worth of Red Rock Resorts Class A stock to nearly 10,000 team members across Station Casinos, as part of the company's 50th anniversary celebration. ([InterGame](https://www.intergameonline.com/land-based-gaming/news/station-casinos-employees-awarded-70m-in-stock))
 
 The formula was deliberately simple and tenure-based. Team members employed as of September 9 received $1,000 in Red Rock Resorts Class A stock for every year of service. ([InterGame](https://www.intergameonline.com/land-based-gaming/news/station-casinos-employees-awarded-70m-in-stock)) Seven employees who have been with Station Casinos since the 1970s were set to receive more than $45,000 each in equity. ([InterGame](https://www.intergameonline.com/land-based-gaming/news/station-casinos-employees-awarded-70m-in-stock))
 

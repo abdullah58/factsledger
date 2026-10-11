@@ -275,7 +275,7 @@ public, leading to their emotional reunion
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 That broadcast was the seed of [Ayla: The Daughter of War](/creative-works/ayla-the-daughter-of-war/)
 (2017), directed by Can Ülkay and submitted as Turkey's foreign-language Oscar
-nominee, with Turkish Airlines as main sponsor and the Culture and Tourism
+nominee, with [Turkish Airlines](/organizations/turkish-airlines/) as main sponsor and the Culture and Tourism
 Ministry as main supporter of its campaign
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 

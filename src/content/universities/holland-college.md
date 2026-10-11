@@ -117,7 +117,7 @@ the Engage PEI process
 
 ## Scale
 
-[Colleges and Institutes Canada](https://factsledger.com/organizations/colleges-and-institutes-canada), the national association of publicly supported colleges, records the college as
+[[Colleges and Institutes Canada](/organizations/colleges-and-institutes-canada/)](https://factsledger.com/organizations/colleges-and-institutes-canada), the national association of publicly supported colleges, records the college as
 having 2,600 students, of whom 499 are international, 241 apprentices and 83 Indigenous learners, across 13
 campuses and centres. It lists the college as a signatory to the Indigenous Education Protocol
 ([CICan](https://www.collegesinstitutes.ca/members/holland-college/)).

@@ -278,7 +278,7 @@ Oscar; İsmail Hacıoğlu and Çetin Tekindor played the young and elderly Dilbi
 while Kim Seol and Lee Kyung-Jin played the young and adult Ayla
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 The publicity campaign drew on support from Turkish Airlines and Turkey's Culture
-and Tourism Ministry — though not without friction: screenwriter Yiğit Güralp
+and Tourism Ministry — though not without friction: screenwriter [Yiğit Güralp](/people/yigit-guralp/)
 publicly accused the production team of freezing him out of the process
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 

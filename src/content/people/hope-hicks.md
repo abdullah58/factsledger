@@ -159,7 +159,7 @@ She landed at the Murdochs'. On October 9, 2018, she was named executive vice
 president and chief communications officer of the new, slimmed-down Fox Corp —
 the entity formed from what remained after Disney bought most of 21st Century
 Fox — a move NPR's David Folkenflik called a marker of "the close ties
-between the Trump White House, the Murdochs and Fox News." The same report
+between the Trump White House, the Murdochs and [Fox News](/organizations/fox-news/)." The same report
 carries the detail that locks in her successor:
 [Bill Shine](/people/bill-shine/), the former Fox News co-president, was by
 then "communications director for the White House"

@@ -233,7 +233,7 @@ Academic criticism places Chan within Hamid Naficy's "accented cinema" — a fil
 diaspora that blends melodrama, minor cinema, documentary and fiction to navigate post-socialism,
 post-colonialism and diaspora — and credits him with demanding "critical border thinking" beyond traditional
 film-studies categories ([Jump Cut](https://www.ejumpcut.org/archive/jc57.2016/-SzetoEvansChan/index.html)).
-In a comprehensive interview with the anthology's editor, Chan named Jean-Luc Godard and Susan Sontag among the
+In a comprehensive interview with the anthology's editor, Chan named [Jean-Luc Godard](/people/jean-luc-godard/) and Susan Sontag among the
 filmmakers and intellectuals who influenced him, and noted his frequent collaborations with actress Lindzay Chan
 ([Jump Cut](https://www.ejumpcut.org/archive/jc57.2016/-SzetoEvansChan/index.html)). "Chan has made a singular
 contribution to Hong Kong cinema and at the same time a major contribution to the whole spectrum of contemporary

@@ -96,7 +96,7 @@ Students already enrolled as of September 19, 2023, would be able to complete th
 
 ## Notable people
 
-The best-known popular-culture connection is television producer [Chuck Lorre](/people/chuck-lorre/), who attended the State University of New York at Potsdam for two years before dropping out to pursue his first artistic passion, music ([Britannica](https://www.britannica.com/biography/Chuck-Lorre)). Lorre's father, Robert Levine, ran a luncheonette on Long Island ([Britannica](https://www.britannica.com/biography/Chuck-Lorre)).
+The best-known popular-culture connection is television producer [Chuck Lorre](/people/chuck-lorre/), who attended the State University of New York at Potsdam for two years before dropping out to pursue his first artistic passion, music ([Britannica](https://www.britannica.com/biography/Chuck-Lorre)). Lorre's father, [Robert Levine](/people/robert-levine/), ran a luncheonette on Long Island ([Britannica](https://www.britannica.com/biography/Chuck-Lorre)).
 
 ## What this profile does not claim
 

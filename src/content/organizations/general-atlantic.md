@@ -88,7 +88,7 @@ General Atlantic's reach extends into the asset-management world it once only in
 
 ## What this profile does not claim
 
-- Portfolio holdings beyond the named companies (Shein, PhonePe, Mobileye, as reported by Reuters in 2024) are not verified in the sources read [^3^].
+- Portfolio holdings beyond the named companies (Shein, PhonePe, Mobileye, as reported by [Reuters](/organizations/reuters/) in 2024) are not verified in the sources read [^3^].
 - The IPO plan's timing, size, and terms are unconfirmed; the firm has declined to comment [^1^].
 - AUM figures are point-in-time and source-attributed (~$96B combined at the Actis announcement in January 2024; ~$129B in September 2026), not a single asserted number [^1^][^2^].
 

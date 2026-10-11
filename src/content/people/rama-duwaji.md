@@ -98,7 +98,7 @@ She spent the pandemic with her family in Dubai and had wanted to move to New Yo
 
 ## The Mamdani chapter
 
-Duwaji and [Zohran Mamdani](/people/zohran-mamdani/) met on the dating app Hinge in 2021, when he had recently been elected to the New York State Assembly — something she knew little about. Their first date was at Qahwah House, a Yemeni coffee shop in Brooklyn, followed by a walk in McCarren Park; on the second, he gave her a tour of his Astoria legislative district. ([CNN](https://www.cnn.com/2025/11/02/politics/rama-duwaji-mamdani-wife-nyc-election?cid=external-feeds_iluminar_meta))
+Duwaji and [Zohran Mamdani](/people/zohran-mamdani/) met on the dating app Hinge in 2021, when he had recently been elected to the [New York State Assembly](/organizations/new-york-state-assembly/) — something she knew little about. Their first date was at Qahwah House, a Yemeni coffee shop in Brooklyn, followed by a walk in McCarren Park; on the second, he gave her a tour of his Astoria legislative district. ([CNN](https://www.cnn.com/2025/11/02/politics/rama-duwaji-mamdani-wife-nyc-election?cid=external-feeds_iluminar_meta))
 
 They became engaged in October 2024, celebrated in Dubai that December, and married in a courthouse ceremony at the city clerk's office in Lower Manhattan in February 2025 — posing for photos on the marriage bureau's green couches against a City Hall backdrop. Arabian Business notes a further celebration in Uganda, Mamdani's birthplace. ([CNN](https://www.cnn.com/2025/11/02/politics/rama-duwaji-mamdani-wife-nyc-election?cid=external-feeds_iluminar_meta); [Arabian Business](https://www.arabianbusiness.com/politics-economics/who-is-rama-duwaji-dubai-raised-wife-of-new-york-citys-first-muslim-mayor-zohran-mamdani))
 

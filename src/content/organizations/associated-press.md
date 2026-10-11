@@ -162,7 +162,7 @@ lastUpdated: 2026-10-02
 
 The Associated Press is the wire service most of the world's news quietly runs on — and, as of 2025–2026, a litigant against the government it covers. It is a not-for-profit news cooperative owned by its U.S. newspaper and broadcast members: "No one owns AP," its leadership puts it — it is neither part of a corporation nor funded by any government, and any revenue it generates must be reinvested in the newsgathering operation ([The Associated Press](https://www.ap.org/the-definitive-source/behind-the-news/what-is-ap-ceo-explains-in-op-ed/)). Four billion people see AP journalism every day, produced by journalists in 230 locations across nearly 100 countries and all 50 U.S. states, at a daily clip of about 2,000 text stories, 3,000 photos and 200 news videos ([The Associated Press](https://www.ap.org/about/); [The Associated Press](https://www.ap.org/the-definitive-source/behind-the-news/what-is-ap-ceo-explains-in-op-ed/)). Its journalists' work has won 60 Pulitzer Prizes, including 36 for photography ([The Associated Press](https://www.ap.org/about/)).
 
-## The wire service that sues the White House
+## The wire service that sues the [White House](/places/white-house/)
 
 The AP's defining institutional habit in the Trump era has been to fight access restrictions in court — a practice its own leadership describes as mission, not aberration: "We believe in fighting for access on behalf of the public," participating every year "in dozens of legal actions, all focused on protecting free expression" ([The Associated Press](https://www.ap.org/the-definitive-source/behind-the-news/what-is-ap-ceo-explains-in-op-ed/)).
 

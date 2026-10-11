@@ -91,7 +91,7 @@ draft: false
 AS Valentigney is a French amateur football club founded in 1920 in Valentigney, a Doubs factory town built around
 the Peugeot automobile works, and drawn largely from Peugeot's own workforce
 ([Le Footichiste](https://www.footichiste.com/sochaux-peugeot/)). The club's defining moment came in 1926, when it
-reached the final of the [Coupe de France](https://factsledger.com/events/coupe-de-france) — France's national cup — before losing 4–1 to Olympique de Marseille, a
+reached the final of the [[Coupe de France](/events/coupe-de-france/)](https://factsledger.com/events/coupe-de-france) — France's national cup — before losing 4–1 to Olympique de Marseille, a
 result confirmed by the French Football Federation's own archive of the match
 ([FFF TV](https://ffftv.fff.fr/video/6178691048001/finale-1926-olympique-de-marseille-as-valentigney-4-1)).
 

@@ -173,7 +173,7 @@ In October 2012 Raddatz moderated the only vice presidential debate between Cong
 
 For that debate she received the Walter Cronkite Award for excellence in political journalism with a special commendation for debate moderation. During the 2016 election she co-moderated the Democratic and Republican primary presidential debates on ABC and a general-election presidential debate between Hillary Clinton and Donald Trump. ([National Press Club](https://www.press.org/events/2026-fourth-estate-award-gala-honoring-martha-raddatz-abc-news))
 
-## Ukraine, Russia, and the 2025–26 interview run
+## [Ukraine](/places/ukraine/), Russia, and the 2025–26 interview run
 
 Raddatz was present in Ukraine at the time of Russia's invasion and continues to make repeated trips. She has interviewed Ukrainian President Volodymyr Zelenskyy in Kyiv one-on-one three times — in July 2023, June 2025, and September 2025. She anchored "This Week" from Israel while reporting on the Israel-Hamas war, speaking with White House national security adviser Jake Sullivan and Israeli Lt. Col. Jonathan Conricus, and she was in Israel in the days following the October 7 Hamas attack. In May 2025 she interviewed Kremlin press secretary Dmitry Peskov about the state of peace talks with Ukraine. She also reported from the U.S. Capitol during the January 6, 2021 attack. ([National Press Club](https://www.press.org/events/2026-fourth-estate-award-gala-honoring-martha-raddatz-abc-news))
 

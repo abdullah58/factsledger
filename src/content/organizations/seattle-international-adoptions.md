@@ -129,7 +129,7 @@ draft: false
 
 ## Overview
 
-Seattle International Adoptions was a Seattle-based adoption agency that served as the U.S. processing arm for a Cambodia-to-United-States adoption pipeline run jointly by [Lynn Devin](/people/lynn-devin/) and her sister, Lauryn Galindo. While Galindo worked in Cambodia arranging placements, Devin ran the agency's U.S. side, screening American families and processing their applications. The two sisters together facilitated the adoption of roughly 700 to 800 Cambodian children by American families between 1997 and 2001 ([Vice](https://www.vice.com/en/article/cambodian-adoption-fraud-united-states/)). Both were later prosecuted on federal fraud charges tied to the agency's operations, and agreed to forfeit its profits.
+Seattle International Adoptions was a Seattle-based adoption agency that served as the U.S. processing arm for a Cambodia-to-United-States adoption pipeline run jointly by [Lynn Devin](/people/lynn-devin/) and her sister, [Lauryn Galindo](/people/lauryn-galindo/). While Galindo worked in Cambodia arranging placements, Devin ran the agency's U.S. side, screening American families and processing their applications. The two sisters together facilitated the adoption of roughly 700 to 800 Cambodian children by American families between 1997 and 2001 ([Vice](https://www.vice.com/en/article/cambodian-adoption-fraud-united-states/)). Both were later prosecuted on federal fraud charges tied to the agency's operations, and agreed to forfeit its profits.
 
 ## Business model and role in the adoption pipeline
 

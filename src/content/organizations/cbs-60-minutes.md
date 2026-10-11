@@ -131,4 +131,4 @@ The settlement landed in a newsroom already in turmoil. 60 Minutes chief Bill Ow
 - It does not assert that the Binance pardon involved a conflict of interest as a fact; it reports only that O'Donnell asked about its appearance and that the exchange was cut from both video versions.
 - It states the pardon happened in October 2025, the only dating a fully-read source supports; the exact date was not verified.
 - It makes no claim about Bari Weiss's role in the specific edit decisions — only that she is CBS News' editor-in-chief.
-- A companion profile, 60 Minutes (CBS News), covers the same program through a different lens: the October 2025 interview with Steve Witkoff and Jared Kushner about the Hamas meeting and the Gaza ceasefire.
+- A companion profile, [60 Minutes (CBS News)](/organizations/cbs-news-60-minutes/), covers the same program through a different lens: the October 2025 interview with Steve Witkoff and Jared Kushner about the Hamas meeting and the Gaza ceasefire.

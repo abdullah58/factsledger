@@ -130,7 +130,7 @@ lastUpdated: 2026-10-10
 draft: false
 ---
 
-Lee Kyung-jin is a South Korean actress whose fifty-year career runs from 1980s "national little sister" TV stardom through a breast-cancer battle that dropped her to 38 kilograms, to a late international turn: at 61 she played the adult Ayla — the grown-up Kim Eun-ja — in Turkey's 2017 Oscar entry *Ayla: The Daughter of War* ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
+Lee Kyung-jin is a South Korean actress whose fifty-year career runs from 1980s "national little sister" TV stardom through a breast-cancer battle that dropped her to 38 kilograms, to a late international turn: at 61 she played the adult Ayla — the grown-up Kim Eun-ja — in Turkey's 2017 Oscar entry *[Ayla: The Daughter of War](/creative-works/ayla-the-daughter-of-war/)* ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 
 ## Overview
 

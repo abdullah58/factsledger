@@ -205,7 +205,7 @@ Tilly as Ray's ex-wife Ginger ([Slant Magazine](https://www.slantmagazine.com/fi
 Cade Carradine's other anchor credit sits inside Turkey's state-backed Oscar
 campaign. *Ayla: The Daughter of War*, directed by Can Ülkay from a screenplay
 by Yiğit Güralp, dramatizes the true story of Turkish sergeant Süleyman
-Dilbirliği and the Korean War orphan he named Ayla — with İsmail Hacıoğlu and
+Dilbirliği and the Korean War orphan he named Ayla — with [İsmail Hacıoğlu](/people/ismail-hacioglu/) and
 Çetin Tekindor as the young and elderly Dilbirliği, and Korean actresses Kim
 Seol and Lee Kyung-jin as the young and adult Ayla
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).

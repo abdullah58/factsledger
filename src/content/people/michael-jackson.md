@@ -88,7 +88,7 @@ draft: false
 
 ## Overview
 
-Every biography of Michael Jackson ends with his death on June 25, 2009. That is
+Every biography of [Michael](/creative-works/michael-2026-film/) Jackson ends with his death on June 25, 2009. That is
 exactly what makes the standard biographies incomplete. Jackson died with
 enormous financial debts, and then something happened that no obituary
 anticipated: the estate run by the two men named in his will — attorney John

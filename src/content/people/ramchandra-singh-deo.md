@@ -107,7 +107,7 @@ Pradesh, including as its Water Resources Minister
 Contemporary reporting described him as an expert on water resources and environmental issues who was
 instrumental in building several irrigation projects
 ([The Tribune](https://www.tribuneindia.com/news/archive/nation/news-detail-623671)).
-When Chhattisgarh was carved out of [Madhya Pradesh](https://factsledger.com/places/madhya-pradesh) as a separate state in November 2000, Chief Minister
+When Chhattisgarh was carved out of [[Madhya Pradesh](/places/madhya-pradesh/)](https://factsledger.com/places/madhya-pradesh) as a separate state in November 2000, Chief Minister
 Ajit Jogi appointed him to the finance portfolio, making him Chhattisgarh's first finance minister
 ([Scroll.in](https://scroll.in/latest/887297/ramchandra-singh-deo-the-first-finance-minister-of-chhattisgarh-dies-at-88);
 [Business Standard/PTI](https://www.business-standard.com/article/pti-stories/veteran-congress-leader-ramchandra-singhdeo-dead-118072000848_1.html)).

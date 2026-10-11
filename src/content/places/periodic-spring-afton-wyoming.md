@@ -196,7 +196,7 @@ draft: false
 Periodic Spring — also widely called the Intermittent Spring — is a rhythmic spring in Swift Creek Canyon,
 roughly four to five miles east of Afton, Wyoming, in Star Valley
 ([Cowboy State Daily](https://cowboystatedaily.com/2024/05/04/why-the-heck-does-wyomings-rare-periodic-spring-turn-itself-on-and-off/);
-[Wyoming Water Research Center](http://library.wrds.uwyo.edu/RB/RB91-01.html)). It is reported to be the
+[[Wyoming Water Research Center](/organizations/wyoming-water-research-center/)](http://library.wrds.uwyo.edu/RB/RB91-01.html)). It is reported to be the
 world's largest known spring of its kind — a cold-water spring whose discharge switches on and off at
 fairly regular intervals rather than flowing steadily
 ([Cowboy State Daily](https://cowboystatedaily.com/2024/05/04/why-the-heck-does-wyomings-rare-periodic-spring-turn-itself-on-and-off/)).

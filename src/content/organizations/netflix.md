@@ -137,7 +137,7 @@ The leadership update arrived alongside stronger-than-expected first-quarter 202
 
 The company is also pushing into new territory. It is expanding its use of generative AI tools after acquiring InterPositive, redesigning its mobile interface with vertical video, and broadening beyond film and TV into video podcasts, gaming and live programming — its first regional live event, the World Baseball Classic, drew record viewership in Japan, while a BTS event attracted millions globally ([Marketing-Interactive](https://www.marketing-interactive.com/netflix-chairman-to-step-down-as-streamer-posts-strong-q1-results)). Even so, Netflix says it accounts for only about 5% of global TV view share — which it reads as room to grow against rivals spanning Amazon, Apple and TikTok ([Marketing-Interactive](https://www.marketing-interactive.com/netflix-chairman-to-step-down-as-streamer-posts-strong-q1-results)).
 
-## The Warner Bros. Discovery bidding war
+## The [Warner Bros.](/organizations/warner-bros/) Discovery bidding war
 
 The contest began in the autumn of 2025, when Warner Bros. Discovery said it was exploring a sale after receiving unsolicited interest from several major players ([TechCrunch](https://techcrunch.com/2026/07/21/warner-bros-netflix-paramount-acquisition-timeline-wbd/)). On October 21, 2025, WBD's board rejected a Paramount Skydance offer of nearly $60 billion, or $24 a share — and within weeks, Paramount Skydance, Comcast and Netflix had all submitted preliminary bids ([The Hindu BusinessLine](https://www.thehindubusinessline.com/news/variety/paramount-skydance-and-warner-bros-discovery-merger-a-timeline-of-the-110-billion-deal/article71494273.ece)).
 

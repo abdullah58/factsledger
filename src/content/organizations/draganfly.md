@@ -149,7 +149,7 @@ The two investors are putting in $5 million each, buying 1,869,159 common shares
 
 "America and its allies are entering a period in which the ability to manufacture drones, components and autonomous systems at scale is becoming a strategic capability," said Dr. [Allan Evans](/people/allan-evans/), chief executive of Unusual Machines. "This investment into Draganfly allows us to support their production growth and deepen our supplier relationships." ([Draganfly](https://draganfly.com/press-release/draganfly-announces-strategic-investment-from-unusual-machines-and-a-leading-u-s-investment-fund/))
 
-The deal has drawn the kind of scrutiny that now follows most Trump-family defense investments. Reuters noted that the family's stakes in several companies have raised conflict-of-interest questions, particularly in defense firms that compete for government contracts. Donald Trump Jr. and his brother [Eric Trump](/people/eric-trump/) have also backed the Israeli drone-maker XTEND and the company Powerus. ([Reuters](https://www.reuters.com/world/americas/trump-jr-backed-unusual-machines-us-asset-manager-invest-10-million-canadas-2026-09-28/))
+The deal has drawn the kind of scrutiny that now follows most Trump-family defense investments. Reuters noted that the family's stakes in several companies have raised conflict-of-interest questions, particularly in defense firms that compete for government contracts. Donald Trump Jr. and his brother [Eric Trump](/people/eric-trump/) have also backed the Israeli drone-maker [XTEND](/organizations/xtend/) and the company Powerus. ([Reuters](https://www.reuters.com/world/americas/trump-jr-backed-unusual-machines-us-asset-manager-invest-10-million-canadas-2026-09-28/))
 
 ## What the company does
 

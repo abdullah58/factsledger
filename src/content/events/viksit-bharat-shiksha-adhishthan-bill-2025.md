@@ -125,7 +125,7 @@ country's existing higher-education regulators — the University Grants Commiss
 Council for Technical Education (AICTE), and the National Council for Teacher Education (NCTE) — and replace
 them with a single apex authority, the Viksit Bharat Shiksha Adhishthan, organized into three subordinate
 councils covering regulation, academic standards, and accreditation
-([PRS Legislative Research](https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025)).
+([[PRS Legislative Research](/organizations/prs-legislative-research/)](https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025)).
 The Union Cabinet approved the bill on 12 December 2025, and Union Education Minister Dharmendra Pradhan
 introduced it in the [Lok Sabha](https://factsledger.com/organizations/lok-sabha) on 15 December 2025
 ([Press Information Bureau](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2204351&reg=3&lang=1)).

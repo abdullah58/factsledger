@@ -96,7 +96,7 @@ Before Congress, Kinzinger served in the Air Force, flying missions in Iraq, Afg
 
 ## The Carlson "traitor" moment
 
-In February 2024, when former Fox News host Tucker Carlson released his interview with Vladimir Putin, Kinzinger called Carlson a "traitor" for conducting it — a sharp reaction that made him part of the bipartisan backlash that also included White House criticism and European calls for a travel ban ([Al Jazeera](https://www.aljazeera.com/news/2024/2/8/tucker-carlson-interviews-vladimir-putin-whats-the-controversy-about)). It was the kind of unvarnished attack on a fellow conservative figure that had become his signature after leaving the House.
+In February 2024, when former Fox News host [Tucker Carlson](/people/tucker-carlson/) released his interview with Vladimir Putin, Kinzinger called Carlson a "traitor" for conducting it — a sharp reaction that made him part of the bipartisan backlash that also included White House criticism and European calls for a travel ban ([Al Jazeera](https://www.aljazeera.com/news/2024/2/8/tucker-carlson-interviews-vladimir-putin-whats-the-controversy-about)). It was the kind of unvarnished attack on a fellow conservative figure that had become his signature after leaving the House.
 
 ## The personal cost of the January 6 stand
 

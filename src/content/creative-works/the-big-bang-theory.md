@@ -82,7 +82,7 @@ little treats in there for them," he said
 ([Scienceline](https://scienceline.org/2010/11/the-science-of-the-big-bang-theory/)).
 He also liked weaving in physics that was current at the time of writing. In
 one episode, Sheldon puzzled over why electrons in graphene behave as if they
-have no mass; eight months later, the Nobel Prize in Physics went to two
+have no mass; eight months later, the [Nobel Prize](/events/nobel-prize/) in Physics went to two
 British scientists for graphene research
 ([Scienceline](https://scienceline.org/2010/11/the-science-of-the-big-bang-theory/)).
 

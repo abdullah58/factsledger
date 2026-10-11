@@ -106,7 +106,7 @@ Bates was direct about what the order really was. He called it "uniquely harmful
 
 After the ruling, the firm said it was "pleased with the court's decision to decisively strike down an unconstitutional attack on our clients' right to have zealous, independent counsel and our firm's right to represent our clients fully and without compromise," adding: "we fiercely advocate for our clients under all circumstances." ([Law Gazette](https://www.lawgazette.co.uk/news/judge-throws-out-blunderbuss-trump-order-against-law-firm/5123404.article))
 
-The fight did not end there. On June 2, Bates refused the government's request to narrow the ruling. On July 21, the Justice Department appealed to the D.C. Circuit. In February 2026 the D.C. Circuit consolidated Jenner's appeal with the related Perkins Coie, WilmerHale and Susman Godfrey cases and scheduled oral argument for May 14, 2026, with state attorneys general filing an amicus brief in support of the firms that April. ([Just Security](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/))
+The fight did not end there. On June 2, Bates refused the government's request to narrow the ruling. On July 21, the Justice Department appealed to the D.C. Circuit. In February 2026 the D.C. Circuit consolidated Jenner's appeal with the related Perkins Coie, [WilmerHale](/organizations/wilmerhale/) and Susman Godfrey cases and scheduled oral argument for May 14, 2026, with state attorneys general filing an amicus brief in support of the firms that April. ([Just Security](https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/))
 
 ## A century-old Chicago litigation house
 

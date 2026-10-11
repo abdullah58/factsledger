@@ -90,7 +90,7 @@ published: 2026-10-02
 lastUpdated: 2026-10-02
 ---
 
-## ProPublica's enforcement arm
+## [ProPublica](/organizations/propublica/)'s enforcement arm
 
 On November 30, 2023, the Senate Judiciary Committee voted 11–0 to
 authorize subpoenas of billionaire Harlan Crow and conservative legal

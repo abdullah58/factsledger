@@ -128,7 +128,7 @@ lastUpdated: 2026-09-30
 
 The most distinctive verified fact about the Supreme Court of Canada that no
 standard reference profile states is a career link to the American federal
-bench: [Amir Ali](/people/amir-ali/) clerked for Justice Marshall Rothstein of
+bench: [Amir Ali](/people/amir-ali/) clerked for Justice [Marshall Rothstein](/people/marshall-rothstein/) of
 this Court. Ali says so himself in a sworn declaration filed in the U.S.
 District Court for the Southern District of New York: "I served as law clerk
 to the Honorable Raymond C. Fisher of the U.S. Court of Appeals for the Ninth

@@ -130,7 +130,7 @@ Lynn Devin is an American former adoption agency operator who ran [Seattle Inter
 
 ## Role at Seattle International Adoptions
 
-While Galindo worked in Cambodia arranging placements and gathering paperwork, Devin ran the U.S. side of the operation. The Cambodia Daily's 2002 profile of Galindo described Devin as running "the U.S.-based Seattle International Adoptions agency" that handled American families' applications ([The Cambodia Daily](https://english.cambodiadaily.com/2002/06/22/is-lauryn-galindo-a-baby-buyer-a-benefactor-or-both/)). Vice's later reporting states that the two sisters together made millions of dollars facilitating the roughly 800 adoptions ([Vice](https://www.vice.com/en/article/cambodian-adoption-fraud-united-states/)).
+While Galindo worked in Cambodia arranging placements and gathering paperwork, Devin ran the U.S. side of the operation. [The Cambodia Daily](/organizations/the-cambodia-daily/)'s 2002 profile of Galindo described Devin as running "the U.S.-based Seattle International Adoptions agency" that handled American families' applications ([The Cambodia Daily](https://english.cambodiadaily.com/2002/06/22/is-lauryn-galindo-a-baby-buyer-a-benefactor-or-both/)). Vice's later reporting states that the two sisters together made millions of dollars facilitating the roughly 800 adoptions ([Vice](https://www.vice.com/en/article/cambodian-adoption-fraud-united-states/)).
 
 ## Documented conduct and the scale of the charges
 

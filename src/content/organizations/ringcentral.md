@@ -82,7 +82,7 @@ Months before the breach, RingCentral reported a financial profile of unusual ma
 
 On February 19, 2026, the board approved the company's first cash dividend — $0.075 per share quarterly — and raised the share-repurchase authorization to $500 million, signaling a deliberate shift toward returning capital to investors ([TipRanks](https://www.tipranks.com/news/company-announcements/ringcentral-announces-first-dividend-amid-strong-cash-growth)). Operationally, AI-led products reached $100 million in annual recurring revenue, with the AI Receptionist serving more than 8,000 customers, and the company deepened its AI capabilities through an integration with [OpenAI](/organizations/openai/) ([TipRanks](https://www.tipranks.com/news/company-announcements/ringcentral-announces-first-dividend-amid-strong-cash-growth)).
 
-In the UCaaS market itself, RingCentral retained its Leader position in Gartner's 2026 Magic Quadrant — its twelfth consecutive year — alongside Cisco, Microsoft, and Zoom, with Gartner crediting close to 600 prebuilt integrations and the new AIR Pro agentic tool while cautioning that midlevel pricing sits above the market average ([UC Today](https://uctoday.com/who-are-gartners-2026-ucaas-magic-quadrant-leaders-and-who-just-got-cut)).
+In the UCaaS market itself, RingCentral retained its Leader position in [Gartner](/organizations/gartner/)'s 2026 Magic Quadrant — its twelfth consecutive year — alongside Cisco, Microsoft, and Zoom, with Gartner crediting close to 600 prebuilt integrations and the new AIR Pro agentic tool while cautioning that midlevel pricing sits above the market average ([UC Today](https://uctoday.com/who-are-gartners-2026-ucaas-magic-quadrant-leaders-and-who-just-got-cut)).
 
 ## What this profile does not claim
 

@@ -109,7 +109,7 @@ Party leadership elected Whatley chairman of the North Carolina Republican Party
 
 ## RNC chairman
 
-On March 8, 2024, the RNC elected Whatley chairman at its spring meeting in Houston, following Ronna McDaniel's resignation. He was the only announced candidate and cited President Trump's endorsement in his pitch letter to members. ([Ballotpedia](https://ballotpedia.org/Michael_Whatley)) After his election, alongside co-chair Lara Trump, the committee laid off around 60 staffers across its political, communications, and data departments — a move Politico described as Trump's operation moving to take over the party's machinery. ([Ballotpedia](https://ballotpedia.org/Michael_Whatley)) Whatley resigned on August 22, 2025, after announcing his Senate run; Joe Gruters succeeded him. ([Ballotpedia](https://ballotpedia.org/Michael_Whatley))
+On March 8, 2024, the RNC elected Whatley chairman at its spring meeting in Houston, following Ronna McDaniel's resignation. He was the only announced candidate and cited President Trump's endorsement in his pitch letter to members. ([Ballotpedia](https://ballotpedia.org/Michael_Whatley)) After his election, alongside co-chair [Lara Trump](/people/lara-trump/), the committee laid off around 60 staffers across its political, communications, and data departments — a move Politico described as Trump's operation moving to take over the party's machinery. ([Ballotpedia](https://ballotpedia.org/Michael_Whatley)) Whatley resigned on August 22, 2025, after announcing his Senate run; Joe Gruters succeeded him. ([Ballotpedia](https://ballotpedia.org/Michael_Whatley))
 
 ## 2026 Senate campaign
 

@@ -97,7 +97,7 @@ lastUpdated: 2026-09-30
 
 # Tony Blair
 
-On August 16, 2026, Tony Blair sat across from a Hamas delegation in Cairo. He was there as a founding member of the Board of Peace's Executive Board, alongside US envoy [Jared Kushner](/people/jared-kushner/) and the Board's Director-General Nikolay Mladenov, to discuss implementing the Board of Peace's 15-point roadmap for the Gaza Strip ([The Jerusalem Post](http://www.jpost.com/middle-east/article-905611)). Nearly two decades after leaving Downing Street, the former British prime minister had become one of the central diplomatic figures in the Trump administration's Gaza plan — a role none of the standard biographies of him yet records ([The Times of Israel](https://www.timesofisrael.com/tony-blair-takes-on-larger-role-as-us-led-board-of-peace-struggles-to-advance-gaza-plan/)).
+On August 16, 2026, Tony Blair sat across from a Hamas delegation in Cairo. He was there as a founding member of the Board of Peace's Executive Board, alongside US envoy [Jared Kushner](/people/jared-kushner/) and the Board's Director-General [Nikolay Mladenov](/people/nikolay-mladenov/), to discuss implementing the Board of Peace's 15-point roadmap for the Gaza Strip ([The Jerusalem Post](http://www.jpost.com/middle-east/article-905611)). Nearly two decades after leaving Downing Street, the former British prime minister had become one of the central diplomatic figures in the Trump administration's Gaza plan — a role none of the standard biographies of him yet records ([The Times of Israel](https://www.timesofisrael.com/tony-blair-takes-on-larger-role-as-us-led-board-of-peace-struggles-to-advance-gaza-plan/)).
 
 ## The 2026 Gaza role
 

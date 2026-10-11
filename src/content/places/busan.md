@@ -109,7 +109,7 @@ lastUpdated: 2026-10-10
 draft: false
 ---
 
-Busan is South Korea's second-largest city and its principal port — but its real distinction is in war memory, not trade. The city served as South Korea's provisional wartime capital for 1,023 days in 1950–53, it was the landing port of the Turkish brigade whose 462 dead lie in Busan's soil, and it hosts the only United Nations cemetery on earth: more than 2,300 Korean War service members from 14 countries rest in its Nam District. ([Hürriyet Daily News](https://www.hurriyetdailynews.com/amp/turkey-remembers-its-fallen-soldiers-in-korean-war-136964); [The Korea Times](https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260529/living-memory-how-busan-connected-with-world-during-korean-war))
+Busan is [South Korea](/places/south-korea/)'s second-largest city and its principal port — but its real distinction is in war memory, not trade. The city served as South Korea's provisional wartime capital for 1,023 days in 1950–53, it was the landing port of the Turkish brigade whose 462 dead lie in Busan's soil, and it hosts the only United Nations cemetery on earth: more than 2,300 Korean War service members from 14 countries rest in its Nam District. ([Hürriyet Daily News](https://www.hurriyetdailynews.com/amp/turkey-remembers-its-fallen-soldiers-in-korean-war-136964); [The Korea Times](https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260529/living-memory-how-busan-connected-with-world-during-korean-war))
 
 ## Overview
 

@@ -197,7 +197,7 @@ Three roles that define the arc:
 
 ## The two lives he embodied
 
-In *Ayla*, directed by Can Ülkay, Hacıoğlu played the young Süleyman Dilbirliği opposite Çetin Tekindor as the elderly one — Turkey's nominee for the Academy Award for Best Foreign Language Film, launched September 8, 2017 with a campaign for the 60th anniversary of Turkish troops landing in Busan ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
+In *Ayla*, directed by [Can Ülkay](/people/can-ulkay/), Hacıoğlu played the young Süleyman Dilbirliği opposite Çetin Tekindor as the elderly one — Turkey's nominee for the Academy Award for Best Foreign Language Film, launched September 8, 2017 with a campaign for the 60th anniversary of Turkish troops landing in Busan ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 
 In 2024 came the harder embodiment: Cem Karaca in *Cem Karaca'nın Gözyaşları*, directed by Yüksel Aksu. Hacıoğlu sang every song himself and was 3D-scanned for prosthetics instead of silicone molding — described as a Turkish-cinema first. He prepared by meeting Karaca's band, Moğollar ([CafeSiyaset](https://www.cafesiyaset.com/amp/haber/ismail-hacioglu-nasil-cem-karaca-oldu-h43971.html); [Teammy](http://teammy.com/2023/07/02/41899/)).
 

@@ -151,7 +151,7 @@ He had already made his directorial debut with the low-budget comedy
 film was *Night Shift* (1982), which received mostly positive reviews and,
 by Fandango's account, gave him the confidence to keep directing. Over the
 next two decades came *Splash* (1984), *Cocoon* (1985), *Parenthood* (1989),
-*Backdraft* (1991), and *Apollo 13* (1995), which earned two Academy Awards.
+*Backdraft* (1991), and *Apollo 13* (1995), which earned two [Academy Awards](/organizations/academy-awards/).
 In 2002 he won his first two Academy Awards — Best Director and Best Picture
 — for the 2001 biographical drama *A Beautiful Mind*, and later earned Oscar
 nominations for Best Picture and Best Director for *Frost/Nixon* (2008)

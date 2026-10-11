@@ -81,7 +81,7 @@ He also hosted his own radio show on TheBlaze Radio Network and served as a cont
 
 From January 2022 through September 2023, Jones hosted the weekend program *Lawrence Jones Cross Country*, traveling across the country to cover issues from local communities and sit down with decision-makers.[^1] The program covered the University of Idaho student murders with four hour-long episodes reported live from Moscow, Idaho, and he interviewed 2024 Republican presidential candidates including Vivek Ramaswamy, Senator Tim Scott of South Carolina, former New Jersey Governor Chris Christie, and former Arkansas Governor Asa Hutchinson.[^1]
 
-During his Fox tenure he also hosted a 2020 primetime weekend special on race relations featuring civil rights activists, religious leaders, and law enforcement officials, and presented a FOX Nation event with NASCAR driver Bubba Wallace on his career and activism in the Black Lives Matter movement.[^1] He has frequently filled in as a guest host across the network's top-rated primetime programs.[^1]
+During his Fox tenure he also hosted a 2020 primetime weekend special on race relations featuring civil rights activists, religious leaders, and law enforcement officials, and presented a [FOX Nation](/organizations/fox-nation/) event with NASCAR driver Bubba Wallace on his career and activism in the Black Lives Matter movement.[^1] He has frequently filled in as a guest host across the network's top-rated primetime programs.[^1]
 
 Jones is a native of Garland, Texas, and attended the University of North Texas.[^1] He has also served on the Dallas County Child Welfare Board.[^2]
 

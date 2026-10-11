@@ -159,7 +159,7 @@ Reporting on the 2021 [LawWorks](/organizations/lawworks/) and Attorney General 
 
 ## Relationship to the Free Representation Unit
 
-Under its earlier name, Nottingham Law School's Legal Advice Centre is documented as the [Free Representation Unit](/organizations/free-representation-unit/)'s partner site in the Midlands: a National Pro Bono Centre case study describes an FRU-linked student volunteer at the clinic successfully challenging an incorrectly imposed stay of proceedings in an employment tribunal, after which the client was awarded over £25,000 for unfair dismissal and breach of contract ([National Pro Bono Centre](https://www.nationalprobonocentre.org.uk/casestudy/anitas-story/)). Companies House's record of the 2022 rename from Nottingham Law School Legal Advice Centre Limited to NLS Legal Limited confirms this is the same legal entity operating under its current name.
+Under its earlier name, Nottingham Law School's Legal Advice Centre is documented as the [Free Representation Unit](/organizations/free-representation-unit/)'s partner site in the Midlands: a [National Pro Bono Centre](/organizations/national-pro-bono-centre/) case study describes an FRU-linked student volunteer at the clinic successfully challenging an incorrectly imposed stay of proceedings in an employment tribunal, after which the client was awarded over £25,000 for unfair dismissal and breach of contract ([National Pro Bono Centre](https://www.nationalprobonocentre.org.uk/casestudy/anitas-story/)). Companies House's record of the 2022 rename from Nottingham Law School Legal Advice Centre Limited to NLS Legal Limited confirms this is the same legal entity operating under its current name.
 
 ## What this profile does not claim
 

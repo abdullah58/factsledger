@@ -83,7 +83,7 @@ draft: false
 ## Overview
 
 Jackie Northam is an international correspondent who spent roughly four decades covering conflicts and
-foreign affairs, about 18 of them at NPR. She began without formal journalism training: "I've never had
+foreign affairs, about 18 of them at [NPR](/organizations/npr/). She began without formal journalism training: "I've never had
 any formal education in journalism. I had no experience when I set off from northern Alberta, Canada, to
 London," she said, having previously worked for the Canadian Broadcasting Corporation before her career
 took her further afield ([NPR](https://www.npr.org/2026/07/11/nx-s1-5866592/a-veteran-foreign-correspondent-looks-back-on-a-career-covering-conflicts)).

@@ -449,7 +449,7 @@ billion, taking reported assets under management to about $4.8 billion by
 year's end
 ([UA.NEWS](https://ua.news/en/world/kushner-poiednuie-peregovori-shchodo-ukrayini-z-miliardnim-biznesom-the-new-yorker)).
 
-The fee economics drew sustained attention. The Senate Finance Committee
+The fee economics drew sustained attention. The [Senate Finance Committee](/organizations/senate-finance-committee/)
 examined the firm in 2024, and data from that inquiry — again via the
 *New Yorker* summary — showed Affinity managing roughly $3 billion after
 nearly three years while having deployed only about one-third of it, yet

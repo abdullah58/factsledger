@@ -240,7 +240,7 @@ The Recording Academy credits Wayne with five wins from 28 nominations ([Recordi
 
 ## The label builder
 
-Wayne founded Young Money Entertainment as an imprint of Cash Money Records; the label has released No. 1 albums from Drake and [Nicki Minaj](/people/nicki-minaj/) ([Recording Academy](https://www.grammy.com/artists/lil-wayne/4037/)). In August 2009 he signed Minaj — news of the deal broke August 1, 2009, months after Drake joined the roster — making her the label's new First Lady, with a debut album project planned for 2010 ([HipHopRX](https://www.hiphoprx.com/2009/09/01/nicki-minaj-signs-on-as-new-1st-lady-of-lil-waynes-young-money-label/)).
+Wayne founded [Young Money Entertainment](/organizations/young-money-entertainment/) as an imprint of Cash Money Records; the label has released No. 1 albums from Drake and [Nicki Minaj](/people/nicki-minaj/) ([Recording Academy](https://www.grammy.com/artists/lil-wayne/4037/)). In August 2009 he signed Minaj — news of the deal broke August 1, 2009, months after Drake joined the roster — making her the label's new First Lady, with a debut album project planned for 2010 ([HipHopRX](https://www.hiphoprx.com/2009/09/01/nicki-minaj-signs-on-as-new-1st-lady-of-lil-waynes-young-money-label/)).
 
 Three decades in, the business has widened: through Young Money APAA Sports he represents athletes including Travis Hunter, while he still turns up on other artists' records — features for Tyler, The Creator and Cordae among them ([REVOLT](https://www.revolt.tv/article/lil-wayne-tha-carter-vi-release-date-features-and-msg-debut-explained)).
 

@@ -197,7 +197,7 @@ wait decades for discoveries to stand the test of time
 ([Al Jazeera](https://www.aljazeera.com/news/2025/10/6/nobel-prize-2025-what-they-are-when-will-the-awards-be-announced)).
 
 The laureate pipeline starts earlier than most histories suggest. Nine
-alumni of the [Bronx High School of Science](https://factsledger.com/schools/bronx-high-school-of-science/)
+alumni of the [[Bronx High School of Science](/schools/bronx-high-school-of-science/)](https://factsledger.com/schools/bronx-high-school-of-science/)
 have won Nobel Prizes, and the school counts more Science Talent Search
 finalists and semifinalists than any other high school in history
 ([Bronx High School of Science](https://bxscience.edu/pdf/BXS-College_Profile_FINAL_FALL_2024_2025.pdf)).

@@ -175,7 +175,7 @@ Brihaspati Vidyasadan (BVS) is a private day and boarding school in Naxal, Kathm
 Vidyasadan Management Pvt Ltd. A 2015 survey of Nepal's post-SLC education landscape described it as one of the
 country's "old and reputed schools" and "the choice of bright and diligent students"
 ([New Spotlight](https://www.spotlightnepal.com/2015/07/03/after-slc-search-for-quality-education/)).
-It was named a **Full Award** recipient in the [British Council](https://factsledger.com/organizations/british-council)'s 2019–20 International School Award programme
+It was named a **Full Award** recipient in the [[British Council](/organizations/british-council/)](https://factsledger.com/organizations/british-council)'s 2019–20 International School Award programme
 ([British Council](https://www.britishcouncil.org.np/sites/default/files/press_release_isa-20_october_2020.pdf)).
 Separately, the land its campus occupies — leased for more than three decades from the Nepal Children's
 Organisation, a state-linked charity also known as Bal Mandir — is the subject of an unresolved fraud case in

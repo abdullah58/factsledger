@@ -164,7 +164,7 @@ Hope put the cost in plain terms in 2026: "They DO NOT MAKE MONEY!! In fact it c
 
 ## Acknowledged from the stage
 
-Trump has acknowledged the Joes from the stage for years — regularly, according to Front Row Joe Jewel Solomon, who told Veterans for America First that the group traveled the country for the president, was featured in a documentary by former White House press secretary Sean Spicer, and was acknowledged by Trump himself (PRLog, 2025-01-17, tier3).
+Trump has acknowledged the Joes from the stage for years — regularly, according to Front Row Joe Jewel Solomon, who told Veterans for America First that the group traveled the country for the president, was featured in a documentary by former White House press secretary [Sean Spicer](/people/sean-spicer/), and was acknowledged by Trump himself (PRLog, 2025-01-17, tier3).
 
 The most quoted acknowledgment came at a July 2026 rally at Wheeler High School in Marietta, Georgia, where Trump was introducing his "Trump Accounts" investment program. He broke off to point at the Joes in their jerseys: "The Front Row Joes, I love these people... I think there are about 280... I don't know what the hell they do, I think they make a lot of money, too. I'm hearing they're very rich. They follow us. It's a rock concert right? You have a good time, right? Thank you. They've been with me right from the beginning" (Newswav, 2026-07-23, tier3; Primetimer, 2026-09-29, tier2).
 

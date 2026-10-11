@@ -116,7 +116,7 @@ draft: false
 
 ## Overview
 
-Dang Thanh Tam is a Vietnamese industrialist who chairs Kinh Bac City Development Holding Corporation (KBC), one of Vietnam's largest industrial real estate developers, and Saigontel, a telecommunications infrastructure company ([The Real Deal](https://therealdeal.com/international/2025/10/15/trump-orgs-vietnam-resort-highlights-ties-with-billionaire/)). Kinh Bac City is the parent company of Hung Yen Hospitality, the Vietnamese partner in the Trump Organization's licensed golf and residential project in Hung Yen province, [Trump International, Vietnam](/organizations/trump-international-vietnam/) ([Vietnam Investment Review](https://vir.com.vn/construction-begins-on-15-billion-trump-organization-golf-complex-in-hung-yen-128932.html)).
+Dang Thanh Tam is a Vietnamese industrialist who chairs [Kinh Bac City Development Holding Corporation](/organizations/kinh-bac-city-development-holding-corporation/) (KBC), one of Vietnam's largest industrial real estate developers, and Saigontel, a telecommunications infrastructure company ([The Real Deal](https://therealdeal.com/international/2025/10/15/trump-orgs-vietnam-resort-highlights-ties-with-billionaire/)). Kinh Bac City is the parent company of Hung Yen Hospitality, the Vietnamese partner in the Trump Organization's licensed golf and residential project in Hung Yen province, [Trump International, Vietnam](/organizations/trump-international-vietnam/) ([Vietnam Investment Review](https://vir.com.vn/construction-begins-on-15-billion-trump-organization-golf-complex-in-hung-yen-128932.html)).
 
 ## Business career
 
