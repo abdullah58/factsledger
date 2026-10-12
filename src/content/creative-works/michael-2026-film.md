@@ -57,10 +57,9 @@ openItems:
 - Totals for Bohemian Rhapsody vary slightly by outlet (around $911 million per the Economic Times via Variety; $903.6 million per BroadwayWorld); the record itself — Michael overtaking it — is consistent across sources.
 - Reports that the planned sequel may address the abuse allegations cut from this film are attributed press speculation (Economic Times), not a confirmed plan.
 - This profile does not repeat the widely circulated claim of 116 million trailer views in 24 hours, which was found only in a single lower-tier outlet and could not be independently confirmed.
-related:
-  - label: "Michael Jackson"
-    href: /people/michael-jackson/
-
+- "Two trade outlets report a higher production budget than the $155 million greenlit figure used here: SlashFilm reports the budget \"ballooned to upwards of $200M\" and Music Business Worldwide reports \"~$200M\" (noting The Numbers lists $155M). This profile follows the $155 million figure from Variety's reporting; the higher figures are unresolved."
+- "Telegraph India lists The Twilight Saga: Breaking Dawn - Part 2 at $868.5 million worldwide, above The Hunger Games: Catching Fire's $865 million; if correct, Catching Fire was not Lionsgate's top film before Michael. This profile follows the Variety-via-press $865 million figure; the Telegraph India figure is unresolved."
+- The August 2026 earnings-call statements are sequel targets (production late 2026 or early 2027, release late 2027 or the first half of 2028); ANI reported the sequel had not been officially greenlit as of that call. This profile's "confirmed" characterization follows the Economic Times; the distinction is recorded in the Adam Fogelson profile's openItems.
 sources:
 - title: "''Michael': Lionsgate's Antoine Fuqua-Directed Biopic Underwent $15M Reshoots, After Child Abuse Allegation Scenes In Third Act Were Cut [Report]"
   url: https://theplaylist.net/michael-lionsgates-antoine-fuqua-directed-biopic-underwent-15m-reshoots-after-child-abuse-allegation-scenes-in-third-act-were-cut-report-20260407/
@@ -118,19 +117,18 @@ draft: false
 
 ## Overview
 
-*Michael* is a 2026 American musical biopic of Michael Jackson, directed by Antoine
-Fuqua from a screenplay by three-time Oscar nominee John Logan, and produced by
-Graham King with John Branca and John McClain — the co-executors of Jackson's
-estate, which backed the production
+*Michael* is a 2026 American musical biopic of [Michael Jackson](/people/michael-jackson/), directed by [Antoine Fuqua](/people/antoine-fuqua/) from a screenplay by three-time Oscar nominee [John Logan](/people/john-logan/), and produced by
+[Graham King](/people/graham-king/) with [John Branca](/people/john-branca/) and [John McClain](/people/john-mcclain/) — the co-executors of [Jackson's
+estate](/organizations/michael-jackson-estate/), which backed the production
 ([BroadwayWorld](https://www.broadwayworld.com/article/MICHAEL-Becomes-the-Highest-Grossing-Biopic-of-All-Time-20260629);
 [eurweb](https://eurweb.com/michael-jackson-biopic-april-2026/)).
-Jackson's real-life nephew Jaafar Jackson plays his uncle in his acting debut, with
-Colman Domingo and Nia Long as his parents Joe and Katherine Jackson, and Miles
-Teller as Jackson's attorney and adviser John Branca
+Jackson's real-life nephew [Jaafar Jackson](/people/jaafar-jackson/) plays his uncle in his acting debut, with
+[Colman Domingo](/people/colman-domingo/) and [Nia Long](/people/nia-long/) as his parents [Joe](/people/joe-jackson/) and [Katherine Jackson](/people/katherine-jackson/), and [Miles
+Teller](/people/miles-teller/) as Jackson's attorney and adviser John Branca
 ([The Playlist](https://theplaylist.net/michael-lionsgates-antoine-fuqua-directed-biopic-underwent-15m-reshoots-after-child-abuse-allegation-scenes-in-third-act-were-cut-report-20260407/);
 [Mid-day](https://www.mid-day.com/amp/entertainment/hollywood-news/article/michael-jackson-biopic-delayed-to-now-release-in-april-2026-instead-of-october-2025-23586360)).
-Lionsgate released the film in the United States, Universal handled most
-international markets, and Kino Films handled Japan
+[Lionsgate](/organizations/lionsgate/) released the film in the [United States](/places/united-states/), [Universal](/organizations/universal-pictures/) handled most
+international markets, and [Kino Films](/organizations/kino-films/) handled [Japan](/places/japan/)
 ([Mid-day](https://www.mid-day.com/amp/entertainment/hollywood-news/article/michael-jackson-biopic-delayed-to-now-release-in-april-2026-instead-of-october-2025-23586360)).
 
 The film's documented real-world story is not its plot but its production: an
@@ -147,7 +145,7 @@ made
 
 As originally shot, *Michael* confronted the allegations against Jackson directly.
 The film was to open with Jackson staring at his reflection as police lights
-flashed behind him — it is 1993, and investigators are arriving at Neverland Ranch
+flashed behind him — it is 1993, and investigators are arriving at [Neverland Ranch](/places/neverland-ranch/)
 to search for evidence — and much of the third act was devoted to the fallout from
 the child molestation accusations
 ([The Playlist](https://theplaylist.net/michael-lionsgates-antoine-fuqua-directed-biopic-underwent-15m-reshoots-after-child-abuse-allegation-scenes-in-third-act-were-cut-report-20260407/);
@@ -156,8 +154,8 @@ the child molestation accusations
 That entire section became legally unusable when attorneys for the Jackson estate —
 which served as a producer on the film — discovered a clause in the estate's
 settlement with accuser Jordan Chandler that barred his depiction or mention in any
-movie. The background, as reported: in 1993, Los Angeles dentist and screenwriter
-Evan Chandler accused Jackson of sexually abusing his 13-year-old son Jordan;
+movie. The background, as reported: in 1993, [Los Angeles](/places/los-angeles/) dentist and screenwriter
+[Evan Chandler](/people/evan-chandler/) accused Jackson of sexually abusing his 13-year-old son Jordan;
 Jackson denied it, and the parties reached a financial settlement in 1994
 ([NME](https://www.nme.com/news/film/michael-jackson-biopic-reshoots-cost-15million-removed-all-mention-of-child-abuse-allegations-3939096)).
 The estate had approved John Logan's script, but the clause was overlooked until
@@ -166,17 +164,17 @@ come up *before* the film was shot, but there you go," as JoBlo's report put it
 ([JoBlo](https://www.joblo.com/michael-reshoots/);
 [The Playlist](https://theplaylist.net/michael-lionsgates-antoine-fuqua-directed-biopic-underwent-15m-reshoots-after-child-abuse-allegation-scenes-in-third-act-were-cut-report-20260407/)).
 
-The fix was a 22-day reshoot in Los Angeles in June 2025 — which, unlike the Santa
-Barbara principal photography, did not qualify for state tax rebates — adding a
+The fix was a 22-day reshoot in Los Angeles in June 2025 — which, unlike the [Santa
+Barbara](/places/santa-barbara/) principal photography, did not qualify for state tax rebates — adding a
 reported $10–15 million to the $155 million greenlit budget. Because the error was
 the estate's own oversight, the estate covered the added costs and in return took
 an equity stake in the film
 ([The Playlist](https://theplaylist.net/michael-lionsgates-antoine-fuqua-directed-biopic-underwent-15m-reshoots-after-child-abuse-allegation-scenes-in-third-act-were-cut-report-20260407/);
 [NME](https://www.nme.com/news/film/michael-jackson-biopic-reshoots-cost-15million-removed-all-mention-of-child-abuse-allegations-3939096)).
-The rebuilt film ends with Jackson at his peak during the *Bad* era in 1988, with
+The rebuilt film ends with Jackson at his peak during the [*Bad*](/creative-works/bad-michael-jackson-album/) era in 1988, with
 the dramatic tension shifted to his relationship with his domineering father Joe
 Jackson, alongside material on the severe scalp burns Jackson suffered filming a
-1984 Pepsi commercial and the painkiller abuse that followed
+1984 [Pepsi](/organizations/pepsi/) commercial and the painkiller abuse that followed
 ([NME](https://www.nme.com/news/film/michael-jackson-biopic-reshoots-cost-15million-removed-all-mention-of-child-abuse-allegations-3939096);
 [JoBlo](https://www.joblo.com/michael-reshoots/)).
 No reference to the later allegations appears anywhere in the final cut
@@ -186,7 +184,7 @@ No reference to the later allegations appears anywhere in the final cut
 
 The legal rebuild pushed the film's release twice. Originally dated April 18, 2025,
 it moved to October 3, 2025, and then — announced in July 2025 — to April 24, 2026,
-a delay chain reported by Deadline
+a delay chain reported by [Deadline](/organizations/deadline-hollywood/)
 ([eurweb](https://eurweb.com/michael-jackson-biopic-april-2026/);
 [Mid-day](https://www.mid-day.com/amp/entertainment/hollywood-news/article/michael-jackson-biopic-delayed-to-now-release-in-april-2026-instead-of-october-2025-23586360)).
 Principal photography had wrapped in May 2024, and the production was also
@@ -196,7 +194,7 @@ single film
 ([eurweb](https://eurweb.com/michael-jackson-biopic-april-2026/);
 [Mid-day](https://www.mid-day.com/amp/entertainment/hollywood-news/article/michael-jackson-biopic-delayed-to-now-release-in-april-2026-instead-of-october-2025-23586360)).
 
-Not everyone in Jackson's orbit welcomed the project. His daughter Paris Jackson
+Not everyone in Jackson's orbit welcomed the project. His daughter [Paris Jackson](/people/paris-jackson/)
 publicly criticized the production, saying she had no involvement in it and
 accusing the estate's co-executors of wasting money
 ([NME](https://www.nme.com/news/film/michael-jackson-biopic-reshoots-cost-15million-removed-all-mention-of-child-abuse-allegations-3939096)).
@@ -204,22 +202,22 @@ accusing the estate's co-executors of wasting money
 ## Box office records and the sequel
 
 *Michael* opened to $97 million domestically and $217 million worldwide — the
-biggest opening weekend ever for a musical biopic, beating *Straight Outta
-Compton* (2015) — and kept climbing
+biggest opening weekend ever for a musical biopic, beating [*Straight Outta
+Compton*](/creative-works/straight-outta-compton/) (2015) — and kept climbing
 ([The Economic Times](https://economictimes.indiatimes.com/magazines/panache/michael-makes-box-office-world-record-jaafar-jackson-starrer-becomes-first-ever-biopic-to-cross-1-billion-milestone/articleshow/132363062.cms?from=mdr)).
-In late June 2026 it passed $977 million worldwide, overtaking *Oppenheimer*
+In late June 2026 it passed $977 million worldwide, overtaking [*Oppenheimer*](/creative-works/oppenheimer-film/)
 ($975 million) to become the highest-grossing biopic of all time regardless of
-subject, having already passed *Bohemian Rhapsody* as the biggest musical biopic
+subject, having already passed [*Bohemian Rhapsody*](/creative-works/bohemian-rhapsody-film/) as the biggest musical biopic
 ([BroadwayWorld](https://www.broadwayworld.com/article/MICHAEL-Becomes-the-Highest-Grossing-Biopic-of-All-Time-20260629)).
 It then crossed $1.001 billion ($629.8 million international, $371.8 million North
 American), the first biopic ever to enter the billion-dollar club — and Lionsgate's
-highest-grossing film of all time, ahead of *The Hunger Games: Catching Fire*
+highest-grossing film of all time, ahead of [*The Hunger Games: Catching Fire*](/creative-works/the-hunger-games-catching-fire/)
 ($865 million)
 ([The Economic Times](https://economictimes.indiatimes.com/magazines/panache/michael-makes-box-office-world-record-jaafar-jackson-starrer-becomes-first-ever-biopic-to-cross-1-billion-milestone/articleshow/132363062.cms?from=mdr)).
 
-The film ends with a Wembley Stadium concert sequence and the message "His Story
+The film ends with a [Wembley Stadium](/places/wembley-stadium/) concert sequence and the message "His Story
 Continues" — and a follow-up is confirmed. On Lionsgate's earnings call, film chair
-Adam Fogelson said the studio is targeting a sequel production start in late 2026
+[Adam Fogelson](/people/adam-fogelson/) said the studio is targeting a sequel production start in late 2026
 or early 2027 for release in late 2027 or the first half of 2028, reusing musical
 sequences shot for the first film that did not make the final cut
 ([The Economic Times](https://economictimes.indiatimes.com/magazines/panache/michael-makes-box-office-world-record-jaafar-jackson-starrer-becomes-first-ever-biopic-to-cross-1-billion-milestone/articleshow/132363062.cms?from=mdr);
@@ -233,7 +231,7 @@ this film, though that remains speculation rather than a confirmed plan
 This profile does not assert the precise legal wording of the Chandler settlement
 clause — only that reporting describes it as barring depiction or mention of
 Chandler in any film; the settlement's full terms are not public. It does not
-resolve the conflicting reshoot-cost figures ($10–15 million per Variety's
+resolve the conflicting reshoot-cost figures ($10–15 million per [Variety](/organizations/variety/)'s
 reporting; $50 million per the Telegraph) or the conflicting intermediate release
 date (October 3, 2025 per Deadline; November 2025 per the Telegraph); both are
 recorded in openItems. It does not take a position on the truth of the allegations
