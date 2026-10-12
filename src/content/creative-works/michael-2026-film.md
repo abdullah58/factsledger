@@ -119,7 +119,7 @@ draft: false
 
 *Michael* is a 2026 American musical biopic of [Michael Jackson](/people/michael-jackson/), directed by [Antoine Fuqua](/people/antoine-fuqua/) from a screenplay by three-time Oscar nominee [John Logan](/people/john-logan/), and produced by
 [Graham King](/people/graham-king/) with [John Branca](/people/john-branca/) and [John McClain](/people/john-mcclain/) — the co-executors of [Jackson's
-estate](/organizations/michael-jackson-estate/), which backed the production
+estate](/organizations/michael-jackson-estate/) at the time (Branca became sole executor after McClain's death on May 26, 2026), which backed the production
 ([BroadwayWorld](https://www.broadwayworld.com/article/MICHAEL-Becomes-the-Highest-Grossing-Biopic-of-All-Time-20260629);
 [eurweb](https://eurweb.com/michael-jackson-biopic-april-2026/)).
 Jackson's real-life nephew [Jaafar Jackson](/people/jaafar-jackson/) plays his uncle in his acting debut, with
