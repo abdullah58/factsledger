@@ -145,7 +145,7 @@ draft: false
 ## Overview
 
 *The Bunny Game* is a 2011 American exploitation-horror film, the feature debut of
-writer-director Adam Rehmeier, co-written with lead actress Rodleen Getsic. Shot in
+writer-director [Adam Rehmeier](/people/adam-rehmeier/), co-written with lead actress [Rodleen Getsic](/people/rodleen-getsic/). Shot in
 black and white on 16mm with a 75-minute runtime, it depicts the abduction and
 sustained abuse of a drug-addicted sex worker, Sylvia Grey (Getsic), by a trucker,
 J.R. (Jeff Renfro). Before directing, Rehmeier had worked as a camera operator and
@@ -156,26 +156,26 @@ awards at its festival premiere
 
 ## Festival run
 
-Sales agent Julian Richards of Jinga Films discovered the film at the Downtown Heavy
-Metal Horror Film Festival in Los Angeles, where its trailer reportedly provoked
+Sales agent [Julian Richards](/people/julian-richards/) of [Jinga Films](/organizations/jinga-films/) discovered the film at the Downtown Heavy
+Metal Horror Film Festival in [Los Angeles](/places/los-angeles/), where its trailer reportedly provoked
 audience walk-outs at festival screenings
 ([Love Horror](https://lovehorror.co.uk/horror-news/92585/from-uk-ban-to-us-release-the-bunny-game-brings-bloody-mayhem/);
 [Bloody Flicks](http://bloody-flicks.co.uk/2025/07/09/previously-banned-the-bunny-game-released-in-north-america/)).
-It then had its Las Vegas premiere at the second annual PollyGrind Film Festival,
+It then had its [Las Vegas](/places/las-vegas/) premiere at the second annual [PollyGrind Film Festival](/events/pollygrind-film-festival/),
 which ran October 7-16, 2011, and swept the festival's jury awards: the top prize,
 "The Biggest Baddest Mother of the PollyGrind," plus best sound design, best
 cinematography, best editing, and best overall individual performance for Getsic's
 portrayal of Bunny
 ([JoBlo](https://www.joblo.com/exclusive-details-and-line-up-for-2nd-annual-pollygrind-film-festival/amp/);
 [Dread Central](https://www.dreadcentral.com/news/28065/exclusive-second-annual-pollygrind-film-festival-announces-winners/)).
-Festival director Chad Clinton Freeman called it "the epitome of what PollyGrind is
+Festival director [Chad Clinton Freeman](/people/chad-clinton-freeman/) called it "the epitome of what PollyGrind is
 about," praising it as "shot with a one-man crew" and "both brutal and thought
 provoking with one of the best on-screen performances ever by an actress"
 ([Dread Central](https://www.dreadcentral.com/news/28065/exclusive-second-annual-pollygrind-film-festival-announces-winners/)).
 
 ## The BBFC refusal
 
-In October 2011 the British Board of Film Classification formally refused to
+In October 2011 the [British Board of Film Classification](/organizations/british-board-of-film-classification/) formally refused to
 classify the film for UK video release — an outright ban rather than a cuts
 requirement. The board's published reasoning held that "the principal focus of
 *The Bunny Game* is the unremitting sexual and physical abuse of a helpless woman,
@@ -184,26 +184,26 @@ emphasis on the victim's nudity "tends to eroticise what is shown," and that the
 film "may encourage some viewers to enjoy and share in the man's callousness."
 The BBFC considered cuts but concluded the pervasiveness of the abuse made them
 impractical, offering "no assurances" that a re-edited resubmission would succeed;
-the decision, taken jointly by director David Cooke and the Presidential Team of
-Sir Quentin Thomas, Alison Hastings and Gerard Lemos, meant the film could not be
+the decision, taken jointly by director [David Cooke](/people/david-cooke/) and the Presidential Team of
+[Sir Quentin Thomas](/people/quentin-thomas/), [Alison Hastings](/people/alison-hastings/) and [Gerard Lemos](/people/gerard-lemos/), meant the film could not be
 legally supplied anywhere in the UK
 ([JoBlo](https://www.joblo.com/adam-rehmeiers-the-bunny-game-banned-by-british-board-of-film-classification/amp/)).
-The refusal came just days after *The Human Centipede 2 (Full Sequence)* — rejected
+The refusal came just days after [*The Human Centipede 2 (Full Sequence)*](/creative-works/the-human-centipede-2/) — rejected
 by the BBFC that June — was passed with an 18 certificate following distributor
-Eureka Entertainment/Bounty Films' campaign, a contrast noted by contemporaneous
+[Eureka Entertainment](/organizations/eureka-entertainment/)/[Bounty Films](/organizations/bounty-films/)' campaign, a contrast noted by contemporaneous
 reporting ([Ain't It Cool News](http://legacy.aintitcool.com/node/51563)).
 
-The ban stranded a UK release already in motion: Trinity Films had picked up the
+The ban stranded a UK release already in motion: [Trinity Films](/organizations/trinity-films/) had picked up the
 film for its Trinity X DVD genre label back in January 2011, eyeing a 2012 release
 ([JoBlo](https://www.joblo.com/adam-rehmeiers-the-bunny-game-banned-by-british-board-of-film-classification/amp/)).
-Trinity co-director Mark Sandell said the company had expected the BBFC "might ask
+Trinity co-director [Mark Sandell](/people/mark-sandell/) said the company had expected the BBFC "might ask
 for cuts," but that "an outright ban gives the film a twisted notoriety that, quite
 frankly, it doesn't warrant," and that Trinity was "considering its options"
 ([Screen Daily](https://www.screendaily.com/distribution/bbfc-bans-adam-rehmeiers-the-bunny-game-/5033304.article)).
 
 ## The filmmakers' response
 
-Rehmeier disputed the board's reading. He told Bloody Disgusting that "*The Bunny
+Rehmeier disputed the board's reading. He told [Bloody Disgusting](/organizations/bloody-disgusting/) that "*The Bunny
 Game* is way less disturbing than *Pretty Woman*," arguing it was "more socially
 acceptable to glamorize prostitution under the guise of a rags-to-riches fairy tale,"
 and that he and Getsic "didn't make *The Bunny Game* to glamorize prostitution. It
@@ -212,8 +212,8 @@ is far from an erotic film. It is a modern cautionary tale grounded in reality"
 
 ## US release
 
-In March 2012, the newly launched US distribution label Autonomy Pictures — founded
-by Derek Curl, David Gregory and Lewis Tice — acquired all US rights at SXSW, with
+In March 2012, the newly launched US distribution label [Autonomy Pictures](/organizations/autonomy-pictures/) — founded
+by [Derek Curl](/people/derek-curl/), [David Gregory](/people/david-gregory/) and [Lewis Tice](/people/lewis-tice/) — acquired all US rights at [SXSW](/events/sxsw/), with
 the deal negotiated by Julian Richards on the filmmakers' behalf. Curl described the
 film as "the last word on the 'torture-porn' sub-genre," saying Autonomy was "not
 afraid to release such a film, which will undoubtedly inspire heated reaction,
@@ -226,7 +226,7 @@ The US home-video release followed in July 2012
 ## The 2025 reissue
 
 In the summer of 2025, Jinga Films — the world sales agent that had also handled
-the controversial *A Serbian Film* — reissued *The Bunny Game* in the United States
+the controversial [*A Serbian Film*](/creative-works/a-serbian-film/) — reissued *The Bunny Game* in the United States
 on Blu-ray and DVD through its Danse Macabre label, as a collector's edition with a
 behind-the-scenes featurette, teaser and trailer
 ([Flickering Myth](https://www.flickeringmyth.com/controversial-horror-the-bunny-game-gets-blu-ray-release-from-jinga-films/);
@@ -239,7 +239,7 @@ masterpiece or a work of reckless provocation"
 
 ## Critical reception
 
-Writing for The A.V. Club, Noel Murray called the film "brutal" and "repellent" but
+Writing for [The A.V. Club](/organizations/the-av-club/), [Noel Murray](/people/noel-murray/) called the film "brutal" and "repellent" but
 "far from artless, or pointless," praising its stark black-and-white photography,
 extreme angles and jumpy editing for achieving "the quality of a nightmare" — while
 arguing that "after its first 20 minutes, *The Bunny Game* has done just about all
@@ -250,10 +250,10 @@ leather rabbit mask while her captor wears a similar "hog" mask
 
 ## The director's later career
 
-Rehmeier went on to direct the features *Jonas* (2013) and the Sundance-premiering
-*Dinner in America* (2020), which was nominated for the festival's Grand Jury Prize
-and took the Grand Prix at the Odessa International Film Festival, followed by the
-coming-of-age comedy *Snack Shack* (2024)
+Rehmeier went on to direct the features [*Jonas*](/creative-works/jonas-2013-film/) (2013) and the [Sundance](/events/sundance-film-festival/)-premiering
+[*Dinner in America*](/creative-works/dinner-in-america/) (2020), which was nominated for the festival's Grand Jury Prize
+and took the Grand Prix at the [Odessa International Film Festival](/events/odessa-international-film-festival/), followed by the
+coming-of-age comedy [*Snack Shack*](/creative-works/snack-shack/) (2024)
 ([PopMatters](https://www.popmatters.com/adam-rehmeier-interview-dinner-america);
 [MovieWeb](https://movieweb.com/snack-shack-adam-rehmeier-intervie/)).
 
