@@ -3,7 +3,7 @@ title: 1955 Blackwell, Oklahoma tornado
 sortTitle: "Blackwell, Oklahoma tornado, 1955"
 summary: >-
   A violent F5 tornado that struck Blackwell, Oklahoma on the night of May
-  25, 1955, killing about 20-21 people, injuring roughly 200-280, and
+  25, 1955, killing about 20 people, injuring roughly 200-280, and
   destroying about 190 structures, including two of the town's largest
   factories.
 entityType: Event
@@ -18,7 +18,7 @@ facts:
   - label: Path
     value: Roughly 28 miles long and 500 yards wide, from near Marland, Oklahoma, through Blackwell and on into Kansas
   - label: Deaths
-    value: "About 20-21 people (sources vary slightly on the exact count)"
+    value: "About 20 people per the National Weather Service (19 in Blackwell plus one northeast of town); the Blackwell Journal-Tribune retrospective lists 17 to 21 named victims"
   - label: Injuries
     value: Roughly 200-280 people
   - label: Structures destroyed
@@ -32,7 +32,7 @@ timeline:
     event: >-
       An F5 tornado touches down near Marland, Oklahoma, and tracks
       approximately 28 miles through Blackwell before crossing into Kansas,
-      killing about 20-21 people, injuring roughly 200-280, and destroying
+      killing about 20 people, injuring roughly 200-280, and destroying
       about 190 structures in the city, including the Hazel-Atlas Glass
       plant and Acme Foundry.
     sourceType: Government meteorological agency damage survey
@@ -66,10 +66,11 @@ sourceNote: >-
 openItems:
   - >-
     Sources vary on the exact death toll: the National Weather Service
-    reports 20 killed in Blackwell plus one additional death northeast of
-    town (21 total), while the Blackwell Journal-Tribune's retrospective
+    reports 19 killed in Blackwell plus one additional death northeast of
+    town (20 total), while the Blackwell Journal-Tribune's retrospective
     lists 17 to 21 named victims. This profile reports the range rather
-    than picking one figure.
+    than picking one figure. (Corrected 2026-10-14: an earlier version
+    misread the NWS page as 20 killed in Blackwell plus one northeast.)
   - >-
     A 1957 paper reportedly published in the Journal of Atmospheric
     Sciences on unusual electrical activity associated with the tornado
@@ -115,14 +116,14 @@ draft: false
 
 ## Overview
 
-On the night of May 25, 1955, a violent F5 tornado struck Blackwell, a small city in northern Oklahoma near the Kansas border. The tornado touched down near Marland, Oklahoma, and tracked roughly 28 miles, cutting a path about 500 yards wide through Blackwell before crossing into Kansas, where it went on to strike Udall as a second, simultaneous F5 that night ([National Weather Service](https://www.weather.gov/oun/events-19550525); [Time](https://time.com/3879705/oklahoma-tornado-photos-from-the-deadly-blackwell-twister/)). The National Weather Service's damage survey records about 20 deaths in Blackwell itself plus one additional death northeast of town, and roughly 280 injuries; the Blackwell Journal-Tribune's later retrospective lists 17 to 21 named victims, a close but not identical count ([National Weather Service](https://www.weather.gov/oun/events-19550525); [Blackwell Journal-Tribune](https://www.blackwelljournaltribune.net/articles/10787/view/remembering-the-1955-tornado)).
+On the night of May 25, 1955, a violent F5 tornado struck [Blackwell](/places/blackwell-oklahoma/), a small city in northern [Oklahoma](/places/oklahoma/) near the [Kansas](/places/kansas/) border. The tornado touched down near [Marland, Oklahoma](/places/marland-oklahoma/), and tracked roughly 28 miles, cutting a path about 500 yards wide through Blackwell before crossing into Kansas, where it went on to strike [Udall](/places/udall-kansas/) as a second, simultaneous F5 that night ([National Weather Service](https://www.weather.gov/oun/events-19550525); [Time](https://time.com/3879705/oklahoma-tornado-photos-from-the-deadly-blackwell-twister/)). The [National Weather Service](/organizations/national-weather-service/)'s damage survey records 19 deaths in Blackwell itself plus one additional death northeast of town (20 total), and roughly 280 injuries; the [Blackwell Journal-Tribune](/organizations/blackwell-journal-tribune/)'s later retrospective lists 17 to 21 named victims, a close but not identical count ([National Weather Service](https://www.weather.gov/oun/events-19550525); [Blackwell Journal-Tribune](https://www.blackwelljournaltribune.net/articles/10787/view/remembering-the-1955-tornado)).
 
-The storm devastated a large section of the city. The National Weather Service's damage survey found about 190 structures completely destroyed, with dozens more sustaining major or minor damage; the Blackwell Journal-Tribune similarly describes roughly 29 city blocks devastated, with total damage later estimated at about $12.5 million ([National Weather Service](https://www.weather.gov/oun/events-19550525); [Blackwell Journal-Tribune](https://www.blackwelljournaltribune.net/articles/10787/view/remembering-the-1955-tornado)). Two of the city's largest employers, the Hazel-Atlas Glass plant and the Acme Foundry, were both destroyed; the Journal-Tribune reports the Hazel-Atlas plant, which had employed about 200 people, never reopened, while the Acme Foundry was later rebuilt ([National Weather Service](https://www.weather.gov/oun/events-19550525); [Blackwell Journal-Tribune](https://www.blackwelljournaltribune.net/articles/10787/view/remembering-the-1955-tornado)).
+The storm devastated a large section of the city. The National Weather Service's damage survey found about 190 structures completely destroyed, with dozens more sustaining major or minor damage; the Blackwell Journal-Tribune similarly describes roughly 29 city blocks devastated, with total damage later estimated at about $12.5 million ([National Weather Service](https://www.weather.gov/oun/events-19550525); [Blackwell Journal-Tribune](https://www.blackwelljournaltribune.net/articles/10787/view/remembering-the-1955-tornado)). Two of the city's largest employers, the [Hazel-Atlas Glass plant](/organizations/hazel-atlas-glass-company/) and the [Acme Foundry](/organizations/acme-foundry/), were both destroyed; the Journal-Tribune reports the Hazel-Atlas plant, which had employed about 200 people, never reopened, while the Acme Foundry was later rebuilt ([National Weather Service](https://www.weather.gov/oun/events-19550525); [Blackwell Journal-Tribune](https://www.blackwelljournaltribune.net/articles/10787/view/remembering-the-1955-tornado)).
 
 ## Aftermath and recovery
 
-In the tornado's immediate aftermath, the Oklahoma National Guard was deployed to Blackwell and martial law was declared to secure the devastated area, while the Red Cross provided relief assistance to displaced residents; core utilities, including water, phone and electrical service, were substantially restored within about a week ([Blackwell Journal-Tribune](https://www.blackwelljournaltribune.net/articles/10787/view/remembering-the-1955-tornado)). LIFE magazine photographer Joseph Scherschel documented the destruction in the days that followed; a selection of his contemporaneous photographs was later republished by Time.com, which noted the broader outbreak of "scores of tornadoes across both Oklahoma and Kansas" that night killed more than 100 people in total ([Time](https://time.com/3879705/oklahoma-tornado-photos-from-the-deadly-blackwell-twister/)).
+In the tornado's immediate aftermath, the [Oklahoma National Guard](/organizations/oklahoma-national-guard/) was deployed to Blackwell and martial law was declared to secure the devastated area, while the [Red Cross](/organizations/american-red-cross/) provided relief assistance to displaced residents; core utilities, including water, phone and electrical service, were substantially restored within about a week ([Blackwell Journal-Tribune](https://www.blackwelljournaltribune.net/articles/10787/view/remembering-the-1955-tornado)). [LIFE magazine](/organizations/life-magazine/) photographer Joseph Scherschel documented the destruction in the days that followed; a selection of his contemporaneous photographs was later republished by [Time.com](/organizations/time/), which noted the broader outbreak of "scores of tornadoes across both Oklahoma and Kansas" that night killed more than 100 people in total ([Time](https://time.com/3879705/oklahoma-tornado-photos-from-the-deadly-blackwell-twister/)).
 
 ## What this profile does not claim
 
-This profile does not resolve the small discrepancy between sources over the exact death toll (roughly 20 to 21, depending on the source and how out-of-town deaths are counted), and reports the range rather than asserting a single precise figure. It also does not draw on a 1957 academic paper reportedly discussing unusual electrical activity recorded during the tornado, since that paper could not be independently fetched and read.
+This profile does not resolve the small discrepancy between sources over the exact death toll (about 20 per the National Weather Service — 19 in Blackwell plus one northeast of town — against 17 to 21 named victims in the Journal-Tribune retrospective), and reports the range rather than asserting a single precise figure. It also does not draw on a 1957 academic paper reportedly discussing unusual electrical activity recorded during the tornado, since that paper could not be independently fetched and read.
