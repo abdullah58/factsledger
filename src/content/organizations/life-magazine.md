@@ -57,7 +57,7 @@ sourceNote: >-
   the Scherschel Blackwell photograph. No Wikipedia content is cited. Where sources treat the 1883
   and 1936 magazines differently, the profile flags the disagreement rather than picking a side silently.
 openItems:
-  - "A claimed 2015 Time.com republication of Scherschel's Blackwell photographs was not verified from a full-read source this session and is not asserted; the verified link is the LIFE archive record attributing the 1955 Blackwell photograph to Scherschel."
+  - "Time.com's photo feature on the Blackwell tornado (Ben Cosgrove, April 28, 2014) displays Scherschel's credited Blackwell photographs; the profile therefore asserts the 2014 Time.com feature, not a 2015 republication as an earlier version of the source article had it."
   - "Whether the 1883 humor magazine and the 1936 photo magazine count as one publication or two is disputed across sources; this profile treats the 1936 launch as the start of the photo magazine."
   - "The status of the Bedford Media relaunch after its 2024 announcement (frequency, first-issue date) was not verified from a full-read source this session."
   - "No circulation figure after 2000 is stated; later circulation was not verified from a full-read source."
@@ -185,7 +185,7 @@ In March 2024, Bedford Media agreed with Dotdash Meredith to relaunch LIFE in pr
 ## What this profile does not claim
 
 - It does not claim the 1883 humor magazine and the 1936 photo magazine are the same publication; sources disagree, and the profile treats 1936 as the photo magazine's start.
-- It does not assert a 2015 Time.com republication of Scherschel's Blackwell photographs; that claim was not verified from a full-read source this session. The verified connection is the LIFE archive record attributing the 1955 Blackwell photograph to Scherschel.
+- It does not assert a 2015 Time.com republication of Scherschel's Blackwell photographs; the verified feature is dated April 28, 2014 (Ben Cosgrove), displaying Scherschel's credited photographs. The verified connection is the LIFE archive record attributing the 1955 Blackwell photograph to Scherschel.
 - It does not state the Bedford Media relaunch's frequency, first-issue date, or current status; the 2024 announcement is verified, later developments are not.
 - It does not give circulation or readership figures after 2000, which no full-read source this session verified.
 - It does not describe LIFE's full roster of photographers, editors, or issues; it covers the figures and episodes the cited sources document.

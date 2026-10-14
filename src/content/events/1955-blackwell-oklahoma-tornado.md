@@ -42,7 +42,7 @@ timeline:
       martial law is declared in Blackwell; the Red Cross assists with
       relief, and utilities are largely restored within the week.
     sourceType: Local newspaper retrospective
-  - year: "2015 (photo retrospective)"
+  - year: "2014 (photo retrospective)"
     event: >-
       Time.com republishes contemporaneous photographs of the tornado's
       aftermath taken by LIFE magazine photographer Joseph Scherschel.
