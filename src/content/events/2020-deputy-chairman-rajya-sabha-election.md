@@ -111,31 +111,25 @@ draft: false
 
 ## Overview
 
-On 14 September 2020, Harivansh Narayan Singh of the Janata Dal (United), representing the ruling National
-Democratic Alliance (NDA), was re-elected Deputy Chairman of India's Rajya Sabha, defeating the opposition's
-candidate, Manoj Jha of the Rashtriya Janata Dal (RJD). The result was decided by voice vote, with Rajya
-Sabha Chairman M. Venkaiah Naidu declaring Singh chosen for the post
+On 14 September 2020, [Harivansh Narayan Singh](/people/harivansh-narayan-singh/) of the [Janata Dal (United)](/organizations/janata-dal-united/), representing the ruling [National Democratic Alliance (NDA)](/organizations/national-democratic-alliance/), was re-elected Deputy Chairman of [India](/places/india/)'s [Rajya Sabha](/organizations/rajya-sabha/), defeating the opposition's candidate, [Manoj Jha](/people/manoj-jha/) of the [Rashtriya Janata Dal (RJD)](/organizations/rashtriya-janata-dal/). The result was decided by voice vote, with Rajya
+Sabha Chairman [M. Venkaiah Naidu](/people/venkaiah-naidu/) declaring Singh chosen for the post
 ([Zee News](https://zeenews.india.com/india/harivansh-narayan-singh-re-elected-as-rajya-sabha-deputy-chairman-2309634.html)).
-Singh's nomination was moved by Bharatiya Janata Party president J.P. Nadda and seconded by Leader of the
-House Thavarchand Gehlot, while the rival motion proposing Jha was moved by Leader of the Opposition Ghulam
-Nabi Azad and seconded by Congress leader Anand Sharma
+Singh's nomination was moved by [Bharatiya Janata Party](/organizations/bharatiya-janata-party/) president [J.P. Nadda](/people/j-p-nadda/) and seconded by Leader of the House [Thavarchand Gehlot](/people/thavarchand-gehlot/), while the rival motion proposing Jha was moved by Leader of the Opposition [Ghulam Nabi Azad](/people/ghulam-nabi-azad/) and seconded by [Congress](/organizations/indian-national-congress/) leader [Anand Sharma](/people/anand-sharma/)
 ([Zee News](https://zeenews.india.com/india/harivansh-narayan-singh-re-elected-as-rajya-sabha-deputy-chairman-2309634.html)).
 This was Singh's second consecutive term in the post, having first been elected Deputy Chairman in 2018.
 
 ## Background: the 2018 first election
 
 Singh was first elected Deputy Chairman on the penultimate day of Parliament's 2018 monsoon session,
-defeating Congress-backed candidate B.K. Hariprasad by 125 votes to 105 in the 244-member House, with 14
-members absent. The Shiv Sena, then still within the NDA fold, said it would back Singh because the post
-was "apolitical," while the Aam Aadmi Party boycotted the vote altogether, with AAP leader Sanjay Singh
+defeating Congress-backed candidate [B.K. Hariprasad](/people/b-k-hariprasad/) by 125 votes to 105 in the 244-member House, with 14
+members absent. The [Shiv Sena](/organizations/shiv-sena/), then still within the NDA fold, said it would back Singh because the post was "apolitical," while the [Aam Aadmi Party](/organizations/aam-aadmi-party/) boycotted the vote altogether, with AAP leader [Sanjay Singh](/people/sanjay-singh/)
 publicly questioning the opposition's approach to building support
 ([Gulf News](https://gulfnews.com/news/asia/india/nda-s-harivansh-narayan-singh-elected-as-rajya-sabha-deputy-chairman-1.2264029)).
 
 ## A proxy contest ahead of the Bihar election
 
 Indian press coverage framed the 2020 rematch as more than a parliamentary formality. Because the JD-U was
-the NDA's governing ally in Bihar while the RJD was its principal state-level opponent, with Bihar's
-Assembly election due later that year, the Rajya Sabha contest between Harivansh and Jha — both prominent
+the NDA's governing ally in [Bihar](/places/bihar/) while the RJD was its principal state-level opponent, with [Bihar's Assembly election](/events/2020-bihar-legislative-assembly-election/) due later that year, the Rajya Sabha contest between Harivansh and Jha — both prominent
 Bihar-linked politicians — was read as an early proxy skirmish between the two camps. Jha argued the contest
 was about more than personalities, saying his election would "send out a strong message to the ruling party
 that please, start listening to the opposition"
