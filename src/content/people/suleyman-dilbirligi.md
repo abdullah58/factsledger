@@ -272,7 +272,7 @@ In 2016 it was announced that Dilbirliği's story would become a feature film; m
 of it was shot in Turkey, the score was by Fahit Atakoğlu, the production company
 was Dijital Sanatlar, and Turkish Airlines sponsored it
 ([Korea.net](https://www.korea.net/NewsFocus/Culture/view?articleId=145773)).
-The film, "Ayla: The Daughter of War," directed by Can Ülkay, opened in Turkey on 8
+The film, "Ayla: The Daughter of War," directed by [Can Ülkay](/people/can-ulkay/), opened in Turkey on 8
 September 2017 and was chosen as Turkey's submission for the foreign-language-film
 Oscar; İsmail Hacıoğlu and Çetin Tekindor played the young and elderly Dilbirliği,
 while Kim Seol and Lee Kyung-Jin played the young and adult Ayla

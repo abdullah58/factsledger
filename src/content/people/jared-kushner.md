@@ -597,7 +597,7 @@ insisted "These are terribly complex problems," and pledged the team would
 diplomacy
 ([Türkiye Today](https://www.turkiyetoday.com/world/us-may-unveil-next-phase-of-ukraine-russia-talks-within-weeks-kushner-3228050);
 [Censor.NET](https://censor.net/en/news/4023152/kushner-identified-the-most-difficult-issue-in-the-negotiations-between-ukraine-and-russia)).
-Days later, actor and director Sean Penn used a *Vanity Fair* interview to
+Days later, actor and director [Sean Penn](/people/sean-penn/) used a *Vanity Fair* interview to
 ask Kushner and Ivanka Trump to watch his documentary *Black Sunflowers*
 about young Ukrainians — not, Penn said, to attack a president, but to create
 human connection and reflection

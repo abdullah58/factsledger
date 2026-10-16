@@ -66,7 +66,7 @@ Formally the House Committee on Oversight and Government Reform in the 119th Con
 
 ## The Epstein investigation
 
-The committee's defining 2026 story is its probe into the federal government's handling of the Jeffrey Epstein and Ghislaine Maxwell criminal cases. On May 12, 2026, it held a hearing titled "Survivors Fight for Justice: Exposing Epstein's Crimes in Palm Beach and Across the World."[^3] Then the investigation collided with Wall Street.
+The committee's defining 2026 story is its probe into the federal government's handling of the Jeffrey Epstein and [Ghislaine Maxwell](/people/ghislaine-maxwell/) criminal cases. On May 12, 2026, it held a hearing titled "Survivors Fight for Justice: Exposing Epstein's Crimes in Palm Beach and Across the World."[^3] Then the investigation collided with Wall Street.
 
 In June 2026, [[Leon Black](/people/leon-black/)](https://factsledger.com/people/leon-black/) — co-founder of Apollo Global Management — sat for a voluntary transcribed interview and refused to answer questions about Epstein's victims and about nondisclosure agreements. Comer issued two subpoenas in the middle of the session: one demanding any NDAs Black had entered into, including any linked to Epstein or Maxwell, and one compelling a sworn deposition. Black walked out.[^2] He had told the committee he had no knowledge of Epstein's crimes and described roughly $158 million in payments to the late financier as compensation for legitimate tax and estate planning advice; he had relinquished Apollo's chief executive role in 2021 after an external review of those payments.[^2]
 

@@ -113,7 +113,7 @@ Sun founded the TRON blockchain platform and its TRX token, building it into one
 
 In 2018, Sun acquired BitTorrent, the pioneering peer-to-peer file-sharing company, later renamed Rainberry Inc. — the corporate history The Block recounted when covering the end of the SEC case, in which Rainberry agreed to pay a $10 million fine. BitTorrent later launched its own utility token, BTT, on the TRON network.
 
-Sun stepped down as CEO of the TRON Foundation in December 2021, saying he was phasing out of the crypto business to focus on diplomacy — a move reported at the time as part of his pivot to a government role.
+Sun stepped down as CEO of the [TRON Foundation](/organizations/tron-foundation/) in December 2021, saying he was phasing out of the crypto business to focus on diplomacy — a move reported at the time as part of his pivot to a government role.
 
 ## Grenada's diplomat
 
