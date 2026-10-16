@@ -116,10 +116,10 @@ draft: false
 
 ## Overview
 
-On the morning of 1 February 2008, a tipper lorry leaving a ballast-delivery worksite near Barrow upon Soar station
-in Leicestershire struck the Barrow Old Station footbridge with its raised body, knocking the bridge's span onto
-the Leicester to Nottingham/Derby railway line. Minutes later, the 06:13 Nottingham to Norwich service (1L03) —
-a two-car Class 158 diesel multiple unit (158856), owned by Angel Trains and operated by East Midlands Trains —
+On the morning of 1 February 2008, a tipper lorry leaving a ballast-delivery worksite near [Barrow upon Soar station](/places/barrow-upon-soar-railway-station/)
+in [Leicestershire](/places/leicestershire/) struck the Barrow Old Station footbridge with its raised body, knocking the bridge's span onto
+the [Leicester](/places/leicester/) to [Nottingham](/places/nottingham/)/[Derby](/places/derby/) railway line. Minutes later, the 06:13 Nottingham to [Norwich](/places/norwich/) service (1L03) —
+a two-car Class 158 diesel multiple unit (158856), owned by [Angel Trains](/organizations/angel-trains/) and operated by [East Midlands Trains](/organizations/east-midlands-trains/) —
 collided with the debris at around 06:32, travelling at 65 mph, and derailed, running a further 170 metres before
 stopping partially under a road bridge ([RAIB summary](https://www.gov.uk/raib-reports/collision-of-a-train-with-a-demolished-footbridge-barrow-upon-soar);
 [RAIB Report 18/2008](https://assets.publishing.service.gov.uk/media/5a80131ced915d74e622c510/080925_R182008_BarrowUponSoar.pdf);
@@ -131,7 +131,7 @@ The delivery was part of scheduled maintenance. In October 2007 Network Rail's t
 beds and blocked drains on the down slow line that needed repair on 2 February 2008, and ballast for the job was
 ordered for road delivery on 30 and 31 January and 1 February, between 06:00 and 08:00 each day. The first two
 deliveries went through without incident ([RAIB Report 18/2008](https://assets.publishing.service.gov.uk/media/5a80131ced915d74e622c510/080925_R182008_BarrowUponSoar.pdf)).
-Midland Quarry Products supplied the ballast under contract to Network Rail, and the tipper lorry was owned and
+[Midland Quarry Products](/organizations/midland-quarry-products/) supplied the ballast under contract to Network Rail, and the tipper lorry was owned and
 operated by a franchised haulier to the supplier ([RAIB Report 18/2008](https://assets.publishing.service.gov.uk/media/5a80131ced915d74e622c510/080925_R182008_BarrowUponSoar.pdf)).
 The morning of the accident was the second lorry's first visit to the site: it had to reverse 300 metres along an
 access path beside the track to reach the tipping point ([RAIB Report 18/2008](https://assets.publishing.service.gov.uk/media/5a80131ced915d74e622c510/080925_R182008_BarrowUponSoar.pdf)).
@@ -162,7 +162,7 @@ normal practice in such circumstances — but the driver had no time to stop ([N
 Both wheelsets of the leading bogie derailed to the left as the train rode over the bridge sections on the track,
 and the cab was severely damaged, the impact damage extending back to the driver's window ([RAIB Report 18/2008](https://assets.publishing.service.gov.uk/media/5a80131ced915d74e622c510/080925_R182008_BarrowUponSoar.pdf)).
 The driver, aged 31, sustained serious deep lacerations to his legs, was cut free from the cab and taken to
-Leicester Royal Infirmary, where he was later in a stable condition ([Rail Technology Magazine](https://www.railtechnologymagazine.com/News-Robot/Train-strikes-footbridge);
+[Leicester Royal Infirmary](/organizations/leicester-royal-infirmary/), where he was later in a stable condition ([Rail Technology Magazine](https://www.railtechnologymagazine.com/News-Robot/Train-strikes-footbridge);
 [Construction Enquirer](https://www.constructionenquirer.com/2011/10/04/network-rail-fined-80000-after-train-derailed/)).
 The guard walked the length of the train checking passengers, found the driver trapped in the cab, and — the
 cab's radio having been destroyed by the impact — called the signaller from the signal post telephone about five
@@ -171,8 +171,8 @@ The guard and one passenger were also taken to hospital but released later that 
 controller was treated for shock; the lorry driver, who had to be cut free by a fire crew, escaped injury
 ([RAIB summary](https://www.gov.uk/raib-reports/collision-of-a-train-with-a-demolished-footbridge-barrow-upon-soar);
 [New Civil Engineer](https://www.newcivilengineer.com/archive/lorry-driver-blamed-for-collapsing-bridge-onto-midland-mainline-01-02-2008/)).
-The train, carrying six passengers, derailed but remained upright. All four lines through Barrow upon Soar were
-blocked, with London services terminating at Leicester; engineers worked through the night, two lines reopened by
+The train, carrying six passengers, derailed but remained upright. All four lines through [Barrow upon Soar](/places/barrow-upon-soar/) were
+blocked, with [London](/places/london/) services terminating at Leicester; engineers worked through the night, two lines reopened by
 around 04:00 the next day, and the remaining two were expected to reopen by the evening ([Rail Technology Magazine](https://www.railtechnologymagazine.com/News-Robot/Train-strikes-footbridge)).
 
 ## Investigation
@@ -191,13 +191,13 @@ risks of road-vehicle movements near live railway lines, and incorrect line-prot
 at the site ([RAIB summary](https://www.gov.uk/raib-reports/collision-of-a-train-with-a-demolished-footbridge-barrow-upon-soar)).
 RAIB recommended that Network Rail assess risks during road-vehicle transit operations on its land near the
 running line and review arrangements for correct protection when working on or near it; it also recommended that
-the Rail Safety and Standards Board examine designing trains to mitigate the consequences of derailment ([RAIB summary](https://www.gov.uk/raib-reports/collision-of-a-train-with-a-demolished-footbridge-barrow-upon-soar)).
+the [Rail Safety and Standards Board](/organizations/rail-safety-and-standards-board/) examine designing trains to mitigate the consequences of derailment ([RAIB summary](https://www.gov.uk/raib-reports/collision-of-a-train-with-a-demolished-footbridge-barrow-upon-soar)).
 
 ## Prosecution
 
-Following an Office of Rail Regulation investigation, which found that Network Rail had failed to properly plan,
+Following an [Office of Rail Regulation](/organizations/office-of-rail-regulation/) investigation, which found that Network Rail had failed to properly plan,
 manage and supervise the bulk-material deliveries to its worksite, the company was prosecuted ([New Civil Engineer](https://www.newcivilengineer.com/archive/network-rail-fined-for-bridge-collapse-and-train-derailment-04-10-2011/)).
-Network Rail Infrastructure Limited pleaded guilty at Leicester Crown Court on 3 October 2011 to breaches of the
+Network Rail Infrastructure Limited pleaded guilty at [Leicester Crown Court](/organizations/leicester-crown-court/) on 3 October 2011 to breaches of the
 Health and Safety at Work Act 1974 (sections 2(1) and 3(1)) and the Management of Health and Safety at Work
 Regulations 1999 (regulation 5(1)), and was fined 80,000 pounds with 32,000 pounds in costs ([Office of Rail Regulation](http://orr.gov.uk/sites/default/files/om/prosecution-barrow-010208.pdf)).
 "Network Rail's poor planning and management of construction site safety at Barrow placed members of the
@@ -211,8 +211,8 @@ non-slip replacement while noting it lacked the original ironwork's Victorian ch
 
 ## Not the 2016 incident
 
-Barrow upon Soar was the scene of a second, separate bridge incident more than eight years later. On 1 August
-2016 the Grove Lane road bridge over the Midland Main Line partially collapsed during core-sampling work when a
+Barrow upon Soar was the scene of a [second, separate bridge incident](/events/2016-barrow-upon-soar-bridge-collapse/) more than eight years later. On 1 August
+2016 the Grove Lane road bridge over the [Midland Main Line](/places/midland-main-line/) partially collapsed during core-sampling work when a
 disturbed water main ruptured; no one was injured and no train was struck. RAIB investigated that event under
 Report 10/2017 ([RAIB summary](https://www.gov.uk/raib-reports/partial-collapse-of-a-bridge-onto-open-railway-lines-at-barrow-upon-soar)).
 It is unrelated to the 2008 footbridge collision described here.
