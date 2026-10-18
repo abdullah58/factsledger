@@ -71,6 +71,8 @@ sourceNote: >-
   access error — so it is not cited here.
 openItems:
   - >-
+    Citation correction 2026-10-18: the WNTI citation now points to the PDF fact sheet, where the 55°C and 36-hour figures appear; the HTML resource page lists the requirement categories without those figures.
+  - >-
     An academic paper discussing the Code's legal and regulatory history
     ("The International Code for the Safe Carriage of Packaged Irradiated
     Nuclear Fuel... An Industry Perspective," International Journal of
@@ -113,11 +115,11 @@ sources:
     date: "2007-10-12"
     usedFor: The adoption date and content of the fourth amendment to the Code.
   - title: "Fact Sheet: The INF Code and Purpose-Built Vessels"
-    url: https://www.wnti.co.uk/resource/test-the-inf-code-and-purpose-built-vessels/
+    url: https://www.wnti.co.uk/wp-content/uploads/2021/01/The-INF-Code-and-purpose-built-vessels.pdf
     publisher: World Nuclear Transport Institute
     tier: tier2
     usedFor: >-
-      Industry-perspective detail on the cargo types covered (spent fuel,
+      The PDF fact sheet itself (55°C cargo-space temperature cap; 36-hour backup power). Industry-perspective detail on the cargo types covered (spent fuel,
       MOX, vitrified high-level waste) and the compliance regime (SOLAS,
       MARPOL, periodic surveys) that INF-classed vessels operate under.
 author: Muhammad Abdullah Al Yasin
@@ -128,17 +130,17 @@ draft: false
 
 ## Overview
 
-The International Code for the Safe Carriage of Packaged Irradiated Nuclear Fuel, Plutonium and High-Level Radioactive Wastes on board Ships — known for short as the INF Code — is an instrument of the International Maritime Organization (IMO) governing the design and operation of ships that carry irradiated nuclear fuel, plutonium and high-level radioactive waste by sea. The IMO adopted it in 1993 as a voluntary, recommendatory code; it became mandatory in January 2001, when it was incorporated by reference into Chapter VII of the International Convention for the Safety of Life at Sea (SOLAS) ([IMO](https://www.imo.org/en/OurWork/Safety/Pages/INF-Code.aspx)).
+The International Code for the Safe Carriage of Packaged Irradiated Nuclear Fuel, Plutonium and High-Level Radioactive Wastes on board Ships — known for short as the INF Code — is an instrument of the [International Maritime Organization](/organizations/international-maritime-organization/) (IMO) governing the design and operation of ships that carry irradiated nuclear fuel, plutonium and high-level radioactive waste by sea. The IMO adopted it in 1993 as a voluntary, recommendatory code; it became mandatory in January 2001, when it was incorporated by reference into Chapter VII of the [International Convention for the Safety of Life at Sea (SOLAS)](/events/solas-convention/) ([IMO](https://www.imo.org/en/OurWork/Safety/Pages/INF-Code.aspx)).
 
-The Code complements the transport regulations of the International Atomic Energy Agency by adding maritime-specific requirements aimed at protecting people, property and the environment from the radiation hazards of this cargo, both in normal operation and in the event of an accident. It sorts ships into three classes — INF 1, INF 2 and INF 3 — based on the aggregate radioactivity of the material they are certified to carry, with INF 3 vessels (carrying the highest-activity cargo, including irradiated fuel, high-level waste and plutonium) facing no upper limit on aggregate radioactivity but correspondingly stringent design requirements ([IMO](https://www.imo.org/en/OurWork/Safety/Pages/INF-Code.aspx)).
+The Code complements the transport regulations of the [International Atomic Energy Agency](/organizations/international-atomic-energy-agency/) by adding maritime-specific requirements aimed at protecting people, property and the environment from the radiation hazards of this cargo, both in normal operation and in the event of an accident. It sorts ships into three classes — INF 1, INF 2 and INF 3 — based on the aggregate radioactivity of the material they are certified to carry, with INF 3 vessels (carrying the highest-activity cargo, including irradiated fuel, high-level waste and plutonium) facing no upper limit on aggregate radioactivity but correspondingly stringent design requirements ([IMO](https://www.imo.org/en/OurWork/Safety/Pages/INF-Code.aspx)).
 
 ## Vessel requirements
 
-Ships certified under the Code must meet requirements addressing damage stability, fire protection, and structural resistance, in addition to complying with SOLAS and, where relevant, the International Convention for the Prevention of Pollution from Ships (MARPOL) ([IMO](https://www.imo.org/en/OurWork/Safety/Pages/INF-Code.aspx)). The World Nuclear Transport Institute, an industry body representing the nuclear transport sector, describes additional operational detail: cargo holds must be kept below 55°C, redundant electrical systems must provide at least 36 hours of backup power, and vessels must carry radiological protection equipment and documented emergency plans, alongside undergoing initial and periodic surveys under SOLAS ([World Nuclear Transport Institute](https://www.wnti.co.uk/resource/test-the-inf-code-and-purpose-built-vessels/)).
+Ships certified under the Code must meet requirements addressing damage stability, fire protection, and structural resistance, in addition to complying with SOLAS and, where relevant, the [International Convention for the Prevention of Pollution from Ships (MARPOL)](/events/marpol-convention/) ([IMO](https://www.imo.org/en/OurWork/Safety/Pages/INF-Code.aspx)). The [World Nuclear Transport Institute](/organizations/world-nuclear-transport-institute/), an industry body representing the nuclear transport sector, describes additional operational detail: cargo holds must be kept below 55°C, redundant electrical systems must provide at least 36 hours of backup power, and vessels must carry radiological protection equipment and documented emergency plans, alongside undergoing initial and periodic surveys under SOLAS ([World Nuclear Transport Institute](https://www.wnti.co.uk/wp-content/uploads/2021/01/The-INF-Code-and-purpose-built-vessels.pdf)).
 
 ## Amendment history
 
-Since becoming mandatory, the Code has been amended by the IMO's Maritime Safety Committee on four occasions: resolution MSC.118(74), adopted 6 June 2001, aligned the Code's cargo definitions with a parallel update to the International Maritime Dangerous Goods Code; MSC.135(76), adopted 12 December 2002, updated regulatory cross-references and tightened compliance language; MSC.178(79), adopted 10 December 2004, added a survey-completion-date field to the Code's model certificate of fitness; and MSC.241(83), adopted 12 October 2007, revised the Code's damage-stability chapter, including new provisions for vessels under 80 metres in length ([Resolution MSC.118(74)](https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.118(74).pdf); [Resolution MSC.135(76)](https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.135(76).pdf); [Resolution MSC.178(79)](https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.178(79).pdf); [Resolution MSC.241(83)](https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.241(83).pdf)).
+Since becoming mandatory, the Code has been amended by the IMO's [Maritime Safety Committee](/organizations/maritime-safety-committee/) on four occasions: resolution MSC.118(74), adopted 6 June 2001, aligned the Code's cargo definitions with a parallel update to the [International Maritime Dangerous Goods Code](/events/imdg-code/); MSC.135(76), adopted 12 December 2002, updated regulatory cross-references and tightened compliance language; MSC.178(79), adopted 10 December 2004, added a survey-completion-date field to the Code's model certificate of fitness; and MSC.241(83), adopted 12 October 2007, revised the Code's damage-stability chapter, including new provisions for vessels under 80 metres in length ([Resolution MSC.118(74)](https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.118(74).pdf); [Resolution MSC.135(76)](https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.135(76).pdf); [Resolution MSC.178(79)](https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.178(79).pdf); [Resolution MSC.241(83)](https://wwwcdn.imo.org/localresources/en/KnowledgeCentre/IndexofIMOResolutions/MSCResolutions/MSC.241(83).pdf)).
 
 ## What this profile does not claim
 
