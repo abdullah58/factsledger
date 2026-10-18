@@ -26,7 +26,6 @@ export const SITE = {
     image: '/images/author-muhammad.jpg',
     social: {
       facebook: 'https://www.facebook.com/likhan1987',
-      linkedin: 'https://www.linkedin.com/in/muhammadabdullahalyasiin/',
     },
   },
 };
