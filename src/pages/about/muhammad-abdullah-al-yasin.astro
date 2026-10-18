@@ -40,7 +40,7 @@ const jsonLd = {
 <Page
   title={SITE.author.name}
   eyebrow="Author"
-  lede="Research & Editorial — researches and maintains the profiles on this site."
+  lede="Founder, FactsLedger"
 >
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
@@ -55,10 +55,25 @@ const jsonLd = {
   )}
 
   <p>
-    {SITE.author.name} researches and writes the entity profiles published on {SITE.name}, and is responsible for
-    the site's source standards. Work covers institutions and individuals whose public record is scattered across
-    government documents, awarding-body publications and local press archives — schools and colleges, universities,
-    people, organizations, places, historical events, creative works and, most recently, biological species.
+    I started {SITE.name} as an independent project after checking the data of schools like Golden Peak High School
+    and finding much of it wrong or stale online. I felt it was my responsibility to give people correct information.
+  </p>
+  <p>
+    Research and source-checking is something I do on my own, alongside my regular job — not a profession. I
+    completed an LLM (Master of Laws), which included a Research Methodology subject, so I have a grounding in how
+    research is done. I don't claim to be a journalist. What I can show is the method: every profile lists its
+    sources, flags what could not be verified, and invites corrections. See the{' '}
+    <a href="/about/methodology/">methodology</a> and <a href="/about/corrections/">corrections policy</a>.
+  </p>
+  <p>
+    Profiles are researched with AI assistance. Every profile is checked against its cited sources before
+    publication. I don't publish private contact details, home addresses, family information about non-public
+    individuals, health information, or allegations not documented in a tier-1 source.
+  </p>
+  <p>
+    Work covers institutions and individuals whose public record is scattered across government documents,
+    awarding-body publications and local press archives — schools and colleges, universities, people, organizations,
+    places, historical events, creative works and, most recently, biological species.
     {categoryCounts.length > 0 && (
       <>
         {' '}As of {fmt(new Date())}, that work spans {all.length} published profiles across {categoryCounts.length}

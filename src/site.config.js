@@ -22,7 +22,7 @@ export const SITE = {
   author: {
     name: 'Muhammad Abdullah Al Yasin',
     slug: 'muhammad-abdullah-al-yasin',
-    role: 'Research & Editorial',
+    role: 'Founder',
     image: '/images/author-muhammad.jpg',
     social: {
       facebook: 'https://www.facebook.com/likhan1987',
