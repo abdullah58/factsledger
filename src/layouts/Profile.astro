@@ -197,7 +197,8 @@ const hasFirstParty = d.sources.some((s: any) => s.tier === 'first-party');
 
     <footer class="article__footer">
       <p>
-        Researched and written by <a href={`/about/${SITE.author.slug}/`}>{d.author}</a>.
+        Researched with AI assistance and verified against cited sources — by{' '}
+        <a href={`/about/${SITE.author.slug}/`}>{d.author}</a>.
         Published {fmt(d.published)}; last updated {fmt(d.lastUpdated)}.
       </p>
       <p>
