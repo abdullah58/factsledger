@@ -169,7 +169,7 @@ Folkenflik's account
 ([NPR](https://radio.wcmu.org/2018-10-09/former-wh-communications-director-hope-hicks-lands-job-at-fox)).
 
 Then the boomerang. In early 2020 she returned to the White House as counselor
-and senior adviser, officially working under Jared Kushner, and was still
+and senior adviser, officially working under [Jared Kushner](/people/jared-kushner/), and was still
 there on January 6, 2021 — a fact that would put her at the center of the
 next sworn chapter
 ([anews](https://www.anews.com.tr/world/2020/10/02/hope-hicks-the-white-house-counselor-who-lets-trump-be-trump)).

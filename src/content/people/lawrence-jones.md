@@ -87,7 +87,7 @@ Jones is a native of Garland, Texas, and attended the University of North Texas.
 
 ## The 2019 Minnesota rally appearance
 
-One lesser-reported stop in his rise: in October 2019, Jones appeared live from the Minnesota Trump rally on The Sean Hannity Show alongside [Trisha Hope](/people/trisha-hope/), the author of "Just the Tweets."[^4] The podcast episode, released October 10, 2019, billed Jones as a Fox News contributor and Hope as the episode's other guest from the rally floor.[^4] Some write-ups garble this detail as an appearance "alongside a woman named Hope"; the verified record shows the guest was Trisha Hope, promoting her book about Trump's social media posts.[^4]
+One lesser-reported stop in his rise: in October 2019, Jones appeared live from the Minnesota Trump rally on [The Sean Hannity Show](/creative-works/sean-hannity-show/) alongside [Trisha Hope](/people/trisha-hope/), the author of "Just the Tweets."[^4] The podcast episode, released October 10, 2019, billed Jones as a Fox News contributor and Hope as the episode's other guest from the rally floor.[^4] Some write-ups garble this detail as an appearance "alongside a woman named Hope"; the verified record shows the guest was Trisha Hope, promoting her book about Trump's social media posts.[^4]
 
 ## The Memories Pizza fundraiser question
 
@@ -100,5 +100,5 @@ This profile does not assert Jones's exact date of birth, which is widely repeat
 [^1]: "FOX News Channel Names Lawrence Jones Co-host of FOX & Friends," Fox News via BusinessWire, Sept 14, 2023.
 [^2]: Capitol City Speakers Bureau biography of Lawrence Jones.
 [^3]: Jon Street, "Lawrence Jones praises 'progress' on commencement speakers," Fox News Digital via Campus Reform, May 20, 2019.
-[^4]: "Just The Tweets," The Sean Hannity Show podcast episode, released Oct 10, 2019.
+[^4]: "Just The Tweets," The [Sean Hannity](/people/sean-hannity/) Show podcast episode, released Oct 10, 2019.
 [^5]: "After Anti-Gay Pizza Parlor Gets $800,000, Activists Crowdfund for Homeless LGBT Youth," Rewire News Group, Apr 9, 2015.

@@ -362,7 +362,7 @@ In September 2026, OpenAI announced that an internal AI system had produced a pr
 
 ### Recent public statements
 
-Speaking at the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026 — an event also attended by Nvidia CEO Jensen Huang and U.S. Commerce Secretary Howard Lutnick — Altman said adopting AI is "non-negotiable," comparing it to the historical adoption of electricity: "Electricity also came with some complexities, and it took a little while to figure out how to make it safe... It would be hard for society to function well without electricity at this point." ([Yahoo Finance UK](https://uk.finance.yahoo.com/news/openai-sam-altman-says-ai-100951715.html); event confirmed by [Axios](https://www.axios.com/2026/08/27/altman-huang-lutnick-chapel-hill-g20-trade))
+Speaking at the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026 — an event also attended by Nvidia CEO [Jensen Huang](/people/jensen-huang/) and U.S. Commerce Secretary Howard Lutnick — Altman said adopting AI is "non-negotiable," comparing it to the historical adoption of electricity: "Electricity also came with some complexities, and it took a little while to figure out how to make it safe... It would be hard for society to function well without electricity at this point." ([Yahoo Finance UK](https://uk.finance.yahoo.com/news/openai-sam-altman-says-ai-100951715.html); event confirmed by [Axios](https://www.axios.com/2026/08/27/altman-huang-lutnick-chapel-hill-g20-trade))
 
 ## Wealth
 

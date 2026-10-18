@@ -124,7 +124,7 @@ Norwich is a cathedral city and district in Norfolk, [England](/places/england/)
 
 Its site seems not to have been occupied until Saxon times, when the village of Northwic was founded on a gravel terrace above the Wensum, and by 1004, when it was sacked by the Danes, it had become an important market centre ([Britannica](https://www.britannica.com/place/Norwich-England)). Norwich grew rich on wool, kept 30 medieval churches, and in 2012 became England's first UNESCO City of Literature ([Britannica](https://www.britannica.com/place/Norwich-England); [National Centre for Writing](https://nationalcentreforwriting.org.uk/norwich-unesco-city-of-literature/why-norwich/)). In 2021 its population was around 143,900 ([Office for National Statistics](https://www.ons.gov.uk/visualisations/censusareachanges/E07000148/)).
 
-Norwich is also the destination named in one of Britain's most investigated railway accidents: the 06:13 [Nottingham](/places/nottingham/) to Norwich service that derailed at Barrow upon Soar in 2008, an event recorded in the Barrow upon Soar rail crash profile ([RAIB](https://www.gov.uk/raib-reports/collision-of-a-train-with-a-demolished-footbridge-barrow-upon-soar)).
+Norwich is also the destination named in one of Britain's most investigated railway accidents: the 06:13 [Nottingham](/places/nottingham/) to Norwich service that derailed at [Barrow upon Soar](/places/barrow-upon-soar/) in 2008, an event recorded in the Barrow upon Soar rail crash profile ([RAIB](https://www.gov.uk/raib-reports/collision-of-a-train-with-a-demolished-footbridge-barrow-upon-soar)).
 
 ## From Northwic to a prosperous medieval city
 

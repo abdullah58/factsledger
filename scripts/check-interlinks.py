@@ -20,6 +20,7 @@ from urllib.parse import urldefrag, urlsplit
 MARKDOWN_LINK_RE = re.compile(r"\]\((/[^)\s]+/?)\)")
 YAML_HREF_RE = re.compile(r"^\s+href:\s*(/[^\s#]+/?)(?:\s+#.*)?$", re.MULTILINE)
 RELATED_RE = re.compile(r"^related:\s*$", re.MULTILINE)
+FRONTMATTER_RE = re.compile(r"^---\n.*?\n---\n", re.S)
 CONTENT_PATH_RE = re.compile(r"^/(creative-works|events|organizations|people|places|schools|species|universities)/([^/]+)/?$")
 
 
@@ -55,6 +56,36 @@ def source_files(repo: Path) -> list[Path]:
     )
 
 
+def find_nested_links(body: str) -> list[str]:
+    """Return snippets of links whose text contains a complete inner link.
+
+    Catches applier corruptions like [[Meta](/organizations/meta/) Platforms](...)
+    and [Bank of [England](/places/england/) ...](...). Bracketed non-link text
+    ([^1^] footnotes, [sic], [BD Review] citation titles) is NOT flagged: a
+    `[` only counts as a link open when its `]` is followed by `(`. The snippet
+    runs from the outer `[` past the inner link's close, enough to identify it.
+    """
+    hits: list[str] = []
+    i, n, stack = 0, len(body), []
+    while i < n:
+        c = body[i]
+        if c == "\\":
+            i += 2
+            continue
+        if c == "[":
+            stack.append(i)
+        elif c == "]":
+            if i + 1 < n and body[i + 1] == "(":
+                if len(stack) >= 2:
+                    hits.append(body[stack[0]:i + 160])
+                if stack:
+                    stack.pop()
+            elif stack:
+                stack.pop()
+        i += 1
+    return hits
+
+
 def inspect_file(repo: Path, path: Path) -> tuple[dict[str, int], list[Finding], bool]:
     text = path.read_text(encoding="utf-8")
     source = str(path.relative_to(repo))
@@ -71,6 +102,11 @@ def inspect_file(repo: Path, path: Path) -> tuple[dict[str, int], list[Finding],
         destination = content_target(repo, target)
         if destination is not None and not destination.exists():
             findings.append(Finding("missing", source, target, str(destination.relative_to(repo))))
+
+    body = FRONTMATTER_RE.sub("", text, count=1)
+    for snippet in find_nested_links(body):
+        findings.append(Finding("nested", source, "",
+                                snippet[:200].replace("\n", " ")))
 
     has_related = bool(RELATED_RE.search(text))
     return counts, findings, has_related
@@ -99,7 +135,7 @@ def main() -> int:
         if has_related:
             related_files.append(str(path.relative_to(repo)))
 
-    errors = [finding for finding in findings if finding.kind in {"duplicate", "missing"}]
+    errors = [finding for finding in findings if finding.kind in {"duplicate", "missing", "nested"}]
     if args.fail_on_related:
         errors.extend(
             Finding("related", source, "", "legacy related: block found")
@@ -111,6 +147,7 @@ def main() -> int:
     print(f"internal_links_scanned={total_links}")
     print(f"duplicate_target_errors={sum(f.kind == 'duplicate' for f in findings)}")
     print(f"missing_target_errors={sum(f.kind == 'missing' for f in findings)}")
+    print(f"nested_link_errors={sum(f.kind == 'nested' for f in findings)}")
     print(f"legacy_related_blocks={len(related_files)}")
 
     if findings:

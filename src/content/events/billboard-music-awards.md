@@ -83,7 +83,7 @@ Billboard's historical account says the awards began in 1990 and initially aired
 
 ## Recent format and verified 2024 result
 
-The official site describes the 2023 edition as a reimagined format with performances at unique locations across the globe, distributed through BBMAs and Billboard social channels and BBMAs.watch ([Billboard Music Awards](https://www.billboardmusicawards.com/about/)). ABC News reported that the 2024 ceremony took place on December 12, 2024, and that Taylor Swift won 10 awards, bringing her career total to 49 and making her the most decorated artist in the show's history at that time ([ABC News](https://abcnews.com/GMA/Culture/billboard-music-awards-2024-full-winners-list-taylor-swift-makes-history/story?id=116761655)).
+The official site describes the 2023 edition as a reimagined format with performances at unique locations across the globe, distributed through BBMAs and Billboard social channels and BBMAs.watch ([Billboard Music Awards](https://www.billboardmusicawards.com/about/)). [ABC News](/organizations/abc-news/) reported that the 2024 ceremony took place on December 12, 2024, and that Taylor Swift won 10 awards, bringing her career total to 49 and making her the most decorated artist in the show's history at that time ([ABC News](https://abcnews.com/GMA/Culture/billboard-music-awards-2024-full-winners-list-taylor-swift-makes-history/story?id=116761655)).
 
 ## What this profile does not claim
 

@@ -231,7 +231,7 @@ dismissed after a settlement that removed the documentary from the channel's
 programming
 ([Britannica](https://www.britannica.com/biography/michael-jackson)). The 2026
 biopic *Michael*, produced by Graham King alongside the two co-executors and
-starring Jackson's nephew Jaafar Jackson, ends its narrative in the late 1980s —
+starring Jackson's nephew [Jaafar Jackson](/people/jaafar-jackson/), ends its narrative in the late 1980s —
 the scenes that would have confronted the 1993 allegations were rewritten after
 lawyers found a clause in the 1993 settlement barring depiction of the accuser —
 and its release gave the catalog a fresh boost, with *Thriller* reentering the

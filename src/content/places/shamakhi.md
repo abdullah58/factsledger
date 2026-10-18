@@ -172,7 +172,7 @@ Shamakhi decayed sharply in the 18th century. An academic study attributes the d
 ## What this profile does not claim
 
 - It does not date the Shirvanshahs' move to Baku to 1191 or 1192; sources differ, so the profile says 12th-century only.
-- It does not repeat AzerNews's claim that the Juma Mosque was the only building to withstand Shamakhi's giant earthquakes; the rebuild evidence points the other way.
+- It does not repeat [AzerNews](/organizations/azernews/)'s claim that the Juma Mosque was the only building to withstand Shamakhi's giant earthquakes; the rebuild evidence points the other way.
 - It does not assert that Nasimi or Sabir were born in Shamakhi; no fully-read source for this profile verified their birthplaces.
 - It does not give the 1667 earthquake's death toll, the 1721 sack, or the Shamakhi dancers: the academic paper's body is in Persian and was not read, and no fully-read source verified the other claims.
 - It does not give a current population for the wider Shamakhi district; the figures quoted are for the urban place only.

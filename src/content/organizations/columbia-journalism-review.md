@@ -135,7 +135,7 @@ a version of reality that its core right-leaning audience wishes to
 see"
 ([Columbia Journalism Review](https://www.cjr.org/special_report/breaking_right_wall_street_journal_stubborn_murdoch.php)).
 
-## [Axios](/organizations/axios/)'s "devil's bargain" with OpenAI
+## [Axios](/organizations/axios/)'s "devil's bargain" with [OpenAI](/organizations/openai/)
 
 CJR turned the same critical lens on [Axios](https://factsledger.com/organizations/axios/),
 a much younger outlet, in its investigation of the three-year deal under

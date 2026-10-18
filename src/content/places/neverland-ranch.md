@@ -143,7 +143,7 @@ In Los Olivos, in the Santa Ynez Valley of Santa Barbara County, California — 
 **Who owns Neverland Ranch now?**
 Billionaire Ronald Burkle, who bought the 2,700-acre estate in December 2020 for $22 million. His spokesman described the purchase as a land-banking opportunity; Burkle is the co-founder of Yucaipa Companies and the controlling shareholder of Soho House.
 
-**How much did Michael Jackson pay for Neverland Ranch?**
+**How much did [Michael Jackson](/people/michael-jackson/) pay for Neverland Ranch?**
 $19.5 million in 1988. He owned it until his death in 2009, though he handed the title to Colony Capital LLC in 2008 after financial troubles.
 
 **Why is it called Neverland?**

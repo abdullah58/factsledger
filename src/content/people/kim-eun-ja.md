@@ -189,7 +189,7 @@ published: 2026-10-10
 lastUpdated: 2026-10-10
 draft: false
 ---
-Kim Eun-ja was the real-life Ayla: a Korean War orphan whom Turkish Army Sergeant [Süleyman Dilbirliği](/people/suleyman-dilbirligi/) found alone in 1950, named Ayla, and raised at his garrison for over a year. Reunited with him in Seoul in 2010 after sixty years apart, she lived on in Incheon under veterans-ministry care until her death at 80, announced by the Turkish Embassy in Seoul ([Hürriyet Daily News](https://www.hurriyetdailynews.com/ayla-kim-eunja-passes-away-at-80-209134)).
+Kim Eun-ja was the real-life Ayla: a [Korean War](/events/korean-war/) orphan whom Turkish Army Sergeant [Süleyman Dilbirliği](/people/suleyman-dilbirligi/) found alone in 1950, named Ayla, and raised at his garrison for over a year. Reunited with him in Seoul in 2010 after sixty years apart, she lived on in Incheon under veterans-ministry care until her death at 80, announced by the Turkish Embassy in Seoul ([Hürriyet Daily News](https://www.hurriyetdailynews.com/ayla-kim-eunja-passes-away-at-80-209134)).
 
 ## Overview
 

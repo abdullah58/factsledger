@@ -152,7 +152,7 @@ Roadies; the appearance never materialized in any source
 
 ## National recognition
 
-On 1 October 2023, a day before Gandhi Jayanti, Baiyanpuria joined Prime Minister Narendra Modi in
+On 1 October 2023, a day before Gandhi Jayanti, Baiyanpuria joined Prime Minister [Narendra Modi](/people/narendra-modi/) in
 the "Shramdaan for cleanliness" program under the Swachhata Hi Seva campaign. Modi shared a video of
 the two together, writing that they had "blended fitness and well-being also into the mix" for a
 "Swachh and Swasth Bharat vibe"

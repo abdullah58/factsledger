@@ -180,7 +180,7 @@ draft: false
 
 Derby is a city and unitary authority in Derbyshire, [England](/places/england/), standing on the River Derwent in the East Midlands of the [United Kingdom](/places/united-kingdom/). This profile is about Derby, Derbyshire — not Derby, Connecticut, or any other place of the same name. Its site at Little Chester was a Roman fort or village, it became one of the five Danish boroughs under the name Deoraby, and it grew into a market town whose charter history runs from 1206 ([1911 Encyclopaedia Britannica](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Derby_(England))).
 
-Derby claims a central place in the Industrial Revolution: its Silk Mill was the first factory in England, and the Derwent Valley Mills running south from Matlock Bath are a UNESCO World Heritage Site ([Discover Derby](https://discover-derby.co.uk/silk-mill-museum-of-making/); [Derbyshire Record Office](https://artsandculture.google.com/story/charted-territory/lgVBWeJaU9C0IA)). In 2021 its population was around 261,400 ([Office for National Statistics](https://www.ons.gov.uk/visualisations/censusareachanges/E06000015/)).
+Derby claims a central place in the Industrial Revolution: its Silk Mill was the first factory in England, and the Derwent Valley Mills running south from Matlock Bath are a [UNESCO](/organizations/unesco/) World Heritage Site ([Discover Derby](https://discover-derby.co.uk/silk-mill-museum-of-making/); [Derbyshire Record Office](https://artsandculture.google.com/story/charted-territory/lgVBWeJaU9C0IA)). In 2021 its population was around 261,400 ([Office for National Statistics](https://www.ons.gov.uk/visualisations/censusareachanges/E06000015/)).
 
 Derby's later identity is railways and engines: the Midland Railway was formed here in 1844, Henry Royce brought his motor-car manufactory here in 1907–8, and the city was granted city status in 1977 ([Discover Derby](https://discover-derby.co.uk/railway-quarter-trails-midland-road/); [Derbyshire Historic Environment Record](https://her.derbyshire.gov.uk/Monument/MDR10286); [Derby City Council](https://dashservices.org.uk/news/derby-city-council-s-statement-on-the-death-of-her-majesty-queen-elizabeth-ii)).
 
@@ -235,7 +235,7 @@ Source: [Office for National Statistics](https://www.ons.gov.uk/visualisations/c
 | 1907–8 | Royce brings motor-car works to Derby |
 | 1977 | City status granted |
 | 2001 | Derwent Valley Mills gain UNESCO listing |
-| 2008 | The 06:13 Nottingham to Norwich train derails at Barrow upon Soar |
+| 2008 | The 06:13 Nottingham to [Norwich](/places/norwich/) train derails at [Barrow upon Soar](/places/barrow-upon-soar/) |
 
 Sources: [1911 Encyclopaedia Britannica](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Derby_(England)); [Discover Derby](https://discover-derby.co.uk/railway-quarter-trails-midland-road/); [Derbyshire Record Office](https://artsandculture.google.com/story/charted-territory/lgVBWeJaU9C0IA); [RAIB](https://www.gov.uk/raib-reports/collision-of-a-train-with-a-demolished-footbridge-barrow-upon-soar).
 
@@ -265,5 +265,5 @@ Between 2011 and 2021 its population grew 5.1%, from around 248,800 to around 26
 - It does not assert that John Lombe was poisoned on Italian orders; the Discover Derby trail reports that as a belief, and this profile treats it as an unverified story.
 - It does not claim that Derby was the birthplace of the Industrial Revolution outright; it records the specific, sourced claims about the Silk Mill and the Derwent Valley Mills.
 - It makes no claim about Derby's current population beyond the 2021 census figure of around 261,400; later estimates were not verified in a fully-read source.
-- It does not describe the 2008 derailment beyond the RAIB summary and the Rail Technology Magazine aftermath account; the full investigation belongs to the crash profile.
+- It does not describe the 2008 derailment beyond the RAIB summary and the [Rail Technology Magazine](/organizations/rail-technology-magazine/) aftermath account; the full investigation belongs to the crash profile.
 - It does not rank Derby's present-day employers or industries by size, because no fully-read source verified such a ranking.

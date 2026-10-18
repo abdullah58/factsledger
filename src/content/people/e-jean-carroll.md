@@ -97,7 +97,7 @@ ran from 1993 to 2019 — one of the longest-running advice columns in American
 magazine history.
 ([Le Monde](https://www.lemonde.fr/en/m-le-mag/article/2026/09/26/e-jean-carroll-the-tenacious-woman-who-brought-down-trump_6757990_117.html)).
 No standard profile leads with the half-century of writing. She was the
-first woman to write for *Playboy*, contributed to *Esquire*, *Vanity Fair*,
+first woman to write for *Playboy*, contributed to *Esquire*, *[Vanity Fair](/organizations/vanity-fair/)*,
 and *The Atlantic*, and wrote a biography of Hunter S. Thompson. They start
 with the lawsuit instead. But the writer's career is the fact that explains everything
 else: at 75, Carroll already knew exactly how to hold an audience — and how

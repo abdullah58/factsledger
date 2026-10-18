@@ -186,13 +186,13 @@ not an accident
 ## Ayla, the memoir, and the family reckoning
 
 In 2017 Roberts took a supporting role in *Ayla: The Daughter of War*,
-directed by Can Ülkay — Turkey's submission for Best Foreign Language Film at
+directed by [Can Ülkay](/people/can-ulkay/) — Turkey's submission for Best Foreign Language Film at
 the 90th Academy Awards
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 The film tells the true story of Turkish sergeant Süleyman Dilbirliği and the
 Korean orphan he named Ayla during the Korean War; Çetin Tekindor and İsmail
 Hacıoğlu play Dilbirliği, [Kim Seol](/people/kim-seol/) and [Lee Kyung-jin](/people/lee-kyung-jin/)
-play Ayla, and Roberts and Cade Carradine are among the supporting roles
+play Ayla, and Roberts and [Cade Carradine](/people/cade-carradine/) are among the supporting roles
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 In September 2024 came *Runaway Train: Or, The Story of My Life So Far*,
 named for his Oscar-nominated film

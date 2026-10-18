@@ -156,7 +156,7 @@ lastUpdated: 2026-10-02
 
 ## Overview
 
-The West Bank is a territory of roughly 3 million people — about 500,000 Jews and 2.5 million Palestinians — lying west of the Jordan River and east of Israel, about 9 miles wide at its narrowest point ([BICOM](https://www.bicom.org.uk/the-west-bank-and-settlements/)). Internationally it is called the West Bank; in Israel it is often called Judea and Samaria, and described as the areas beyond the Green Line ([BICOM](https://www.bicom.org.uk/the-west-bank-and-settlements/)). Its modern history is a sequence of three ruptures: Jordan annexed it in 1950, Israel took control of it in 1967, and Jordan formally walked away from it in 1988. The map drawn by the 1995 Oslo II accords — Areas A, B, and C — still governs daily life there.
+The West Bank is a territory of roughly 3 million people — about 500,000 Jews and 2.5 million Palestinians — lying west of the Jordan River and east of [Israel](/places/israel/), about 9 miles wide at its narrowest point ([BICOM](https://www.bicom.org.uk/the-west-bank-and-settlements/)). Internationally it is called the West Bank; in Israel it is often called Judea and Samaria, and described as the areas beyond the Green Line ([BICOM](https://www.bicom.org.uk/the-west-bank-and-settlements/)). Its modern history is a sequence of three ruptures: Jordan annexed it in 1950, Israel took control of it in 1967, and Jordan formally walked away from it in 1988. The map drawn by the 1995 Oslo II accords — Areas A, B, and C — still governs daily life there.
 
 ## Nineteen years of Jordan: annexation to disengagement
 

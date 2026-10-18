@@ -220,7 +220,7 @@ itself the most-watched documentary channel in Turkey
 
 The most documented episode in TRT's recent history comes not from a ratings
 chart but from a U.S. federal filing cabinet. In a twelve-page letter dated 1
-August 2019, the U.S. Department of Justice determined that TRT's U.S. branch
+August 2019, the [U.S. Department of Justice](/organizations/us-department-of-justice/) determined that TRT's U.S. branch
 office was obligated to register under the Foreign Agents Registration Act —
 as an agent of two foreign principals: the Government of Turkey and TRT
 itself
@@ -269,12 +269,12 @@ paying for TRT whether it watched a single minute or not.
 TRT's programming has also shaped one of Turkey's most-watched modern stories.
 During the Korean President's visit to Turkey in 2010, "the state-run Turkish
 Radio and Television Corporation (TRT) produced a documentary about Turkish
-soldiers in the Korean War," and Sgt. Süleyman Dilbirliği's story — the
+soldiers in the Korean War," and Sgt. [Süleyman Dilbirliği](/people/suleyman-dilbirligi/)'s story — the
 Turkish sergeant who cared for the orphaned Korean girl he named Ayla — became
 public, leading to their emotional reunion
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 That broadcast was the seed of [Ayla: The Daughter of War](/creative-works/ayla-the-daughter-of-war/)
-(2017), directed by Can Ülkay and submitted as Turkey's foreign-language Oscar
+(2017), directed by [Can Ülkay](/people/can-ulkay/) and submitted as Turkey's foreign-language Oscar
 nominee, with [Turkish Airlines](/organizations/turkish-airlines/) as main sponsor and the Culture and Tourism
 Ministry as main supporter of its campaign
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).

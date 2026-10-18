@@ -142,7 +142,7 @@ selection of fundamental topics
 Yaron was born in Vienna, Austria, in 1924 and settled in Palestine in 1939
 ([Encyclopedia.com](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/yaron-reuven)).
 He studied law in the first class of the Hebrew University's Faculty of Law and
-then wrote his doctoral thesis at the University of Oxford
+then wrote his doctoral thesis at the [University of Oxford](/universities/university-of-oxford/)
 ([Hebrew University Faculty of Law](https://en.law.huji.ac.il/people/reuven-yaron)).
 After a year teaching jurisprudence at the University of Aberdeen in 1956–57, he
 returned to Jerusalem in 1957 to teach Roman law at the Hebrew University,

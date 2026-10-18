@@ -145,7 +145,7 @@ Born July 19, 1982
 he is the son of Keith Carradine, the grandson of John Carradine, and the
 half-brother of Martha Plimpton
 ([FilmReference](http://www.filmreference.com/film/77/Keith-Carradine.html)),
-with a supporting role in Turkey's Oscar-nominated *Ayla: The Daughter of War*
+with a supporting role in [Turkey](/places/turkey/)'s Oscar-nominated *Ayla: The Daughter of War*
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 
 The Carradines are one of American film's most tangled family trees, and the
@@ -203,13 +203,13 @@ Tilly as Ray's ex-wife Ginger ([Slant Magazine](https://www.slantmagazine.com/fi
 ## Ayla — the American face in Turkey's Oscar campaign
 
 Cade Carradine's other anchor credit sits inside Turkey's state-backed Oscar
-campaign. *Ayla: The Daughter of War*, directed by Can Ülkay from a screenplay
-by Yiğit Güralp, dramatizes the true story of Turkish sergeant Süleyman
+campaign. *Ayla: The Daughter of War*, directed by [Can Ülkay](/people/can-ulkay/) from a screenplay
+by [Yiğit Güralp](/people/yigit-guralp/), dramatizes the true story of Turkish sergeant Süleyman
 Dilbirliği and the Korean War orphan he named Ayla — with [İsmail Hacıoğlu](/people/ismail-hacioglu/) and
 Çetin Tekindor as the young and elderly Dilbirliği, and Korean actresses Kim
-Seol and Lee Kyung-jin as the young and adult Ayla
+Seol and [Lee Kyung-jin](/people/lee-kyung-jin/) as the young and adult Ayla
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
-Hürriyet Daily News names **"Cade Carradine and Eric Roberts" among the
+Hürriyet Daily News names **"Cade Carradine and [Eric Roberts](/people/eric-roberts/)" among the
 supporting roles**
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)),
 in a Turkish–Korean war epic that became Turkey's

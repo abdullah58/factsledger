@@ -103,7 +103,7 @@ litigates.
 
 Clare founded Clare Locke in 2014 with Elizabeth "Libby" Locke, his wife;
 both were partners at [Kirkland & Ellis](/organizations/kirkland-ellis/), and they remain the firm's only
-equity partners. Bloomberg Law described it in 2023 as a boutique of 17
+equity partners. [Bloomberg Law](/organizations/bloomberg-law/) described it in 2023 as a boutique of 17
 lawyers in Alexandria, Virginia, and the two founders as "among the most
 high-profile lawyers in the defamation and media law space"
 ([Bloomberg Law](https://news.bloomberglaw.com/business-and-practice/clare-locke-sees-partner-exodus-post-fox-defamation-case-win)).

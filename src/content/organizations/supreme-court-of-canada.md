@@ -156,7 +156,7 @@ clerkships while the exact date window was not re-verified this session.
 
 That lineage — Fisher in the Ninth Circuit, then Rothstein on Canada's highest
 court — sits behind Ali's later record as a civil-rights appellate advocate:
-he argued Larry Thompson's police-misconduct case in the U.S. Supreme Court,
+he argued [Larry Thompson](/people/larry-thompson/)'s police-misconduct case in the U.S. Supreme Court,
 won an 11-judge majority before the en banc Fifth Circuit for Ryan Cole after
 officers shot him from behind without any threat, and says his very first
 Supreme Court argument led to hundreds of people receiving relief from illegal

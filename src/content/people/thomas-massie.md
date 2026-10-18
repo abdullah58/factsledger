@@ -125,7 +125,7 @@ The context for the panic was visible the night before the filing, when three Re
 
 Massie's willingness to file the articles is inseparable from his political situation. He had angered Trump by leading the congressional push to release the Justice Department's Epstein-related files, and in May 2026 he lost the Republican primary to Ed Gallrein, a former Navy SEAL backed by Trump — making him a lame duck with nothing left to lose inside the party ([Reuters](http://www.jpost.com/american-politics/article-908729)). Even as the impeachment fight played out, he was collecting signatures for a second Epstein measure, the Epstein Files Transparency Act II, which would give victims standing to sue the Justice Department for allegedly not fully complying with Congress's first law ordering a public accounting of its Epstein documents and investigations ([USA Today](https://www.usatoday.com/story/news/politics/2026/09/16/house-republicans-leave-congress-hegseth-impeachment/91790913007/)).
 
-A Reuters/Ipsos poll at the time had Democrats leading Republicans 44–37 ahead of the November 3 midterms — the electoral backdrop against which Johnson chose to send the House home rather than hold an impeachment vote ([Reuters](http://www.jpost.com/american-politics/article-908729)).
+A [Reuters](/organizations/reuters/)/Ipsos poll at the time had Democrats leading Republicans 44–37 ahead of the November 3 midterms — the electoral backdrop against which Johnson chose to send the House home rather than hold an impeachment vote ([Reuters](http://www.jpost.com/american-politics/article-908729)).
 
 ## What this profile does not claim
 

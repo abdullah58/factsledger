@@ -142,7 +142,7 @@ Statewide, gray iron was the dominant casting metal, and the largest market for 
 | Turvey Packing Company | 75 | $251,000+ into local trade |
 | Cities Service Oil Company (Ambrose Gasoline Plant) | 35 | ~$105,000 |
 
-All figures from the National Park Service nomination, which drew on contemporary newspaper reporting ([National Park Service](https://npgallery.nps.gov/GetAsset/5d6c983e-bdc9-40c4-91c3-f137c1927d53/)). The payroll figures carry a clear implication: Acme's $450,000 payroll spread across 130 workers works out to about $3,460 per worker per year, so the plant's destruction the following year threatened not just a factory but a substantial slice of the town's wage base.
+All figures from the [National Park Service](/organizations/national-park-service/) nomination, which drew on contemporary newspaper reporting ([National Park Service](https://npgallery.nps.gov/GetAsset/5d6c983e-bdc9-40c4-91c3-f137c1927d53/)). The payroll figures carry a clear implication: Acme's $450,000 payroll spread across 130 workers works out to about $3,460 per worker per year, so the plant's destruction the following year threatened not just a factory but a substantial slice of the town's wage base.
 
 ## The May 25, 1955 tornado
 

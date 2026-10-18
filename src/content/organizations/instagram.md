@@ -139,7 +139,7 @@ lastUpdated: 2026-10-10
 draft: false
 ---
 
-Instagram is the photo-and-video social network [[Meta](/organizations/meta/) Platforms](https://factsledger.com/organizations/meta/) bought for about $1 billion in 2012 — a 13-person startup with 30 million users and no revenue plan ([AllThingsD](https://allthingsd.com/20120409/breaking-facebook-to-acquire-instagram-for-1-billion/?mod=atdtweet)) — that has since grown to an estimated 3 billion monthly users and roughly 44% of Meta's revenue ([Business of Apps](https://www.businessofapps.com/data/instagram-statistics/)). In November 2025, a U.S. judge rejected the Federal Trade Commission's bid to unwind that acquisition, ending a five-year antitrust fight ([Associated Press](https://www.akronnewsreporter.com/2025/11/18/meta-ftc-antitrust/)).
+Instagram is the photo-and-video social network [Meta Platforms](https://factsledger.com/organizations/meta/) bought for about $1 billion in 2012 — a 13-person startup with 30 million users and no revenue plan ([AllThingsD](https://allthingsd.com/20120409/breaking-facebook-to-acquire-instagram-for-1-billion/?mod=atdtweet)) — that has since grown to an estimated 3 billion monthly users and roughly 44% of Meta's revenue ([Business of Apps](https://www.businessofapps.com/data/instagram-statistics/)). In November 2025, a U.S. judge rejected the Federal Trade Commission's bid to unwind that acquisition, ending a five-year antitrust fight ([Associated Press](https://www.akronnewsreporter.com/2025/11/18/meta-ftc-antitrust/)).
 
 ## Overview
 

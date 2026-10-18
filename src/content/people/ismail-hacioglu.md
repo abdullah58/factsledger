@@ -185,7 +185,7 @@ related:
 
 ## Overview
 
-İsmail Hacıoğlu is a Turkish actor whose career turned on physically embodying two of Turkey's cultural icons: the young Süleyman Dilbirliği in [Ayla: The Daughter of War](https://factsledger.com/creative-works/ayla-the-daughter-of-war/) (2017), Turkey's Oscar submission that year, and Cem Karaca in *Cem Karaca'nın Gözyaşları* (2024) — a role for which he sang every song himself and underwent a 3D-scanned prosthetic transformation. Born November 30, 1985, in [Istanbul](/places/istanbul/), he won his first major festival award as a teenager ([Rotten Tomatoes](https://www.rottentomatoes.com/celebrity/ismail_hacioglu)).
+İsmail Hacıoğlu is a Turkish actor whose career turned on physically embodying two of [Turkey](/places/turkey/)'s cultural icons: the young Süleyman Dilbirliği in [Ayla: The Daughter of War](https://factsledger.com/creative-works/ayla-the-daughter-of-war/) (2017), Turkey's Oscar submission that year, and Cem Karaca in *Cem Karaca'nın Gözyaşları* (2024) — a role for which he sang every song himself and underwent a 3D-scanned prosthetic transformation. Born November 30, 1985, in [Istanbul](/places/istanbul/), he won his first major festival award as a teenager ([Rotten Tomatoes](https://www.rottentomatoes.com/celebrity/ismail_hacioglu)).
 
 Three roles that define the arc:
 

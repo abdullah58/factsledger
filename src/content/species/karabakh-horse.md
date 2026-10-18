@@ -127,7 +127,7 @@ Fewer than 1,000 Karabakh horses remain in the world, most bred in Azerbaijan's 
 
 ## What this profile does not claim
 
-- It does not assert that the Karabakh is the oldest horse breed in Asia and the Caucasus as verified fact; that is AzerNews' characterisation, reported as such.
+- It does not assert that the Karabakh is the oldest horse breed in Asia and the Caucasus as verified fact; that is [AzerNews](/organizations/azernews/)' characterisation, reported as such.
 - It does not repeat the claim that the breed itself is UNESCO-listed: UNESCO listed the Chovqan game, played on Karabakh horses — not the breed.
 - It does not state a precise current population beyond AzerNews' "fewer than 1,000"; no studbook count is given.
 - It does not independently verify the Karabakh Foundation's world-record claim for Kishmish's 2004 run; it is reported as attributed.

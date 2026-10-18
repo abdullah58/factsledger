@@ -182,7 +182,7 @@ The convention is flexible to a fault. Governments have delayed sessions for sta
 | Monsoon Session | July–August (about three weeks) | Legislation and national issues between budget and winter |
 | Winter Session | November–December (about three weeks) | Clearing pending bills before the year ends |
 
-(The table follows PRS Legislative Research's account of the session convention.)
+(The table follows [PRS Legislative Research](/organizations/prs-legislative-research/)'s account of the session convention.)
 
 ## The new building and the old one
 

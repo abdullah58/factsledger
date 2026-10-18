@@ -358,7 +358,7 @@ The rail commute was not a photo opportunity but the logistical core of Biden's 
 
 ## Vice presidency (2009–2017)
 
-Elected in 2008 on the ticket headed by Barack Obama and inaugurated January 20, 2009, Biden served as the 47th vice president through January 20, 2017, after reelection in 2012 ([LegiList](https://legilist.com/generate-factsheet.php?bioguide=B000444)). The archived White House biography credits him with work on the passage of the Affordable Care Act and the administration's economic recovery program ([archived White House biography](http://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/The-Official-Biography-of-President-Joe-Biden-1.pdf)). On January 12, 2017, he received the Presidential Medal of Freedom ([LegiList](https://legilist.com/generate-factsheet.php?bioguide=B000444)).
+Elected in 2008 on the ticket headed by Barack Obama and inaugurated January 20, 2009, Biden served as the 47th vice president through January 20, 2017, after reelection in 2012 ([LegiList](https://legilist.com/generate-factsheet.php?bioguide=B000444)). The archived [White House](/places/white-house/) biography credits him with work on the passage of the Affordable Care Act and the administration's economic recovery program ([archived White House biography](http://bidenwhitehouse.archives.gov/wp-content/uploads/2025/01/The-Official-Biography-of-President-Joe-Biden-1.pdf)). On January 12, 2017, he received the Presidential Medal of Freedom ([LegiList](https://legilist.com/generate-factsheet.php?bioguide=B000444)).
 
 ## The 2020 election and presidency (2021–2025)
 
@@ -370,7 +370,7 @@ On November 15, 2021, he signed the $1 trillion bipartisan infrastructure bill i
 
 ## Withdrawing from the 2024 race
 
-On June 27, 2024, Biden debated Donald Trump at [CNN's](/organizations/cnn/) Atlanta headquarters; analysts described him as hoarse and at times inarticulate while Trump dodged questions, and the night reinforced concerns about his age ([Northeastern University](https://news.northeastern.edu/2024/06/27/trump-biden-debate-recap/)). On July 21, 2024, he announced he was leaving the 2024 Democratic nomination to focus on serving the rest of his term, and he endorsed Kamala Harris; NPR linked the decision to Democratic pressure after the debate ([NPR](https://www.mtpr.org/2024-07-21/want-to-know-what-biden-said-when-he-dropped-out-the-full-letter-is-here)).
+On June 27, 2024, Biden debated Donald Trump at [CNN's](/organizations/cnn/) Atlanta headquarters; analysts described him as hoarse and at times inarticulate while Trump dodged questions, and the night reinforced concerns about his age ([Northeastern University](https://news.northeastern.edu/2024/06/27/trump-biden-debate-recap/)). On July 21, 2024, he announced he was leaving the 2024 Democratic nomination to focus on serving the rest of his term, and he endorsed Kamala Harris; [NPR](/organizations/npr/) linked the decision to Democratic pressure after the debate ([NPR](https://www.mtpr.org/2024-07-21/want-to-know-what-biden-said-when-he-dropped-out-the-full-letter-is-here)).
 
 Harris ran in his place and lost decisively to Trump in November 2024, making Trump the 47th president ([Associated Press](https://www.tricityrecordnm.com/articles/associated-press-new-mexico/biden-will-publish-promise-me-america-memoir-after-the-november-midterm-elections/)).
 

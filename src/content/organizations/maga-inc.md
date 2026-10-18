@@ -78,7 +78,7 @@ openItems:
   - "The exact title Karoline Leavitt holds on her return to the PAC."
   - "A full 2024-cycle fundraising total; only the $377M spend figure is Reuters-verified."
 ---
-**MAGA Inc.** — legally **Make America Great Again Inc.** — is the super PAC that has served as [Donald Trump](https://factsledger.com/people/donald-trump/)'s best-funded outside vehicle since its launch in September 2022. After spending **$377 million** in the 2024 cycle, it entered the 2026 midterms with a stockpile above **$400 million**, making it one of the most consequential forces in Republican politics. 【sources: Trump's super PAC MAGA Inc. says it has more than $400 million stockpile】 Its full-circle personnel story is Karoline Leavitt's: the PAC's former spokeswoman left the White House press secretary's job in August 2026 and came back. 【sources: Former White House press secretary Karoline Leavitt shopping potentially explosive book: sources】
+**MAGA Inc.** — legally **Make America Great Again Inc.** — is the super PAC that has served as [Donald Trump](https://factsledger.com/people/donald-trump/)'s best-funded outside vehicle since its launch in September 2022. After spending **$377 million** in the 2024 cycle, it entered the 2026 midterms with a stockpile above **$400 million**, making it one of the most consequential forces in Republican politics. 【sources: Trump's super PAC MAGA Inc. says it has more than $400 million stockpile】 Its full-circle personnel story is [Karoline Leavitt](/people/karoline-leavitt/)'s: the PAC's former spokeswoman left the White House press secretary's job in August 2026 and came back. 【sources: Former White House press secretary Karoline Leavitt shopping potentially explosive book: sources】
 
 ## Launch: September 2022
 

@@ -132,7 +132,7 @@ draft: false
 
 ## Overview
 
-Harvard Law School, the law school of Harvard University in Cambridge, Massachusetts, is usually introduced as the birthplace of modern American legal education ([Harvard Law School](http://hls.harvard.edu/today/talking-about-a-revolution/)). The part that rarely leads the story is the one the school itself chose to put at the center of its 200th anniversary: the institution was built with money made by enslaved labor, and in 2017 it unveiled a permanent memorial on campus saying so ([Harvard Law School](http://hls.harvard.edu/today/invocation/); [Smithsonian Magazine](https://smithsonianmag.com/smart-news/harvard-law-school-marks-ties-slavery-new-plaque-180964784/)).
+Harvard Law School, the law school of [Harvard University](/universities/harvard-university/) in Cambridge, Massachusetts, is usually introduced as the birthplace of modern American legal education ([Harvard Law School](http://hls.harvard.edu/today/talking-about-a-revolution/)). The part that rarely leads the story is the one the school itself chose to put at the center of its 200th anniversary: the institution was built with money made by enslaved labor, and in 2017 it unveiled a permanent memorial on campus saying so ([Harvard Law School](http://hls.harvard.edu/today/invocation/); [Smithsonian Magazine](https://smithsonianmag.com/smart-news/harvard-law-school-marks-ties-slavery-new-plaque-180964784/)).
 
 ## A founding funded by slavery
 

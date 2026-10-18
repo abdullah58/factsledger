@@ -352,7 +352,7 @@ alongside special envoy Steve Witkoff
 ([Al Jazeera](https://www.aljazeera.com/amp/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv);
 [Associated Press](https://mb.com.ph/2026/09/07/us-envoys-witkoff-and-kushner-hold-talks-in-ukraine-after-meeting-with-putin)).
 Born January 10, 1981, in Livingston, New Jersey, he built his early career at
-Kushner Companies — buying the *New York Observer* in 2006 for about $10
+[Kushner Companies](/organizations/kushner-companies/) — buying the *[New York Observer](/organizations/new-york-observer/)* in 2006 for about $10
 million, acquiring 666 Fifth Avenue for $1.8 billion in 2007, and becoming
 company CEO in 2008 — before marrying Ivanka Trump in 2009 and entering her
 father's political orbit
@@ -387,7 +387,7 @@ He married Ivanka Trump in 2009, a union that would later make him both a
 Trump family member and a Trump administration official
 ([EBSCO](https://www.ebsco.com/research-starters/biography/jared-kushner)).
 
-## The 2016 campaign and the first White House term
+## The 2016 campaign and the first [White House](/places/white-house/) term
 
 Kushner joined Donald Trump's presidential campaign in 2015 and ran its
 digital strategy, guiding the creation of "Project Alamo" and working with
@@ -399,7 +399,7 @@ Middle East diplomacy, criminal-justice reform, government modernization,
 trade and the COVID-19 response
 ([EBSCO](https://www.ebsco.com/research-starters/biography/jared-kushner)).
 His influence inside the building was unusual for a staffer: he held walk-in
-privileges at the Oval Office, and Stephanie Grisham's memoir, as reported by
+privileges at the Oval Office, and [Stephanie Grisham](/people/stephanie-grisham/)'s memoir, as reported by
 ThePrint, portrayed him as effectively "in charge of Trump's re-election
 campaign" — the same memoir account says Trump initially did not want to make
 the February 2020 India visit over COVID fears, and that Kushner convinced him
@@ -444,7 +444,7 @@ and significant fees; the deal was also noted in U.S. congressional documents
 ([TBS News](https://www.tbsnews.net/worldbiz/middle-east/kushners-affinity-partners-raises-5b-amid-diplomatic-role-middle-east-1543866);
 [UA.NEWS](https://ua.news/en/world/kushner-poiednuie-peregovori-shchodo-ukrayini-z-miliardnim-biznesom-the-new-yorker)).
 Entities from the United Arab Emirates and Qatar followed, and in 2024 the
-Qatar Investment Authority and an Abu Dhabi entity added another $1.5
+[Qatar Investment Authority](/organizations/qatar-investment-authority/) and an Abu Dhabi entity added another $1.5
 billion, taking reported assets under management to about $4.8 billion by
 year's end
 ([UA.NEWS](https://ua.news/en/world/kushner-poiednuie-peregovori-shchodo-ukrayini-z-miliardnim-biznesom-the-new-yorker)).
@@ -468,7 +468,7 @@ total capital above $6 billion after roughly 30 percent growth in 2025; the
 firm, the report said, collects tens of millions of dollars a year in
 management fees though only part of the capital is deployed, and has used
 Saudi-backed capital for Israeli investments including about $110 million in
-the car-leasing company Shlomo Group and roughly $300 million in Phoenix
+the car-leasing company [Shlomo Group](/organizations/shlomo-group/) and roughly $300 million in Phoenix
 Financial, presented as building an economic link between Saudi Arabia and
 Israel
 ([TBS News](https://www.tbsnews.net/worldbiz/middle-east/kushners-affinity-partners-raises-5b-amid-diplomatic-role-middle-east-1543866)).
@@ -514,8 +514,8 @@ plan, which produced an exchange of Palestinian prisoners and Israeli
 hostages, a ceasefire, and a partial Israeli withdrawal
 ([EBSCO](https://www.ebsco.com/research-starters/biography/jared-kushner)).
 In 2026 the diplomacy moved into the open. On August 16, 2026, Kushner met a
-Hamas delegation in Cairo together with Tony Blair and Nikolay Mladenov
-to discuss a Board of Peace roadmap for Gaza — covering
+Hamas delegation in Cairo together with [Tony Blair](/people/tony-blair/) and [Nikolay Mladenov](/people/nikolay-mladenov/)
+to discuss a [Board of Peace](/organizations/board-of-peace/) roadmap for Gaza — covering
 ceasefire implementation, governance transfer, Hamas disarmament, Israeli
 withdrawal, reconstruction and relief — with Axios describing the talks as
 "very productive"; the same report noted bodies of deceased hostages being

@@ -141,7 +141,7 @@ technology-driven, mode-agnostic and carrier-agnostic managed transportation ser
 from ordinary brokerage
 ([FreightWaves](https://www.freightwaves.com/news/freighttech-titans-invest-in-sheer-logistics-modern-approach-to-managed-transportation)).
 The company began as a pure-play technology provider and only moved into providing logistics
-services at the request of a few clients; Egertson told FreightWaves that "the need for
+services at the request of a few clients; Egertson told [FreightWaves](/organizations/freightwaves/) that "the need for
 another broker in the sea of brokers was low when we opened our doors in 2009"
 ([FreightWaves](https://www.freightwaves.com/news/freighttech-titans-invest-in-sheer-logistics-modern-approach-to-managed-transportation)).
 Over its first 13 years the company built Sheer Exchange, a proprietary middleware

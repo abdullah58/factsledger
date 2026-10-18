@@ -139,7 +139,7 @@ Documented winners include Serhedchi, who beat Kovser 4:0 in the 9th edition's f
 ## What this profile does not claim
 
 - It does not assert a complete year-by-year record: it describes the documented editions (8th, 9th, two Bina-era editions including the 12th) rather than a full annual ledger.
-- It does not independently verify the "since 2006" start date beyond AzerNews' reporting.
+- It does not independently verify the "since 2006" start date beyond [AzerNews](/organizations/azernews/)' reporting.
 - It does not assert exact years for the later Bina-era editions beyond what edition sequence and context support; the fetched pages do not carry visible publication dates.
 - It does not assert unbroken annual numbering between the Sheki-era Games and the Bina-era Cups; the ordinals are reported as given.
 - It does not give full results for any edition: the sources read do not report every match score or every participating team.

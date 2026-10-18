@@ -90,7 +90,7 @@ That article is a snapshot, not a verdict — it captures one difficult project 
 
 ## Family and background
 
-Engel's husband was [Riccardo Amodei](/people/riccardo-amodei/), a leathersmith. He died in 2006 of hepatitis C. Their daughter Daniela is four years younger than their son Dario ([Encyclopaedia Britannica](https://www.britannica.com/money/Dario-Amodei)). The Jerusalem Post describes Elena as the Jewish mother of Dario Amodei, who was born and raised in San Francisco to her and his Italian father ([The Jerusalem Post](https://www.jpost.com:443/influencers-26/50jews-26/article-908079)).
+Engel's husband was [Riccardo Amodei](/people/riccardo-amodei/), a leathersmith. He died in 2006 of hepatitis C. Their daughter Daniela is four years younger than their son Dario ([Encyclopaedia Britannica](https://www.britannica.com/money/Dario-Amodei)). [The Jerusalem Post](/organizations/jerusalem-post/) describes Elena as the Jewish mother of Dario Amodei, who was born and raised in San Francisco to her and his Italian father ([The Jerusalem Post](https://www.jpost.com:443/influencers-26/50jews-26/article-908079)).
 
 One profile of the siblings adds family history that no other source carries, so it is presented here with that caveat: it describes Engel as a Chicago-born Jewish American whose own mother once chained herself to the Italian consulate in Chicago in the 1930s to protest Italy's invasion of Ethiopia, and says she raised Dario and Daniela in San Francisco's Mission District ([press.farm](https://press.farm/the-amodei-siblings-how-dario-and-daniela-built-anthropics-ai-empire/)).
 

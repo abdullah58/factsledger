@@ -168,4 +168,4 @@ The 2026 edition is listed in Kyiv rather than Odesa in Filmitalia's festival da
 
 - Cineuropa — [Dinner in America and Atlantis come out on top at the 11th Odesa International Film Festival](https://cineuropa.org/newsdetail/393331/) (tier2; the 2020 edition and winners)
 - Filmitalia (Cinecittà) — [Odesa International Film Festival - festivals](https://filmitalia.org/en/festival/86979) (tier2; festival structure, history, scale, competitions, 2026 listing)
-- MovieWeb — [Snack Shack Director on Real Teen Movies: 'Why Aren't We Demanding That?'](https://movieweb.com/snack-shack-adam-rehmeier-intervie/) (tier2; Grand Prix corroboration; the film's festival run)
+- [MovieWeb](/organizations/movieweb/) — [Snack Shack Director on Real Teen Movies: 'Why Aren't We Demanding That?'](https://movieweb.com/snack-shack-adam-rehmeier-intervie/) (tier2; Grand Prix corroboration; the film's festival run)

@@ -90,7 +90,7 @@ in the US ([NPR](https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockro
 
 ## What this profile does not claim
 
-The Al Jazeera and The Wire articles cited above could not be fetched and re-read in full during the most
+The [Al Jazeera](/organizations/al-jazeera/) and The Wire articles cited above could not be fetched and re-read in full during the most
 recent audit of this profile (Al Jazeera's URL returned an error, and The Wire's page returned only
 metadata); this profile does not rely on any claim from those two sources that could not be independently
 re-verified this pass.

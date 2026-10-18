@@ -328,7 +328,7 @@ The most revealing archive document on Vladimir Putin the intelligence officer i
 
 That man has led Russia as president or prime minister since 1999 — president from 2000 to 2008 and again since 2012 ([Russian Government](http://archive.premier.gov.ru/eng/premier/biography.html); [CNN](https://www.cnn.com/world/europe/vladimir-putin-fast-facts)). A former KGB foreign-intelligence officer, he ordered the full-scale invasion of Ukraine in 2022 and won a fifth presidential term in March 2024 with 87.28% of the vote — an official result Western governments called neither free nor fair ([Reuters](https://www.straitstimes.com/world/europe/putin-wins-russian-presidential-election-with-8797-of-the-vote-first-official-results-show)).
 
-## From the KGB to the Kremlin
+## From the KGB to the [Kremlin](/organizations/kremlin/)
 
 Putin was born to a factory-worker family and grew up in a communal apartment shared by three families ([CNN](https://www.cnn.com/world/europe/vladimir-putin-fast-facts)). He graduated from the Law Department of Leningrad State University in 1975 and immediately joined the KGB's First Chief Directorate for foreign intelligence ([Russian Government](http://archive.premier.gov.ru/eng/premier/biography.html); [CNN](https://www.cnn.com/world/europe/vladimir-putin-fast-facts)). He served 15 years as a KGB foreign-intelligence officer, including six years in Dresden, East Germany (1985–1990), and retired in 1990 with the rank of lieutenant colonel ([Encyclopaedia Britannica](https://www.britannica.com/biography/Vladimir-Putin)).
 

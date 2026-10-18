@@ -138,7 +138,7 @@ that his father did not believe in Nazi ideology
 [Malay Mail](https://www.malaymail.com/news/world/2026/03/12/who-is-jose-antonio-kast-chiles-new-far-right-president/212198)).
 His older brother Miguel became a central bank president and government minister under
 Augusto Pinochet, whose dictatorship Kast openly admires — making him, as one academic told
-Al Jazeera, the first Chilean president since the dictatorship to openly support Pinochet
+[Al Jazeera](/organizations/al-jazeera/), the first Chilean president since the dictatorship to openly support Pinochet
 ([Al Jazeera](https://www.aljazeera.com/news/2025/12/15/who-is-jose-antonio-kast-chiles-newly-elected-far-right-leader)).
 Trained as a lawyer at the city's Catholic university, Kast became a councilman for Buin
 in 1996 and spent more than a decade in Congress for the centre-right Independent

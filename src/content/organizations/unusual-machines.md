@@ -119,7 +119,7 @@ Whether or not politics drives the stock, policy clearly drives the business. In
 
 Evans has been candid about what this means: manufacturing moved back to the U.S., combined with automation and what he called Western creativity, can produce a globally competitive manufacturer ([Sherwood News](https://sherwood.news/tech/with-china-boxed-out-unusual-machines-ceo-sees-clear-skies-for-his-drone/)). The company was also positioned to benefit from the Pentagon's Drone Dominance program, which planned to buy 90,000 drones in 2026 — requiring roughly 400,000 motors, Evans noted — even as he insisted his own firm would not sell to the military directly ([Sherwood News](https://sherwood.news/tech/with-china-boxed-out-unusual-machines-ceo-sees-clear-skies-for-his-drone/)).
 
-## The Draganfly deal
+## The [Draganfly](/organizations/draganfly/) deal
 
 On September 28, 2026, Reuters reported that Unusual Machines and an unnamed U.S. asset manager had agreed to invest $10 million in Draganfly, a Canadian drone maker — $5 million each at $5.35 a share, based on the September 25 close, with the deal expected to close around September 30 ([Reuters](https://www.reuters.com/world/americas/trump-jr-backed-unusual-machines-us-asset-manager-invest-10-million-canadas-2026-09-28/)). Draganfly said the proceeds would fund "strategic capabilities" and working capital ([Reuters](https://www.reuters.com/world/americas/trump-jr-backed-unusual-machines-us-asset-manager-invest-10-million-canadas-2026-09-28/)).
 

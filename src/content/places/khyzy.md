@@ -169,4 +169,4 @@ The Khizi–Absheron Wind Power Plant is a 240 MW wind farm implemented by Saudi
 - It does not assert that Jafar Jabbarli was born in Khizi; the sources confirm his Khizi house-museum, his residence there and his monument, but not a Khizi birthplace.
 - It does not present the Tikhti tomb as certainly Sheikh Heydar's; the source calls it "likely to be" his tomb.
 - It does not assert an etymology for the name Khizi.
-- It does not claim the wind farm's opening year beyond the dating inferred from the AzerNews analysis, as flagged in `openItems`.
+- It does not claim the wind farm's opening year beyond the dating inferred from the [AzerNews](/organizations/azernews/) analysis, as flagged in `openItems`.

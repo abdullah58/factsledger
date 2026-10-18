@@ -159,11 +159,11 @@ draft: false
 
 ## Overview
 
-Süleyman Dilbirliği, a Turkish Army sergeant of the Korean War, is remembered for
+Süleyman Dilbirliği, a Turkish Army sergeant of the [Korean War](/events/korean-war/), is remembered for
 one of the war's most documented acts of humanity: in the winter of 1950 he found
 an orphaned Korean girl, Kim Eunja, in a ruined village, named her Ayla, and cared
 for her for over a year at the Turkish garrison — going so far as to try to smuggle
-her back to Turkey inside a large box rather than leave her behind
+her back to [Turkey](/places/turkey/) inside a large box rather than leave her behind
 ([Korea.net](https://www.korea.net/NewsFocus/Culture/view?articleId=145773)). He was
 caught, the two were separated, and they did not meet again for sixty years, until
 South Korean officials traced Ayla and reunited them in Seoul in 2010
@@ -171,7 +171,7 @@ South Korean officials traced Ayla and reunited them in Seoul in 2010
 Their story became the 2017 Turkish film "[Ayla: The Daughter of War](/creative-works/ayla-the-daughter-of-war/)," Turkey's
 foreign-language Oscar submission
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
-Dilbirliği died in Istanbul in December 2017 at age 91
+Dilbirliği died in [Istanbul](/places/istanbul/) in December 2017 at age 91
 ([Daily Sabah](https://www.dailysabah.com/turkey/2017/12/07/turkish-korean-war-veteran-who-inspired-film-ayla-passes-away-at-the-age-of-91/amp)).
 
 ## The rescue, and the box
@@ -270,12 +270,12 @@ Hürriyet feature
 
 In 2016 it was announced that Dilbirliği's story would become a feature film; most
 of it was shot in Turkey, the score was by Fahit Atakoğlu, the production company
-was Dijital Sanatlar, and Turkish Airlines sponsored it
+was Dijital Sanatlar, and [Turkish Airlines](/organizations/turkish-airlines/) sponsored it
 ([Korea.net](https://www.korea.net/NewsFocus/Culture/view?articleId=145773)).
 The film, "Ayla: The Daughter of War," directed by [Can Ülkay](/people/can-ulkay/), opened in Turkey on 8
 September 2017 and was chosen as Turkey's submission for the foreign-language-film
-Oscar; İsmail Hacıoğlu and Çetin Tekindor played the young and elderly Dilbirliği,
-while [Kim Seol](/people/kim-seol/) and Lee Kyung-Jin played the young and adult Ayla
+Oscar; [İsmail Hacıoğlu](/people/ismail-hacioglu/) and Çetin Tekindor played the young and elderly Dilbirliği,
+while [Kim Seol](/people/kim-seol/) and [Lee Kyung-Jin](/people/lee-kyung-jin/) played the young and adult Ayla
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 The publicity campaign drew on support from Turkish Airlines and Turkey's Culture
 and Tourism Ministry — though not without friction: screenwriter [Yiğit Güralp](/people/yigit-guralp/)

@@ -232,7 +232,7 @@ His most consequential assignment was [*Michael*](/creative-works/michael-2026-f
 **Is John Logan the screenwriter the same person as the Civil War general?**
 No. The screenwriter is the Chicago-born playwright listed by IMDb as born in 1961. The general was John A. Logan (1826–1886), a Union Army major general and later a US senator from Illinois, recorded by the New Hampshire Historical Society. A third John Logan — the American poet (1923–1987) — won the 1982 Lenore Marshall Poetry Prize.
 
-**How many Academy Awards has John Logan been nominated for?**
+**How many [Academy Awards](/organizations/academy-awards/) has John Logan been nominated for?**
 Three, with no wins: Best Original Screenplay for *Gladiator* (2000) and *The Aviator* (2004), and Best Adapted Screenplay for *Hugo* (2011). A Press Trust of India report confirms all three nominations. On stage he did win: the 2010 Tony for Best Play for *Red*, plus the Drama Desk, Drama League and Outer Critics Circle awards.
 
 **Did John Logan start out as a playwright?**

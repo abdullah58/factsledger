@@ -176,7 +176,7 @@ Devolution, in its current form, dates to the late 1990s: voters chose to create
 
 | Nation | Capital | Legislature | Executive | Devolution since |
 | ------ | ------- | ----------- | --------- | ---------------- |
-| England | London | UK Parliament (no separate body) | UK Government | n/a — governed from Westminster |
+| England | London | [UK Parliament](/organizations/uk-parliament/) (no separate body) | UK Government | n/a — governed from Westminster |
 | Scotland | Edinburgh | Scottish Parliament | Scottish Government | 1999 (Scotland Act 1998) |
 | Wales | Cardiff | Senedd Cymru (Welsh Parliament) | Welsh Government | 1999 (Government of Wales Act 1998) |
 | Northern Ireland | Belfast | Northern Ireland Assembly | Northern Ireland Executive | 1999 (NI Act 1998); restored Feb 2024 |

@@ -217,7 +217,7 @@ Paul Graham is an American computer scientist, essayist and investor. He holds a
 
 ## Viaweb and early career
 
-In 1995, Graham co-founded Viaweb with Robert Morris and others; Forbes describes it as the first software-as-a-service company, providing software that let merchants build online storefronts ([Forbes](https://www.forbes.com/global/2010/1108/companies-y-combinator-paul-graham-disruptor.html)). Yahoo acquired Viaweb in 1998 for roughly $50 million, after which it became Yahoo Store ([Forbes](https://www.forbes.com/global/2010/1108/companies-y-combinator-paul-graham-disruptor.html)).
+In 1995, Graham co-founded Viaweb with Robert Morris and others; [Forbes](/organizations/forbes/) describes it as the first software-as-a-service company, providing software that let merchants build online storefronts ([Forbes](https://www.forbes.com/global/2010/1108/companies-y-combinator-paul-graham-disruptor.html)). Yahoo acquired Viaweb in 1998 for roughly $50 million, after which it became Yahoo Store ([Forbes](https://www.forbes.com/global/2010/1108/companies-y-combinator-paul-graham-disruptor.html)).
 
 ## Essays and Hacker News
 

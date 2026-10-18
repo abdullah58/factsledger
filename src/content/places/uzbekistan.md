@@ -176,7 +176,7 @@ Uzbekistan became independent in 1991 with the dissolution of the Soviet Union, 
 Uzbekistan has one of Central Asia's most diversified economies, led by exports of gold, copper, zinc, uranium, food, fertilisers and services. Cotton remains its primary cash crop, and it is the world's eighth-largest cotton producer. Real GDP grew 7.7 percent in 2025, driven by domestic demand, services, agriculture and industry.
 
 **What are Uzbekistan's best-known historic sites?**
-Its UNESCO World Heritage properties include Itchan Kala in Khiva, the Historic Centre of Bukhara, the Historic Centre of Shakhrisyabz, Samarkand — Crossroad of Cultures, the Zarafshan-Karakum Corridor, and Tashkent Modernist Architecture. Samarkand's Registan, Bibi-Khanum Mosque and Ulugh-Beg's Observatory are among the most famous monuments.
+Its [UNESCO](/organizations/unesco/) World Heritage properties include Itchan Kala in Khiva, the Historic Centre of Bukhara, the Historic Centre of Shakhrisyabz, Samarkand — Crossroad of Cultures, the Zarafshan-Karakum Corridor, and Tashkent Modernist Architecture. Samarkand's Registan, Bibi-Khanum Mosque and Ulugh-Beg's Observatory are among the most famous monuments.
 
 ## What this profile does not claim
 

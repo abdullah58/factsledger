@@ -154,7 +154,7 @@ draft: false
 
 ## Overview
 
-**Joseph Walter Jackson** (1928–2018) was the patriarch of the Jackson family and the manager who forged the Jackson 5 into an international pop act; he was the father of [Michael Jackson](/people/michael-jackson/) and Janet Jackson, ran the family's career with a severity his children later described as abusive, and is portrayed by Colman Domingo in the 2026 biopic [*Michael*](/creative-works/michael-2026-film/) ([The New York Times](https://www.nytimes.com/2018/06/27/obituaries/josephjacksondies.html); [NME](https://www.nme.com/news/film/michael-jackson-biopic-reshoots-cost-15million-removed-all-mention-of-child-abuse-allegations-3939096)).
+**Joseph Walter Jackson** (1928–2018) was the patriarch of the Jackson family and the manager who forged the Jackson 5 into an international pop act; he was the father of [Michael Jackson](/people/michael-jackson/) and Janet Jackson, ran the family's career with a severity his children later described as abusive, and is portrayed by [Colman Domingo](/people/colman-domingo/) in the 2026 biopic [*Michael*](/creative-works/michael-2026-film/) ([The New York Times](https://www.nytimes.com/2018/06/27/obituaries/josephjacksondies.html); [NME](https://www.nme.com/news/film/michael-jackson-biopic-reshoots-cost-15million-removed-all-mention-of-child-abuse-allegations-3939096)).
 
 He is not the English new-wave musician of the same name — a singer born David Ian Jackson in 1954 whose hit was "Is She Really Going Out with Him?" — a distinction this profile makes explicit below ([FactMonster](https://www.factmonster.com/people/j/joe-jackson)).
 

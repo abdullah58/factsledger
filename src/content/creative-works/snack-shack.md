@@ -162,7 +162,7 @@ community in which I was raised" ([MovieWeb](https://movieweb.com/snack-shack-ad
 acquisitions label — in a limited U.S. theatrical release on 15 March 2024,
 with streaming following on 2 April ([Rotten Tomatoes](https://www.rottentomatoes.com/m/snack_shack)).
 The choice of 1991 was deliberate: a "post-Gulf War, pre-*Nevermind*" window
-when the nineties "hadn't been decided yet," Rehmeier told MovieWeb — late-80s
+when the nineties "hadn't been decided yet," Rehmeier told [MovieWeb](/organizations/movieweb/) — late-80s
 clothes, Yo! MTV Raps and Headbangers Ball on the stereo, everything in
 Nebraska running a year behind the coasts except Nirvana
 ([MovieWeb](https://movieweb.com/snack-shack-adam-rehmeier-intervie/)). The
