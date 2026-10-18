@@ -145,7 +145,7 @@ The regulations even codify the underdog's home advantage: when the second-drawn
 
 ## The 1926 final: Montbéliard's underdogs
 
-The cup's giant-killing folklore has deep roots. In 1926, [[AS Valentigney](/organizations/as-valentigney/)](https://factsledger.com/organizations/as-valentigney) — a small club from the Montbéliard region — reached the final against Olympique de Marseille, and were beaten 4–1 at the Stade de Colombes on May 9, 1926, in front of 30,000 spectators ([OM4ever](http://om4ever.com/GrandesFinales/26OMValentigney.htm)).
+The cup's giant-killing folklore has deep roots. In 1926, [AS Valentigney](/organizations/as-valentigney/) — a small club from the Montbéliard region — reached the final against Olympique de Marseille, and were beaten 4–1 at the Stade de Colombes on May 9, 1926, in front of 30,000 spectators ([OM4ever](http://om4ever.com/GrandesFinales/26OMValentigney.htm)).
 
 The contemporary report in *Le Miroir des Sports* treated the finalists as the heroes regardless of the score: "les gars du pays de Montbéliard" had the entire crowd's sympathy, ran themselves into the ground, and never despaired despite Marseille's crushing superiority of class. Marseille, the report concluded, "won the Cup, but did not carry away the admiration of those who love beautiful football" ([OM4ever](http://om4ever.com/GrandesFinales/26OMValentigney.htm)). It is the archetypal *petit poucet* story — the kind the Federation's honor roll was created to celebrate fifty years later.
 

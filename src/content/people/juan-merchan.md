@@ -69,7 +69,7 @@ lastUpdated: 2026-09-30
 
 ## Overview
 
-On January 10, 2025, Juan Merchan handed down the most discussed non-punishment in American criminal law: an unconditional discharge for a president-elect convicted of 34 felonies. Merchan could have sent Donald Trump to prison for up to four years. He chose a sentence — no prison time, no fine, no probation — that the Associated Press noted is rare for felony convictions, and that ended the case while locking the jury's verdict into the record ([AP](https://japannews.yomiuri.co.jp/news-services/ap/20250111-232455/)).
+On January 10, 2025, Juan Merchan handed down the most discussed non-punishment in American criminal law: an unconditional discharge for a president-elect convicted of 34 felonies. Merchan could have sent Donald Trump to prison for up to four years. He chose a sentence — no prison time, no fine, no probation — that the [Associated Press](/organizations/associated-press/) noted is rare for felony convictions, and that ended the case while locking the jury's verdict into the record ([AP](https://japannews.yomiuri.co.jp/news-services/ap/20250111-232455/)).
 
 His reasoning came in a single sentence directed at Trump's claims of presidential immunity: "Despite the extraordinary breadth of those protections, one power they do not provide is the power to erase a jury verdict" ([AP](https://japannews.yomiuri.co.jp/news-services/ap/20250111-232455/)). Then he wished the incoming president godspeed in his second term in office. Trump, appearing by virtual feed from Mar-a-Lago, called the proceeding a "despicable charade" and promised an appeal ([AP](https://japannews.yomiuri.co.jp/news-services/ap/20250111-232455/)).
 

@@ -102,7 +102,7 @@ lastUpdated: 2026-09-30
 
 ## Overview
 
-Sean Parnell is a decorated Afghanistan veteran who went from leading an infantry platoon nicknamed "the Outlaws" to serving as the Pentagon's chief spokesman — and, in September 2026, became Defense Secretary [Pete Hegseth](/people/pete-hegseth/)'s pick for secretary of the Army ([[The Hill](/organizations/the-hill/)](https://www.alabamas42.com/hill-politics/senators-spurn-hegseths-pick-amid-jockeying-for-army-secretary-nomination/)). His memoir *Outlaw Platoon* made him a known figure in veteran circles; his political runs in Pennsylvania made him a Trump-backed candidate; and a custody battle that ended his 2022 Senate campaign is now the obstacle senators cite against his confirmation ([NPR](https://www.weku.org/local-news/2021-11-22/trump-backed-pa-senate-candidate-suspends-his-campaign-after-losing-custody-battle?_amp=true)).
+Sean Parnell is a decorated Afghanistan veteran who went from leading an infantry platoon nicknamed "the Outlaws" to serving as the Pentagon's chief spokesman — and, in September 2026, became Defense Secretary [Pete Hegseth](/people/pete-hegseth/)'s pick for secretary of the Army ([The Hill](https://www.alabamas42.com/hill-politics/senators-spurn-hegseths-pick-amid-jockeying-for-army-secretary-nomination/)). His memoir *Outlaw Platoon* made him a known figure in veteran circles; his political runs in Pennsylvania made him a Trump-backed candidate; and a custody battle that ended his 2022 Senate campaign is now the obstacle senators cite against his confirmation ([NPR](https://www.weku.org/local-news/2021-11-22/trump-backed-pa-senate-candidate-suspends-his-campaign-after-losing-custody-battle?_amp=true)).
 
 ## The Outlaws: sixteen months in Afghanistan
 

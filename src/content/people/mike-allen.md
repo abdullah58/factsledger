@@ -104,7 +104,7 @@ reaching about 100,000 subscribers with an 80 percent gross open rate at its
 peak
 ([Digiday](https://digiday.com/media/post-mike-allen-politicos-newsletter-makes-play-millennials/)).
 As the National Press Foundation records, Allen is now co-founder and
-executive editor of [[Axios](/organizations/axios/)](https://factsledger.com/organizations/axios/),
+executive editor of [Axios](/organizations/axios/),
 where he writes the Axios Daily Essentials newsletters — Axios AM, Axios PM,
 and Axios Finish Line — the direct descendants of the format he invented
 ([National Press Foundation](https://nationalpress.org/speaker/mike-allen/)).

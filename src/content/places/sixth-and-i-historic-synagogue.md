@@ -112,7 +112,7 @@ Sixth & I Historic Synagogue is a 1908 synagogue building in Washington, D.C. th
 
 ## Construction and early history
 
-Adas Israel Congregation purchased the corner lot at 6th and I Streets NW in 1905 and began construction the following year; the sanctuary, built in a mix of Moorish, Romanesque and Byzantine Revival styles with three domes, was dedicated on 6 January 1908 ([Sixth & I](https://www.sixthandi.org/about/history/)). This early history is independently corroborated by an account in a Times of Israel blog post ([The Times of Israel](https://blogs.timesofisrael.com/a-synagogue-reimagined-as-a-cultural-hub-sixth-i-washington-dc/)).
+Adas [Israel](/places/israel/) Congregation purchased the corner lot at 6th and I Streets NW in 1905 and began construction the following year; the sanctuary, built in a mix of Moorish, Romanesque and Byzantine Revival styles with three domes, was dedicated on 6 January 1908 ([Sixth & I](https://www.sixthandi.org/about/history/)). This early history is independently corroborated by an account in a Times of Israel blog post ([The Times of Israel](https://blogs.timesofisrael.com/a-synagogue-reimagined-as-a-cultural-hub-sixth-i-washington-dc/)).
 
 ## From church to cultural venue
 

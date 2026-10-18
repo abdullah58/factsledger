@@ -102,7 +102,7 @@ Beyond the Supreme Court, the Center says it has recovered **over $100 million**
 
 ## From the Center to the federal bench
 
-In **2021**, Ali became the Center's president and executive director — only its second in nearly four decades. 【sources: Celebrating Amir Ali, Outgoing President & Executive Director】 In 2024, President Biden nominated him to serve as a **United States district judge for the District of Columbia**. 【sources: Letter of Support for Amir H. Ali, Nominee to the U.S. District Court for the District of Columbia】 Ali stepped down from the Center on **August 5, 2024**, and on **November 20, 2024**, the Senate confirmed him by **50 votes to 49**. 【sources: Celebrating Amir Ali, Outgoing President & Executive Director; Vote on Ali Nomination — Congressional Record, Vol. 170, No. 172】
+In **2021**, Ali became the Center's president and executive director — only its second in nearly four decades. 【sources: Celebrating Amir Ali, Outgoing President & Executive Director】 In 2024, President Biden nominated him to serve as a **United States district judge for the District of Columbia**. 【sources: Letter of Support for Amir H. Ali, Nominee to the [U.S. District Court for the District of Columbia](/organizations/us-district-court-dc/)】 Ali stepped down from the Center on **August 5, 2024**, and on **November 20, 2024**, the Senate confirmed him by **50 votes to 49**. 【sources: Celebrating Amir Ali, Outgoing President & Executive Director; Vote on Ali Nomination — Congressional Record, Vol. 170, No. 172】
 
 **David Shapiro** succeeded him as executive director, with his tenure beginning in **August 2025**. 【sources: Director of Development — MacArthur Justice Center】
 

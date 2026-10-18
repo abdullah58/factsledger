@@ -92,7 +92,7 @@ The program has been visible and public in a way space-suit development rarely i
 
 ## The money story
 
-Axiom's finances tell a whiplash story. In September 2024, [Forbes](https://factsledger.com/organizations/forbes/) reported that the company could barely pay its bills — a striking headline for a firm simultaneously trying to build a station, fly missions, and develop a lunar suit. By March 2025, Bloomberg was reporting a raise at a $2 billion valuation, down from its prior round [^5].
+Axiom's finances tell a whiplash story. In September 2024, [Forbes](/organizations/forbes/) reported that the company could barely pay its bills — a striking headline for a firm simultaneously trying to build a station, fly missions, and develop a lunar suit. By March 2025, Bloomberg was reporting a raise at a $2 billion valuation, down from its prior round [^5].
 
 Then came February 2026. Axiom announced $350 million in financing, co-led by Type One Ventures and the Qatar Investment Authority, with J.P. Morgan serving as sole placement agent. The round mixed equity and debt, and the participant list told its own story: 1789 Capital, the Hungarian group 4iG, LuminArx Capital Management — and Ghaffarian himself, who put in money directly. Type One's Tarek Waked called Axiom the "successor-architect for life after the ISS," the successor to the most expensive engineering project in human history [^2].
 

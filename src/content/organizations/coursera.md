@@ -123,7 +123,7 @@ Before going public, Coursera raised approximately $443 million, with its valuat
 
 ## Regulation/compliance record
 
-As an NYSE-listed company, Coursera files with the U.S. Securities and Exchange Commission — the Udemy merger was reported on Form 8-K and its completion on an amended 8-K/A [SEC 8-K](https://www.stocktitan.net/sec-filings/COUR/8-k-coursera-inc-reports-material-event-4ed5bdf90d4f.html) [SEC 8-K/A](https://www.stocktitan.net/sec-filings/COUR/8-k-a-coursera-inc-amends-material-event-report-fdd37a0dbcde.html). Its Delaware public-benefit-corporation and B Corp status is confirmed in its January 2025 announcement [BusinessWire](https://www.businesswire.com/news/home/20250129046154/en/Coursera-Announces-Leadership-Transition). No enforcement actions or material compliance disputes were identified in the sources read for this profile.
+As an NYSE-listed company, Coursera files with the [U.S. Securities and Exchange Commission](/organizations/us-securities-and-exchange-commission/) — the Udemy merger was reported on Form 8-K and its completion on an amended 8-K/A [SEC 8-K](https://www.stocktitan.net/sec-filings/COUR/8-k-coursera-inc-reports-material-event-4ed5bdf90d4f.html) [SEC 8-K/A](https://www.stocktitan.net/sec-filings/COUR/8-k-a-coursera-inc-amends-material-event-report-fdd37a0dbcde.html). Its Delaware public-benefit-corporation and B Corp status is confirmed in its January 2025 announcement [BusinessWire](https://www.businesswire.com/news/home/20250129046154/en/Coursera-Announces-Leadership-Transition). No enforcement actions or material compliance disputes were identified in the sources read for this profile.
 
 ## Timeline
 

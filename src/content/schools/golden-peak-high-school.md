@@ -131,7 +131,7 @@ lastUpdated: 2026-08-29
 Golden Peak High School is a private English-medium school in Saraswatinagar, Chabahil, in Ward 6 of Kathmandu
 Metropolitan City, Nepal. The school states that it was established in 1991
 ([official about page](https://goldenpeak.edu.np/about-us/) — first-party). It was named a Full Award recipient in
-the [[British Council](/organizations/british-council/)](https://factsledger.com/organizations/british-council)'s 2019–20 International School Award programme
+the [British Council](/organizations/british-council/)'s 2019–20 International School Award programme
 ([British Council](https://www.britishcouncil.org.np/sites/default/files/press_release_isa-20_october_2020.pdf)), and
 has appeared in Nepali media reporting on inter-school basketball, a cybersecurity education programme and
 post-earthquake relief work between 2014 and 2026.

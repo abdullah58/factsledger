@@ -128,7 +128,7 @@ All of this sits oddly beside the institution's origin story. Founded in 1934 by
 
 ## The International School Award connection
 
-Beyond teaching English and delivering exams, the Council runs the International School Award, an accreditation programme recognising schools for international curriculum work. In the 2019–20 cohort, British Council Nepal named 23 schools Full Award recipients — among them [[Brihaspati Vidyasadan](/schools/brihaspati-vidyasadan/)](https://factsledger.com/schools/brihaspati-vidyasadan) of Kathmandu and [Golden Peak High School](https://factsledger.com/schools/golden-peak-high-school), entries 4 and 17 on the award list (British Council Nepal press release, 20 October 2020; corroborated by New Spotlight Magazine). For those schools, the British Council's award is a mark of international standing — the same institution that, a few years later, would be offering its art collection to cover its debts.
+Beyond teaching English and delivering exams, the Council runs the International School Award, an accreditation programme recognising schools for international curriculum work. In the 2019–20 cohort, British Council Nepal named 23 schools Full Award recipients — among them [Brihaspati Vidyasadan](/schools/brihaspati-vidyasadan/) of Kathmandu and [Golden Peak High School](https://factsledger.com/schools/golden-peak-high-school), entries 4 and 17 on the award list (British Council Nepal press release, 20 October 2020; corroborated by New Spotlight Magazine). For those schools, the British Council's award is a mark of international standing — the same institution that, a few years later, would be offering its art collection to cover its debts.
 
 ## What this profile does not claim
 

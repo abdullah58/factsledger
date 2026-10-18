@@ -134,7 +134,7 @@ lastUpdated: 2026-10-10
 draft: false
 ---
 
-Yiğit Güralp is the Turkish screenwriter and creative producer of [Ayla: The Daughter of War](https://factsledger.com/creative-works/ayla-the-daughter-of-war/), Turkey's 2017 Oscar entry, whose career ran from a decade at Universal Music Turkey through hit TV writing to three feature films. In December 2022, after years of public dispute with the film's producer, Istanbul's 3rd Intellectual and Industrial Rights Court ordered producer Mustafa Uslu to pay him 100,000 TL in royalties and moral damages ([BirGün](https://www.birgun.net/haber/senaristin-actigi-davada-karar-mustafa-uslu-ayla-icin-100-bin-tl-tazminat-odeyecek-416485)). He later published the essay collection *İyi Hissettiren Yazılar* (2023) ([Yeni Şafak](https://www.yenisafak.com/amphtml/hayat/hayat-aci-ve-tatlinin-karisimidir-3901787)).
+Yiğit Güralp is the Turkish screenwriter and creative producer of [Ayla: The Daughter of War](https://factsledger.com/creative-works/ayla-the-daughter-of-war/), Turkey's 2017 Oscar entry, whose career ran from a decade at Universal Music Turkey through hit TV writing to three feature films. In December 2022, after years of public dispute with the film's producer, [Istanbul](/places/istanbul/)'s 3rd Intellectual and Industrial Rights Court ordered producer Mustafa Uslu to pay him 100,000 TL in royalties and moral damages ([BirGün](https://www.birgun.net/haber/senaristin-actigi-davada-karar-mustafa-uslu-ayla-icin-100-bin-tl-tazminat-odeyecek-416485)). He later published the essay collection *İyi Hissettiren Yazılar* (2023) ([Yeni Şafak](https://www.yenisafak.com/amphtml/hayat/hayat-aci-ve-tatlinin-karisimidir-3901787)).
 
 ## Overview
 

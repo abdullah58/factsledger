@@ -215,7 +215,7 @@ supporting roles**
 in a Turkish–Korean war epic that became Turkey's
 Oscar nominee for the foreign-language film category
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
-Turkish Airlines served as the main sponsor of the Oscar public-relations
+[Turkish Airlines](/organizations/turkish-airlines/) served as the main sponsor of the Oscar public-relations
 campaign, with the Culture and Tourism Ministry as a main supporter
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 That campaign took the film to Los Angeles, where *Ayla* opened the 2017

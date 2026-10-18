@@ -143,7 +143,7 @@ he moved into industry, chairing two subsidiaries of the national electric compa
 ## Political career
 
 Balladur returned to public life advising Jacques Chirac in the 1980s, was elected to the
-National Assembly as a Paris deputy in 1986, and joined Chirac's cabinet as minister of
+National Assembly as a [Paris](/places/paris/) deputy in 1986, and joined Chirac's cabinet as minister of
 economy, finance and privatization — a role in which he helped develop "cohabitation," the
 power-sharing arrangement with Socialist President François Mitterrand. After conservatives'
 landslide March 1993 legislative win, Mitterrand appointed him prime minister, a post he held

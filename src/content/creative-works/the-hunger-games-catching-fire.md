@@ -211,7 +211,7 @@ Peeta Mellark into the 75th Hunger Games, the Third Quarter Quell
 ([Scholastic](https://eu-shop.scholastic.co.uk/products/The-Hunger-Games-number-2-Catching-Fire-Suzanne-Collins-9781407132099);
 [SlashFilm](https://www.slashfilm.com/528746/the-hunger-games-catching-fire-cost-50-million-more-than-the-original-plus-new-imax-poster/)).
 It grossed $865 million worldwide, making it the franchise's biggest hit and
-Lionsgate's highest-grossing film until 2026 ([Music Business Worldwide](https://www.musicbusinessworldwide.com/michael-jackson-movie-overtakes-oppenheimer-as-biggest-biopic-ever-with-1-billion-in-sight/)).
+[Lionsgate](/organizations/lionsgate/)'s highest-grossing film until 2026 ([Music Business Worldwide](https://www.musicbusinessworldwide.com/michael-jackson-movie-overtakes-oppenheimer-as-biggest-biopic-ever-with-1-billion-in-sight/)).
 
 The film marked a changing of the guard behind the camera: Gary Ross, who
 directed the first *Hunger Games*, turned the sequel down in April 2012, citing

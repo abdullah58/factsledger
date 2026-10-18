@@ -121,7 +121,7 @@ years of history from the Buddhist era to British rule
 
 ## Heritage status
 
-Pakistan submitted "The Salt Range and Khewra Salt Mine" to the UNESCO World Heritage tentative list on 12 April
+Pakistan submitted "The Salt Range and Khewra Salt Mine" to the [UNESCO](/organizations/unesco/) World Heritage tentative list on 12 April
 2016. The submission names Katas Raj among the ancient centres of religious pilgrimage within the Salt Range
 ([UNESCO](https://whc.unesco.org/en/tentativelists/6118/)). A tentative list entry is a state's declaration of
 intent to nominate, not an inscription.

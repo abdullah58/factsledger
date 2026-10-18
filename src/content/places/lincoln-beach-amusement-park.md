@@ -319,7 +319,7 @@ Their lobbying worked: in 2023 New Orleans secured $24.6 million for the project
 Carter secured $4.1 million in federal funding toward the revival
 ([Sports Illustrated](https://www.si.com/onsi/adventure/adventure-feed-page/activists-revitalizing-once-segregated-since-abandoned-new-orleans-beach)).
 
-On July 10, 2024, the [[National Park Service](/organizations/national-park-service/)](https://factsledger.com/organizations/national-park-service) formally listed Lincoln Beach on the National Register of
+On July 10, 2024, the [National Park Service](/organizations/national-park-service/) formally listed Lincoln Beach on the National Register of
 Historic Places — 13835 and 14000 Hayne Blvd., reference number 100009216 — under Criterion A for Ethnic
 Heritage (Black), Social History and Recreation ([U.S. National Park Service](https://WWW.NPS.GOV/subjects/nationalregister/weekly-list-2024-07-12.htm);
 [Preservation Resource Center](http://prcno.org/louisiana-adds-19-national-register-listings-and-one-historic-landmark/)).

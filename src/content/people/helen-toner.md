@@ -352,7 +352,7 @@ Toner also connected the firing to her own report: after CSET published "Decodin
 
 OpenAI responded to Toner's May 2024 statements by saying it was "disappointed that Miss Toner continues to revisit these issues," and pointed to an internal review it said had concluded that the prior board's decision "was not based on concerns regarding product safety or security, the pace of development, OpenAI's finances, or its statements to investors, customers, or business partners" ([Fortune](https://www.fortune.com/2024/05/29/sam-altman-reputation-helen-toner-openai-chatgpt)). This profile states both Toner's account and OpenAI's response without adjudicating between them.
 
-After leaving OpenAI's board, Toner continued her CSET research, telling Axios in June 2024 that AI risk analysis should look beyond narrow catastrophic scenarios to a broader range of "civilization-scale bad outcomes," and that the technology's development remained too opaque, "being developed and pushed forward by a very small group of people" ([Axios](https://www.axios.com/2024/06/05/artificial-intelligence-helen-toner-openai-cset)).
+After leaving OpenAI's board, Toner continued her CSET research, telling [Axios](/organizations/axios/) in June 2024 that AI risk analysis should look beyond narrow catastrophic scenarios to a broader range of "civilization-scale bad outcomes," and that the technology's development remained too opaque, "being developed and pushed forward by a very small group of people" ([Axios](https://www.axios.com/2024/06/05/artificial-intelligence-helen-toner-openai-cset)).
 
 ## Musk v. OpenAI trial testimony
 

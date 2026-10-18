@@ -161,7 +161,7 @@ The Army provides the command's logistical and administrative backbone
 ## The Coast Guard connection: Task Force Port
 
 One relationship the reference profiles skip is the Coast Guard's. The
-[[U.S. Coast Guard](/organizations/us-coast-guard/)](https://factsledger.com/organizations/us-coast-guard/)'s
+[U.S. Coast Guard](/organizations/us-coast-guard/)'s
 cyber command — part of the Department of Homeland Security, not the
 Pentagon — holds a direct support relationship to CYBERCOM
 ([Congressional Research Service](https://www.congress.gov/crs_external_products/IF/PDF/IF13042/IF13042.5.pdf)).

@@ -275,7 +275,7 @@ was Dijital Sanatlar, and Turkish Airlines sponsored it
 The film, "Ayla: The Daughter of War," directed by [Can Ülkay](/people/can-ulkay/), opened in Turkey on 8
 September 2017 and was chosen as Turkey's submission for the foreign-language-film
 Oscar; İsmail Hacıoğlu and Çetin Tekindor played the young and elderly Dilbirliği,
-while Kim Seol and Lee Kyung-Jin played the young and adult Ayla
+while [Kim Seol](/people/kim-seol/) and Lee Kyung-Jin played the young and adult Ayla
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 The publicity campaign drew on support from Turkish Airlines and Turkey's Culture
 and Tourism Ministry — though not without friction: screenwriter [Yiğit Güralp](/people/yigit-guralp/)

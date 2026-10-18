@@ -146,7 +146,7 @@ openItems). Speaking to ETV Bharat after receiving the Ramoji Excellence Award 2
 motivation in terms of protecting tribal cultural identity against the pressure of dominant languages,
 saying "the pressure of other languages is weighing on our tribal identity" ([ETV Bharat](https://www.etvbharat.com/en/bharat/ramoji-excellence-awards-other-languages-are-weighing-on-our-tribal-identity-says-sathupati-prasanna-sree-enn25111702736)).
 Her work has focused on tribal communities in Andhra Pradesh as well as Chhattisgarh, Jharkhand, Odisha and
-Madhya Pradesh, according to the same report.
+[Madhya Pradesh](/places/madhya-pradesh/), according to the same report.
 
 ## Recognition
 

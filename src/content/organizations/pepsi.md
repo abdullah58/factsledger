@@ -222,7 +222,7 @@ Pharmacist Caleb Bradham created "Brad's Drink" in 1893 at his drugstore soda fo
 The March 2023 redesign was the brand's sixth since 1898 and its first change in 15 years (the previous logo dated to 2008). It restored the Pepsi wordmark inside the globe — evoking the 1990s look — and added black to the palette, tying the master brand to Pepsi Zero Sugar, which the company treats as its future growth focus.
 
 **Did the 2026 film *Michael* show the Pepsi accident?**
-Yes. Entertainment Weekly's fact-check of the film confirms the January 1984 commercial fire is recreated on screen, with Jaafar Jackson as Michael. The biopic's production history — including material on the burns and the painkiller use that followed — is documented in this site's profile of the film.
+Yes. Entertainment Weekly's fact-check of the film confirms the January 1984 commercial fire is recreated on screen, with [Jaafar Jackson](/people/jaafar-jackson/) as Michael. The biopic's production history — including material on the burns and the painkiller use that followed — is documented in this site's profile of the film.
 
 ## What this profile does not claim
 

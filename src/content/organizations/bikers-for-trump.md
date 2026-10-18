@@ -111,7 +111,7 @@ The AP dispatch captured the limits of that ambition in the same breath. Turning
 
 ## The book deal: five dollars a copy
 
-One of the group's odder revenue streams came through a book. In October 2019, author Trisha Hope — a Trump rally regular who published *Just the Tweets*, a collection of the president's posts — teamed up with Bikers for Trump on a fundraising deal announced live on The Sean Hannity Show from the Minnesota rally: $5.00 of the proceeds from each book sale would go to Bikers for Trump when buyers used the coupon code "bikers." ([Everand](https://www.everand.com/podcast/448196262/Just-The-Tweets))
+One of the group's odder revenue streams came through a book. In October 2019, author [Trisha Hope](/people/trisha-hope/) — a Trump rally regular who published *Just the Tweets*, a collection of the president's posts — teamed up with Bikers for Trump on a fundraising deal announced live on The Sean Hannity Show from the Minnesota rally: $5.00 of the proceeds from each book sale would go to Bikers for Trump when buyers used the coupon code "bikers." ([Everand](https://www.everand.com/podcast/448196262/Just-The-Tweets))
 
 ## What this profile does not claim
 

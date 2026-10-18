@@ -52,7 +52,7 @@ sources:
 
 ## Mostly a war against civilians
 
-World War II — the conflict that "involved virtually every part of the world during the years 1939–45" — was in many respects a continuation, after an uneasy 20-year hiatus, of the disputes left unsettled by World War I. The principal belligerents were the Axis powers (Germany, Italy, Japan) and the Allies (France, Great Britain, the United States, the Soviet Union and China) — the five countries that would become the permanent members of the United Nations Security Council.
+World War II — the conflict that "involved virtually every part of the world during the years 1939–45" — was in many respects a continuation, after an uneasy 20-year hiatus, of the disputes left unsettled by World War I. The principal belligerents were the Axis powers (Germany, Italy, Japan) and the Allies (France, Great Britain, the United States, the [Soviet Union](/places/soviet-union/) and China) — the five countries that would become the permanent members of the United Nations Security Council.
 
 What set it apart was its total nature: civilian populations "not only contributed to the war effort but also became direct targets of aerial attack," and in 1941 the Nazi regime unleashed a war of extermination against Jews, Slavs and others deemed inferior, while Stalinist Russia extended its terror to the conquered Poles. Britannica's cost analysis is blunt: civilian deaths — from land battles, bombardment, executions, war-induced disease and famine, and sinkings — "probably exceeded battle casualties."
 

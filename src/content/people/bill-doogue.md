@@ -102,7 +102,7 @@ management issues" ([Newcastle Herald](https://www.newcastleherald.com.au/story/
 From 2025, Doogue has been named in national and international press as part of the legal team representing Erin
 Patterson during her mushroom-poisoning murder trial and subsequent appeal in Victoria, including by NPR in the
 United States ([NPR](https://www.npr.org/2025/05/02/nx-s1-5383874/erin-patterson-murder-trial-poison-mushroom-australia))
-and by ABC News, which reported in August 2026 that "Patterson has retained her solicitor, Bill Doogue, and senior
+and by [ABC News](/organizations/abc-news/), which reported in August 2026 that "Patterson has retained her solicitor, Bill Doogue, and senior
 associate Ophelia Hollway" for her Court of Appeal hearing
 ([ABC News](https://www.abc.net.au/news/2026-08-19/erin-patterson-mushroom-murder-appeal-explainer/107049830)). As
 of writing, that appeal is ongoing and unresolved.

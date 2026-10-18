@@ -178,7 +178,7 @@ Thirty-four Ninth Circuit judges wrote the Senate Judiciary Committee in
 
 The bench also attracts unusual cross-partisan defenders. When President
 Obama nominated Berkeley professor Goodwin Liu to the circuit in 2010,
-[[Richard Painter](/people/richard-painter/)](https://factsledger.com/people/richard-painter/) — a
+[Richard Painter](/people/richard-painter/) — a
 conservative Republican who had served as President George W. Bush's
 chief ethics lawyer — wrote a Politico op-ed making the case for Liu.
 Senators Dianne Feinstein and Chris Coons quoted Painter's editorial on

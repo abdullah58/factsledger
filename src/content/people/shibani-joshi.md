@@ -97,7 +97,7 @@ strategy ranks to about six years as a technology reporter and anchor at the
 [Fox News Channel](/organizations/fox-news/), where she hosted her own technology segment,
 "Joshi on Tech"
 ([Women Business Collaborative](https://wbcollaborative.org/a4i_summit_speakers/shibani-joshi/);
-[CNBC Events](https://www.cnbcevents.com/speakers/shibani-joshi/)).
+[[CNBC](/organizations/cnbc/) Events](https://www.cnbcevents.com/speakers/shibani-joshi/)).
 After leaving Fox, she built an independent practice as a communications advisor, keynote
 speaker, and executive coach — including coaching Stanford Graduate School of Business
 alumni — and teaches in the University of Oklahoma's Executive MBA program

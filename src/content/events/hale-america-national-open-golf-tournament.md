@@ -118,7 +118,7 @@ participation in organizing the event was encouraged by John Kelly
 ([Global Golf Post](https://www.globalgolfpost.com/featured/ben-hogan-hale-america-and-the-myth-of-the-fifth-open-title-2/)).
 Held 18–21 June 1942 at Ridgemoor Country Club in Chicago, the event modified the usual U.S. Open format —
 raising the amateur handicap limit, restructuring qualifying into 69 local and 14 sectional sites, and
-capping the final field at roughly 100 players, with exemptions for veterans such as [[Bobby Jones](/people/bobby-jones/)](https://factsledger.com/people/bobby-jones), Walter
+capping the final field at roughly 100 players, with exemptions for veterans such as [Bobby Jones](/people/bobby-jones/), Walter
 Hagen and Jock Hutchison — and drew a record 1,500-plus entries
 ([Global Golf Post](https://www.globalgolfpost.com/featured/ben-hogan-hale-america-and-the-myth-of-the-fifth-open-title-2/)).
 

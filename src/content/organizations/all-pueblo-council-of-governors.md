@@ -83,7 +83,7 @@ draft: false
 
 ## Overview
 
-The All Pueblo Council of Governors (APCG) is an Albuquerque-based body representing 20 Pueblo Nations in New Mexico and one in Texas. Through 2025 and 2026 it has led a sustained public campaign to permanently protect the Greater Chaco region — including Chaco Canyon, a UNESCO World Heritage Site sacred to the Pueblo peoples — from future oil and gas leasing, pressing for a permanent 10-mile protective buffer around the canyon ([Native News Online](https://nativenewsonline.net/sovereignty/all-pueblo-council-of-governors-applauds-reintroduction-of-legislation-to-protect-chaco-canyon)).
+The All Pueblo Council of Governors (APCG) is an Albuquerque-based body representing 20 Pueblo Nations in New Mexico and one in Texas. Through 2025 and 2026 it has led a sustained public campaign to permanently protect the Greater Chaco region — including Chaco Canyon, a [UNESCO](/organizations/unesco/) World Heritage Site sacred to the Pueblo peoples — from future oil and gas leasing, pressing for a permanent 10-mile protective buffer around the canyon ([Native News Online](https://nativenewsonline.net/sovereignty/all-pueblo-council-of-governors-applauds-reintroduction-of-legislation-to-protect-chaco-canyon)).
 
 ## The Chaco Canyon campaign
 

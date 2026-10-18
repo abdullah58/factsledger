@@ -193,9 +193,9 @@ The numbers HUD claims for its programs are among the largest in domestic policy
 
 ## Two secretaries, two eras
 
-The cabinet post Weaver created has been held by figures who later became nationally prominent. [[Andrew Cuomo](/people/andrew-cuomo/)](https://factsledger.com/people/andrew-cuomo/) was the nation's 11th secretary of Housing and Urban Development, unanimously confirmed by the Senate and serving from January 29, 1997 to January 20, 2001 — the full second Clinton term ([HUD](https://archives.hud.gov/secretaries/cuomo/cuomo.cfm)).
+The cabinet post Weaver created has been held by figures who later became nationally prominent. [Andrew Cuomo](/people/andrew-cuomo/) was the nation's 11th secretary of Housing and Urban Development, unanimously confirmed by the Senate and serving from January 29, 1997 to January 20, 2001 — the full second Clinton term ([HUD](https://archives.hud.gov/secretaries/cuomo/cuomo.cfm)).
 
-The Clinton-era department also employed a future political strategist: [Adrienne Elrod](https://factsledger.com/people/adrienne-elrod/) began her political career in the Clinton administration, serving in both the White House Office of Intergovernmental Affairs and the Department of Housing and Urban Development, according to her professional biography ([Leading Authorities](https://www.leadingauthorities.com/speakers/adrienne-elrod/download-profile)).
+The Clinton-era department also employed a future political strategist: [Adrienne Elrod](/people/adrienne-elrod/) began her political career in the Clinton administration, serving in both the White House Office of Intergovernmental Affairs and the Department of Housing and Urban Development, according to her professional biography ([Leading Authorities](https://www.leadingauthorities.com/speakers/adrienne-elrod/download-profile)).
 
 The 19th secretary is Scott Turner, confirmed by the Senate on February 5, 2025. A former nine-season NFL player — with Washington, San Diego and Denver — and Texas state legislator (2013–2017), Turner had previously served as Executive Director of the White House Opportunity and Revitalization Council ([Congress.gov](https://www.congress.gov/119/meeting/house/118872/witnesses/HHRG-119-BA00-Bio-TurnerS-20260121.pdf)).
 

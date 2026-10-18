@@ -153,7 +153,7 @@ Ashton Kutcher, Melissa McCarthy, Johnny Galecki, Billy Gardell and Kaley
 Cuoco among them — and after vowing to "skip the mean stuff," he reversed
 course under loud pleas from his side of the room, called himself a "shit
 magnet," and thanked former colleagues he had clashed with, including
-Roseanne Barr, Brett Butler and Charlie Sheen
+Roseanne Barr, Brett Butler and [Charlie Sheen](/people/charlie-sheen/)
 ([TheWrap](https://www.thewrap.com/chuck-lorre-michael-eisner-bunimmurray-inducted-tv-academy-hall-fame-35913/)).
 
 The class around him showed the Hall of Fame's range. Former ABC and Disney

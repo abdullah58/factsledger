@@ -169,7 +169,7 @@ lastUpdated: 2026-10-10
 draft: false
 ---
 
-The 90th Academy Awards — the Oscar ceremony honoring 2017's films — took
+The 90th [Academy Awards](/organizations/academy-awards/) — the Oscar ceremony honoring 2017's films — took
 place on March 4, 2018, at the Dolby Theatre in Hollywood, Los Angeles, with
 comedian Jimmy Kimmel hosting for the second consecutive year
 ([SHOOTonline](https://www.shootonline.com/spw/90th-oscars-nominations-announced/)).

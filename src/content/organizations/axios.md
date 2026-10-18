@@ -98,7 +98,7 @@ The most revealing thing about Axios right now is not its newsletters, its
 owners, or its much-imitated terse style — it is a deal that has the company
 taking money and AI tools from OpenAI, one of the most aggressively covered
 targets of its own newsroom, and then hiring reporters into OpenAI-funded jobs
-without telling them in the job listings. The [[Columbia Journalism Review](/organizations/columbia-journalism-review/)](https://factsledger.com/organizations/columbia-journalism-review/) laid
+without telling them in the job listings. The [Columbia Journalism Review](/organizations/columbia-journalism-review/) laid
 out the arrangement in detail in August 2026: under a three-year deal, OpenAI
 bankrolls the startup of thirteen Axios Local newsletters and hands staff free
 credits for enterprise AI tools, while Axios lets OpenAI train its models on

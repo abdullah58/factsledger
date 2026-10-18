@@ -92,7 +92,7 @@ The most-viewed sitcom of its era was created by a man who once ran for governor
 
 Prady received 474 votes. ([TV Guide](https://www.tvguide.com/celebrities/bill-prady/bio/3031001721/)) No mainstream profile of him bothers with that number, yet it captures something the filmographies miss: Prady has always treated high-stakes situations as comedy material, and his entire career — from writing for Jim Henson's Muppets to building television's most successful portrait of scientists — is the work of a man who finds ordinary life absurd and absurd situations ordinary.
 
-That trajectory now extends into the next generation of the franchise he helped create. Prady is co-creator and executive producer of *Stuart Fails to Save the Universe*, the *[Big Bang](https://factsledger.com/creative-works/the-big-bang-theory/) Theory* spinoff streaming on HBO Max. ([Film Ireland](https://www.filmireland.net/state-of-the-arts-the-art-of-the-tv-spin-off-with-bill-prady-the-big-bang-theory-stuart-fails-to-save-the-universe/))
+That trajectory now extends into the next generation of the franchise he helped create. Prady is co-creator and executive producer of *Stuart Fails to Save the Universe*, the *[Big Bang](https://factsledger.com/creative-works/the-big-bang-theory/) Theory* spinoff streaming on [HBO Max](/organizations/hbo-max/). ([Film Ireland](https://www.filmireland.net/state-of-the-arts-the-art-of-the-tv-spin-off-with-bill-prady-the-big-bang-theory-stuart-fails-to-save-the-universe/))
 
 ## From code to the Creature Shop
 

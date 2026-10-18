@@ -131,7 +131,7 @@ draft: false
 
 ## Overview
 
-Midland Quarry Products (MQP) is a Leicestershire-based quarrying and asphalt business that supplies the stone beneath Britain's railways and the asphalt on its roads. It runs three quarries and ten asphalt plants across the Midlands, operates as part of Heidelberg Materials UK, and is one of four companies holding Network Rail ballast contracts worth a potential £90 million over five years ([Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk/en/news-and-events/mqp-welcomes-new-md); [Rail UK](https://railuk.com/rail-news/sustainabilitys-rocky-road/)).
+Midland Quarry Products (MQP) is a Leicestershire-based quarrying and asphalt business that supplies the stone beneath Britain's railways and the asphalt on its roads. It runs three quarries and ten asphalt plants across the Midlands, operates as part of Heidelberg Materials UK, and is one of four companies holding [Network Rail](/organizations/network-rail/) ballast contracts worth a potential £90 million over five years ([Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk/en/news-and-events/mqp-welcomes-new-md); [Rail UK](https://railuk.com/rail-news/sustainabilitys-rocky-road/)).
 
 MQP entered public record in the worst possible way in 2008, when ballast it supplied under contract to Network Rail was being delivered to a worksite near Barrow upon Soar and the delivery lorry demolished a footbridge, derailing a passenger train ([Barrow upon Soar rail crash](/events/barrow-upon-soar-rail-crash/); [RAIB](https://www.gov.uk/raib-reports/collision-of-a-train-with-a-demolished-footbridge-barrow-upon-soar)).
 

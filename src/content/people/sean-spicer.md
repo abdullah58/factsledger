@@ -96,7 +96,7 @@ His second line from that interview became the story's most-quoted sentence: "Ca
 
 ## Press secretary, January–July 2017
 
-Spicer came to the White House from the Republican National Committee, where he had spent several years leading communications before helping Trump's campaign in the general election. He was close to White House chief of staff Reince Priebus, the former RNC chair, and to several lower-ranking aides in the White House communications operation. ([Associated Press](https://www.arabnews.com/node/1132821/media))
+Spicer came to [the White House](/organizations/the-white-house/) from the Republican National Committee, where he had spent several years leading communications before helping Trump's campaign in the general election. He was close to White House chief of staff Reince Priebus, the former RNC chair, and to several lower-ranking aides in the White House communications operation. ([Associated Press](https://www.arabnews.com/node/1132821/media))
 
 His tenure got off to a rocky start. On Trump's first full day in office, Spicer lambasted journalists over coverage of the crowd size at the inauguration and stormed out of the briefing room without answering questions. His daily press briefings became must-see television for a time, until he took a more behind-the-scenes role and deputy press secretary Sarah Huckabee Sanders largely took over the briefings, turning them into an off-camera event. ([Associated Press](https://www.arabnews.com/node/1132821/media))
 

@@ -158,7 +158,7 @@ King's defining partnership is with Martin Scorsese. *The Departed* (2006) was h
 | Recognition | Work / context | Result |
 | ----------- | -------------- | ------ |
 | Academy Award — Best Picture | *The Departed* (2006), as producer | Won |
-| Academy Awards | *Bohemian Rhapsody* (2018) | 4 wins (film) |
+| [Academy Awards](/organizations/academy-awards/) | *Bohemian Rhapsody* (2018) | 4 wins (film) |
 | Officer of the Order of the British Empire | 2010 New Year Honours | Appointed |
 | CinemaCon International Filmmaker of the Year | 2019 | Received |
 

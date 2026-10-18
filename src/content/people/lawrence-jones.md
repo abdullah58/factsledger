@@ -87,7 +87,7 @@ Jones is a native of Garland, Texas, and attended the University of North Texas.
 
 ## The 2019 Minnesota rally appearance
 
-One lesser-reported stop in his rise: in October 2019, Jones appeared live from the Minnesota Trump rally on The Sean Hannity Show alongside Trisha Hope, the author of "Just the Tweets."[^4] The podcast episode, released October 10, 2019, billed Jones as a Fox News contributor and Hope as the episode's other guest from the rally floor.[^4] Some write-ups garble this detail as an appearance "alongside a woman named Hope"; the verified record shows the guest was Trisha Hope, promoting her book about Trump's social media posts.[^4]
+One lesser-reported stop in his rise: in October 2019, Jones appeared live from the Minnesota Trump rally on The Sean Hannity Show alongside [Trisha Hope](/people/trisha-hope/), the author of "Just the Tweets."[^4] The podcast episode, released October 10, 2019, billed Jones as a Fox News contributor and Hope as the episode's other guest from the rally floor.[^4] Some write-ups garble this detail as an appearance "alongside a woman named Hope"; the verified record shows the guest was Trisha Hope, promoting her book about Trump's social media posts.[^4]
 
 ## The Memories Pizza fundraiser question
 

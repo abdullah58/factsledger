@@ -112,7 +112,7 @@ draft: false
 
 ## The legislature at Westminster
 
-The Parliament of the United Kingdom of Great Britain and Northern Ireland is the country's supreme legislative body, meeting at the Palace of Westminster in London. It is bicameral: the elected House of Commons and the appointed House of Lords both make laws, check and challenge the work of the government, and represent the views of citizens ([UK Parliament](https://assets-learning.parliament.uk/uploads/2025/04/How-it-Works-E-TEXT-accessible.pdf)).
+The Parliament of the [United Kingdom](/places/united-kingdom/) of Great Britain and Northern Ireland is the country's supreme legislative body, meeting at the Palace of Westminster in London. It is bicameral: the elected House of Commons and the appointed House of Lords both make laws, check and challenge the work of the government, and represent the views of citizens ([UK Parliament](https://assets-learning.parliament.uk/uploads/2025/04/How-it-Works-E-TEXT-accessible.pdf)).
 
 The Commons is the elected chamber. MPs are chosen by first-past-the-post, general elections are held at least every five years, and the leader of the party with the most MPs becomes prime minister and forms the government ([UK Parliament](https://assets-learning.parliament.uk/uploads/2025/04/How-it-Works-E-TEXT-accessible.pdf)). The Lords is largely appointed rather than elected: most of its members — about 650 — are life peers appointed by the monarch on the prime minister's advice for their expertise, joined by 26 Church of England archbishops and bishops and 92 elected hereditary peers retained after the 1999 House of Lords Act ended most hereditary seats ([UK Parliament](https://assets-learning.parliament.uk/uploads/2025/04/How-it-Works-E-TEXT-accessible.pdf)).
 

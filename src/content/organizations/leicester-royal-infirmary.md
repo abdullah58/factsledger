@@ -126,7 +126,7 @@ draft: false
 
 ## Overview
 
-Leicester Royal Infirmary (LRI) is the main emergency hospital for the city of Leicester: an NHS teaching hospital at Infirmary Square, run by University Hospitals of Leicester NHS Trust, with an accident and emergency department open 24 hours a day, every day ([University Hospitals of Leicester NHS Trust](https://www.leicestershospitals.nhs.uk/aboutus/our-hospitals/leicester-royal-infirmary/); [Care Quality Commission](https://www.cqc.org.uk/location/RWEAA)). Founded in 1771 as the Leicester Infirmary with just 40 beds, it has been treating the city's sick and injured for 250 years.
+[Leicester](/places/leicester/) Royal Infirmary (LRI) is the main emergency hospital for the city of Leicester: an NHS teaching hospital at Infirmary Square, run by University Hospitals of Leicester NHS Trust, with an accident and emergency department open 24 hours a day, every day ([University Hospitals of Leicester NHS Trust](https://www.leicestershospitals.nhs.uk/aboutus/our-hospitals/leicester-royal-infirmary/); [Care Quality Commission](https://www.cqc.org.uk/location/RWEAA)). Founded in 1771 as the Leicester Infirmary with just 40 beds, it has been treating the city's sick and injured for 250 years.
 
 Its latest inspection, published in June 2024, rated it Good for being Effective and Caring, but Requires improvement for being Safe, Responsive and Well-led ([Care Quality Commission](https://www.cqc.org.uk/location/RWEAA)).
 

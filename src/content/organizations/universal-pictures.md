@@ -201,7 +201,7 @@ Universal's modern run is built on partnerships rather than acquisitions. The ro
 | ---- | ------------------------ | ---------------- | ------ |
 | *The Odyssey* | Past $1.7B (industry reporting) | Distributor; Nolan's follow-up to *Oppenheimer* | [Innovation Village](https://innovation-village.com/universal-becomes-first-studio-to-cross-5-billion-at-2026-global-box-office/) |
 | *The Super Mario Galaxy Movie* | Past $1B | Distributor (Illumination + Nintendo) | [Innovation Village](https://innovation-village.com/universal-becomes-first-studio-to-cross-5-billion-at-2026-global-box-office/); [TheWrap](https://www.thewrap.com/creative-content/movies/universal-chief-reacts-minions-monsters-box-office-drop/) |
-| *Michael* | $1.028B (end of run) | International distribution via UPI; Lionsgate domestic | [ET Now](https://www.etnownews.com/entertainment/michael-jackson-biopic-michael-crosses-1-billion-the-business-behind-the-biggest-biopic-ever-article-156244963) |
+| *Michael* | $1.028B (end of run) | International distribution via UPI; [Lionsgate](/organizations/lionsgate/) domestic | [ET Now](https://www.etnownews.com/entertainment/michael-jackson-biopic-michael-crosses-1-billion-the-business-behind-the-biggest-biopic-ever-article-156244963) |
 
 Universal's 2026 worldwide grosses cleared $5 billion — only the third such year in the studio's history after 2015 and 2017 ([Innovation Village](https://innovation-village.com/universal-becomes-first-studio-to-cross-5-billion-at-2026-global-box-office/)) — which implies that a studio built on filmmaker partnerships rather than a Marvel-scale IP vault can still produce landmark theatrical years in a market that increasingly rewards them.
 

@@ -365,7 +365,7 @@ COVID-19 response — and was a central figure in the September 2020
 Israel–UAE normalization known as the Abraham Accords
 ([EBSCO](https://www.ebsco.com/research-starters/biography/jared-kushner);
 [ThePrint](https://theprint.in/diplomacy/trump-didnt-want-to-visit-india-over-covid-fears-but-jared-kushner-convinced-him-ex-aide/746597/)).
-After Trump's first term he founded the private equity firm Affinity Partners
+After Trump's first term he founded the private equity firm [Affinity Partners](/organizations/affinity-partners/)
 in 2021, anchored by a $2 billion commitment from Saudi Arabia's Public
 Investment Fund — a fund whose growth past $6 billion has made Kushner's
 overlap of private fundraising and public diplomacy one of the most

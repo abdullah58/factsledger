@@ -92,7 +92,7 @@ Every biography of [Michael](/creative-works/michael-2026-film/) Jackson ends wi
 exactly what makes the standard biographies incomplete. Jackson died with
 enormous financial debts, and then something happened that no obituary
 anticipated: the estate run by the two men named in his will — attorney John
-Branca and music executive John McClain — turned his music into the most valuable
+Branca and music executive [John McClain](/people/john-mcclain/) — turned his music into the most valuable
 posthumous entertainment franchise in history, with an estimated $3.5 billion in
 earnings since 2009
 ([Britannica](https://www.britannica.com/biography/michael-jackson);
