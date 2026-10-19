@@ -105,9 +105,9 @@ draft: false
 ## Overview
 
 The Sheffield Declaration — also known as the Sheffield Resolves — is a set of resolutions adopted unanimously
-by the freeholders and inhabitants of Sheffield, Massachusetts, on 12 January 1773, three years before the
-Declaration of Independence. Drafted by Theodore Sedgwick, a young lawyer who had settled in the town in 1767,
-and debated by a committee of eleven local men at the home of Col. John Ashley, the resolves opened by declaring
+by the freeholders and inhabitants of [Sheffield, Massachusetts](/places/sheffield-massachusetts/), on 12 January 1773, three years before the
+Declaration of Independence. Drafted by [Theodore Sedgwick](/people/theodore-sedgwick/), a young lawyer who had settled in the town in 1767,
+and debated by a committee of eleven local men at the home of Col. [John Ashley](/people/john-ashley/), the resolves opened by declaring
 that "mankind in a state of nature are equal, free, and independent of each other, and have a right to the
 undisturbed enjoyment of their lives, their liberty and property"
 ([The Berkshire Eagle](https://www.berkshireeagle.com/history/sheffield-resolves-1773-american-revolutionary-roots/article_08a60fc3-cf5b-43fd-8664-673a9a1af93c.html)).
@@ -116,14 +116,13 @@ governors and judges were paid by the crown rather than raised locally by the co
 had been removed from local jurisdiction, and that land-boundary disputes had been resolved by rulings the
 Sheffield freeholders considered unjust
 ([Alpha History](https://alphahistory.com/americanrevolution/extracts-sheffield-declaration-1773/)). It was
-published the following month in The Massachusetts Spy and circulated widely
+published the following month in [The Massachusetts Spy](/organizations/massachusetts-spy/) and circulated widely
 ([Alpha History](https://alphahistory.com/americanrevolution/extracts-sheffield-declaration-1773/)).
 
 ## An ideological throughline
 
 The natural-rights language of the Sheffield Resolves anticipated, and likely influenced, two of the era's
-foundational documents: Thomas Jefferson's Declaration of Independence in 1776, and the Massachusetts
-Constitution's own declaration of rights in 1780
+foundational documents: [Thomas Jefferson](/people/thomas-jefferson/)'s [Declaration of Independence](/events/declaration-of-independence/) in 1776, and the [Massachusetts Constitution](/events/massachusetts-constitution/)'s own declaration of rights in 1780
 ([The Berkshire Eagle](https://www.berkshireeagle.com/history/sheffield-resolves-1773-american-revolutionary-roots/article_08a60fc3-cf5b-43fd-8664-673a9a1af93c.html);
 [National Constitution Center](https://constitutioncenter.org/blog/elizabeth-freeman-her-case-for-freedom-and-the-massachusetts-constitution)).
 No source consulted for this profile establishes a documented, direct line of influence from Sheffield's
@@ -133,14 +132,14 @@ in that order.
 ## From a colonial grievance to a freedom suit
 
 The clearest documented consequence of the Sheffield Resolves runs through the household where they were
-debated. Elizabeth Freeman, an enslaved woman in Col. John Ashley's own home, is reported to have overheard
+debated. [Elizabeth Freeman](/people/elizabeth-freeman/), an enslaved woman in Col. John Ashley's own home, is reported to have overheard
 the 1773 discussions of natural equality while serving the men who drafted them
 ([WBUR](https://www.wbur.org/news/2020/01/27/elizabeth-freeman-sheffield-slave-ashley-sedgwick)). Nearly nine
 years later, after being struck by Ashley's wife with a fireplace shovel, Freeman sought out Sedgwick — one of
 the men she had overheard — to represent her in a suit for freedom. Sedgwick built his argument not on the
 1773 resolves directly but on the equality clause of the 1780 Massachusetts Constitution, which had grown out
-of the same principles. Freeman, together with a co-plaintiff known as Brom, won her freedom in 1781, the
-first case in which a Massachusetts court freed an enslaved person on those constitutional grounds
+of the same principles. Freeman, together with a co-plaintiff known as [Brom](/people/brom-sheffield/), won her freedom in 1781, the
+first case in which a [Massachusetts](/places/massachusetts/) court freed an enslaved person on those constitutional grounds
 ([WBUR](https://www.wbur.org/news/2020/01/27/elizabeth-freeman-sheffield-slave-ashley-sedgwick);
 [National Constitution Center](https://constitutioncenter.org/blog/elizabeth-freeman-her-case-for-freedom-and-the-massachusetts-constitution)).
 
