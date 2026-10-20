@@ -98,7 +98,6 @@ sources:
   usedFor: DAS UK acquired by Arag July 2023, finalised January 2024; DAS UK had been Ergo's UK legal protection business; brand withdrawn after about 50 years
 published: 2026-10-04
 lastUpdated: 2026-10-04
-draft: true
 ---
 
 ## Overview

@@ -81,7 +81,6 @@ sources:
   usedFor: Q3 2025 financials ($187M revenue, $141.7M gross profit, $13.1M operating income, $7.8M net income, $0.10 diluted EPS), 39.7% non-US revenue, 32.4% government / 25% US federal, platform capabilities, consulting partnerships
 published: 2026-10-04
 lastUpdated: 2026-10-04
-draft: true
 ---
 
 ## Overview

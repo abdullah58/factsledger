@@ -83,7 +83,6 @@ sources:
   usedFor: Annual revenue series corroborating $140.54M for 2025 ($119.79M 2024, $119.08M 2023, $95.83M 2022)
 published: 2026-10-04
 lastUpdated: 2026-10-04
-draft: true
 ---
 
 ## Overview

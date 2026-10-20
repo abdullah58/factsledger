@@ -89,7 +89,6 @@ sources:
     sourceNote: Australian financial press; reports Appen's ASX disclosure
 published: 2026-10-04
 lastUpdated: 2026-10-04
-draft: true
 ---
 
 ## Overview

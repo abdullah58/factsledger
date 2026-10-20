@@ -73,7 +73,6 @@ sources:
   usedFor: USM more than doubled doctoral enrollment over five years; growth in education, counselor education, cybersecurity and marketing programs
 published: 2026-10-04
 lastUpdated: 2026-10-04
-draft: true
 ---
 
 ## Overview

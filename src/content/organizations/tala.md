@@ -88,7 +88,6 @@ sources:
     sourceNote: Founder-profile reporting; independent of Tala
 published: 2026-10-04
 lastUpdated: 2026-10-04
-draft: true
 ---
 
 ## Overview

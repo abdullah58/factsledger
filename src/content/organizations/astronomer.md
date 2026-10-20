@@ -83,7 +83,6 @@ sources:
   usedFor: July 16, 2025 Gillette Stadium kiss-cam incident, Byron placed on leave July 18, resignation accepted July 19, Pete DeJoy interim CEO, company's conduct-and-accountability statement, Chris Martin quip
 published: 2026-10-04
 lastUpdated: 2026-10-04
-draft: true
 ---
 
 ## Overview

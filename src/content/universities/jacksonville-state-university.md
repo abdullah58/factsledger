@@ -90,7 +90,6 @@ sources:
     sourceNote: AP wire reporting; independent of the university
 published: 2026-10-04
 lastUpdated: 2026-10-04
-draft: true
 ---
 
 ## Overview

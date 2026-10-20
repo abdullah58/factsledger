@@ -124,7 +124,6 @@ sources:
     sourceNote: Entrepreneur profile; corroboration only for the name-collision note
 published: 2026-10-04
 lastUpdated: 2026-10-04
-draft: true
 ---
 
 ## Overview
