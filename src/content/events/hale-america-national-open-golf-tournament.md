@@ -109,7 +109,7 @@ draft: false
 
 The Hale America National Open Golf Tournament was organized as a wartime substitute for the 1942 U.S.
 Open after the United States Golf Association suspended its national championships following the attack on
-Pearl Harbor, when the scheduled host, Interlachen Country Club in Minnesota, also withdrew
+[Pearl Harbor](/events/attack-on-pearl-harbor/), when the scheduled host, Interlachen Country Club in Minnesota, also withdrew
 ([Global Golf Post](https://www.globalgolfpost.com/featured/ben-hogan-hale-america-and-the-myth-of-the-fifth-open-title-2/)).
 Tom McMahon of the Chicago District Golf Association conceived it as a war-relief fundraiser, jointly run by
 the [USGA](https://factsledger.com/organizations/usga), the [PGA of America](https://factsledger.com/organizations/pga-of-america) and the CDGA, with proceeds benefiting the Navy Relief Society and the USO
