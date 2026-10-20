@@ -169,7 +169,7 @@ Oil. Germany's raw-material supplies were running short, the US had entered the 
 
 **How many died at Stalingrad?**
 
-Britannica estimates ~800,000 Axis casualties (including missing and captured), ~1,100,000 Soviet casualties, and ~40,000 civilian dead — "one of the deadliest battles in World War II" ([Encyclopaedia Britannica](http://www.britannica.com/eb/article-9069378/Battle-of-Stalingrad)).
+Britannica estimates ~800,000 Axis casualties (including missing and captured), ~1,100,000 Soviet casualties, and ~40,000 civilian dead — "one of the deadliest battles in [World War II](/events/world-war-ii/)" ([Encyclopaedia Britannica](http://www.britannica.com/eb/article-9069378/Battle-of-Stalingrad)).
 
 ## What this profile does not claim
 
