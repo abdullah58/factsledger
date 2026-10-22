@@ -195,10 +195,8 @@ ABET was founded in 1932 as the Engineers' Council for Professional Development
 accreditation, regulation, and professional development of engineering
 professionals and students in the United States
 ([ABET](https://www.abet.org/about-abet/history/)). Seven engineering societies
-founded it and set its original direction — ASCE, AIME, ASME, the AIEE (now
-IEEE), the SPEE (now ASEE), the AIChE, and the National Council of State Boards
-of Engineering Examiners (now NCEES) — and it was first headquartered in New
-York City before relocating to Baltimore, Maryland, in 1996
+founded it and set its original direction — [ASCE](/organizations/asce/), [AIME](/organizations/aime/), [ASME](/organizations/asme/), the [AIEE](/organizations/aiee/) (now IEEE), the SPEE (now [ASEE](/organizations/asee/)), the [AIChE](/organizations/aiche/), and the National Council of State Boards
+of Engineering Examiners (now [NCEES](/organizations/ncees/)) — and it was first headquartered in [New York City](/places/new-york-city/) before relocating to [Baltimore, Maryland](/places/baltimore/), in 1996
 ([ABET](https://www.abet.org/about-abet/history/)).
 
 The milestones tell a story of expanding scope. ECPD evaluated its first
@@ -207,7 +205,7 @@ programs ten years later, and by 1947 had accredited 580 undergraduate
 engineering programs at 133 institutions
 ([ABET](https://www.abet.org/about-abet/history/)). Renamed the Accreditation
 Board for Engineering and Technology in 1980, ABET helped establish the
-Computing Sciences Accreditation Board (now CSAB) in 1985 ahead of the computer
+[Computing Sciences Accreditation Board](/organizations/csab/) (now CSAB) in 1985 ahead of the computer
 science boom; CSAB merged into ABET in the early 2000s as one of its largest
 member societies, with more than 300 accredited programs
 ([ABET](https://www.abet.org/about-abet/history/)). In 2005 the organization
@@ -222,9 +220,9 @@ From a U.S. professional body, ABET has grown into a global accreditor:
 figure reported in September 2026
 ([Gulf News](https://gulfnews.com/friday/lifetstyle/a-new-academic-achievement-for-liwa-university-1.500668203)).
 Its degrees carry weight internationally through mutual recognition agreements:
-ABET was a founding signatory of the 1989 Washington Accord, under which
+ABET was a founding signatory of the [1989 Washington Accord](/events/washington-accord/), under which
 engineering degrees accredited by any signatory are recognized by all other
-signatories, and it has been a signatory of the parallel Sydney Accord for
+signatories, and it has been a signatory of the parallel [Sydney Accord](/events/sydney-accord/) for
 engineering technology since 2009
 ([LegalClarity](https://legalclarity.org/what-is-abet-accreditation-and-why-does-it-matter/)).
 
@@ -259,9 +257,9 @@ the programs it oversees
 
 ## Related entities
 
-No dedicated FactsLedger profiles exist yet for ABET's member societies, its
-CSAB affiliate, or the Washington and Sydney Accords; links will be added when
-such profiles are published.
+Dedicated FactsLedger profiles now exist for each of ABET's seven founding
+societies, the CSAB, and the Washington and Sydney Accords; they are linked at
+first mention in the article above.
 
 ## What this profile does not claim
 
