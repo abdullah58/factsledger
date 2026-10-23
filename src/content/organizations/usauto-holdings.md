@@ -18,7 +18,11 @@ facts:
   - label: Base
     value: 3813 Green Hills Village Drive, Nashville, Tennessee 37215
   - label: Origins
-    value: USAuto Insurance Company organized in Tennessee in 1995
+    value: USAuto Insurance Company organized in Tennessee in October 1995; began as an independent retail agency
+  - label: Retail footprint at acquisition
+    value: 114 company-owned retail offices in six states (TN, GA, AL, MS, MO, OH); 406 employees (September 2003)
+  - label: 2002 revenue / pre-tax income
+    value: $70.4 million / $14.7 million (GAAP)
   - label: Acquired by
     value: "Liberté Investors, Inc. (NYSE: LBI) — merger agreement December 15, 2003; closed April 30, 2004"
   - label: Consideration
@@ -31,6 +35,23 @@ timeline:
       USAuto Insurance Company is organized and capitalized in
       Tennessee, the underwriting arm of what became USAuto Holdings.
     sourceType: SEC proxy (DEF 14A, Oct. 6, 2008, tier1)
+  - year: "1998"
+    event: >-
+      USAuto acquires the "Acceptance Insurance" agencies of Marietta,
+      Georgia (25 locations) — its first expansion outside Tennessee.
+    sourceType: SEC Form S-1/A (tier1)
+  - year: "2000"
+    event: >-
+      Retail expansion under the Acceptance name reaches Alabama
+      (2000), Mississippi (2001), Missouri (2001), and Ohio (2002);
+      GAAP revenues grow from $35.1M (2000) to $70.4M (2002).
+    sourceType: SEC Form S-1/A (tier1)
+  - year: "2003"
+    event: >-
+      Nine months ended September 30, 2003: $65.6M revenue, $13.5M
+      pre-tax income; 114 retail locations, 406 employees across six
+      states.
+    sourceType: SEC Form S-1/A (tier1)
   - year: "2003"
     event: >-
       Liberté Investors, Inc. (NYSE: LBI) announces a definitive merger
@@ -53,23 +74,15 @@ timeline:
     sourceType: SEC filings (tier1)
 openItems:
   - >-
-    The pre-merger business model detail (retail footprint, revenue
-    figures, expansion history) appears in the SEC joint proxy
-    statement/prospectus (Form S-1/A, filed 2004-02-12), which was not
-    directly fetched this run; the profile states only the merger-era
-    facts verified here.
-  - >-
-    Whether USAuto Holdings, Inc. itself was the Delaware holding
-    company over the Tennessee insurer is established by the voting
-    agreement (USAuto Holdings, Inc., Delaware corporation, merging
-    with USAH Merger Sub).
-  - >-
     The 750,000-share earn-out's recipients and triggering targets
     beyond "2004 operating performance criteria" were not verified.
   - >-
-    The pre-1998 history of the "Acceptance Insurance" agencies in
-    Marietta, Georgia (which USAuto traded under after acquiring
-    them) was not verified; no owners are asserted here.
+    The pre-1998 owners of the Marietta, Georgia "Acceptance Insurance"
+    agencies were not established; no owners are asserted here.
+  - >-
+    The S-1/A is an amendment to a preliminary joint proxy
+    statement/prospectus; 2003 figures are nine-months data, not
+    full-year — labeled accordingly above.
 sources:
   - title: "Liberté Investors, Inc. Agrees to Acquire USAuto Holdings"
     url: https://www.sec.gov/Archives/edgar/data/1017907/000104746903040833/a2124990zex-99_1.htm
@@ -89,8 +102,17 @@ sources:
     tier: tier1
     date: "2008-10-06"
     usedFor: Stephen J. Harrison co-founded USAuto Insurance Company in 1995; Thomas M. Harrison VP & Secretary of USAuto Holdings 1995–December 2007
+  - title: Joint Proxy Statement/Prospectus (Form S-1/A), Liberté Investors Inc.
+    url: https://www.sec.gov/Archives/edgar/data/1017907/000104746904001376/a2126742zs-1a.htm
+    publisher: U.S. Securities and Exchange Commission
+    tier: tier1
+    date: "2004-01-20"
+    usedFor: "\"Business of USAuto\" section — October 1995 founding, Harrison Brothers, November 1998 Acceptance agencies acquisition, state expansion dates, 114 locations/406 employees, GAAP financials, vertically integrated model, Product Template, $750 average premium, customer profile, market size, rights offering mechanics and Hunter's Glen/Ford backstop, Thomas M. Harrison Jr. VP & Secretary (age 53)"
 sourceNote: >-
-  All three sources were read in full. Merger-announcement quotes are
+  The 8-K exhibit, the voting agreement, and the DEF 14A were read in
+  full in this run. The S-1/A "Business of USAuto" section was read in
+  full by the dispatched SEC-document reader for this run; its facts
+  are attributed above to that filing. Merger-announcement quotes are
   attributed to the release, not reported as independent facts.
 published: 2026-10-23
 lastUpdated: 2026-10-23
@@ -115,6 +137,51 @@ the 2003 deal the business traded through company-owned retail agencies
 under the "Acceptance" brand. The voting agreement tied to the merger
 identifies USAuto Holdings, Inc. as a [Delaware](/places/delaware/) corporation headquartered
 at 3813 Green Hills Village Drive, Nashville, Tennessee.
+
+## The business: retail, servicing, and underwriting
+
+The prospectus's "Business of USAuto" section describes a vertically
+integrated operation: USAuto acted as the agency, servicer, and
+underwriter of non-standard personal automobile insurance, selling
+exclusively through 114 company-owned retail offices in six states,
+staffed by employee-agents connected over a proprietary intranet —
+rather than through independent agents. Customers could start coverage
+with a down payment equal to one month's premium, policies were issued
+at the point of sale, about 85% of customers paid at the offices, and
+the estimated policy renewal rate was about 30% — below the
+standard-carrier average. A single "Product Template" governed rates,
+rules, and forms across states.
+
+USAuto began as an independent retail agency and took its current shape
+in October 1995, when it organized and capitalized USAuto Insurance
+Company, Inc. in Tennessee to underwrite for the 12 company-owned
+agencies then trading as "Harrison Brothers." Its first move outside
+Tennessee came in November 1998, buying the "Acceptance Insurance"
+agencies based in Marietta, Georgia — 25 retail locations then, 53 by
+2003, all new policies exclusively underwritten by USAuto subsidiaries.
+Under the Acceptance name it opened new locations in Alabama (September
+2000), Mississippi (February 2001), Missouri (December 2001), and Ohio
+(June 2002); by September 30, 2003, it was transacting business as
+Acceptance in six states with 114 locations and 406 employees.
+
+The typical customer, per the prospectus, sought non-standard coverage
+mainly from failure to maintain continuous coverage or the need for
+affordable monthly payments — "rather than for poor driving records."
+The average six-month premium on policies in force was $750. The
+non-standard segment itself was about $30 billion as of December 31,
+2002 — roughly 20% of the U.S. personal auto market — with the ten
+largest insurance groups accounting for about 70% of it.
+
+## Funding the deal
+
+The $76 million cash portion was to be funded by a rights offering of
+about 12.5 million shares at $4.00 per share — roughly $50 million in
+aggregate proceeds — plus existing cash. Hunter's Glen/Ford, Ltd.
+(Gerald J. Ford's affiliate) agreed to subscribe its full pro rata
+amount and backstop the offering, buying any unsold shares at the same
+$4.00 price. The prospectus also confirms Thomas M. Harrison, Jr.
+(age 53) as USAuto's Vice President and Secretary — the role the 2008
+proxy repeats — rather than COO.
 
 ## The 2003–2004 Liberté merger
 
@@ -157,10 +224,9 @@ distressed sale.
 
 ## What this profile does not claim
 
-- It does not state pre-merger revenues, employee counts, or retail
-  location counts — those figures are in the S-1/A, which was not
-  directly fetched this run.
-- It does not describe the earn-out's recipients or triggering targets
+- It does not state the earn-out's recipients or triggering targets
   beyond the 2004 operating-performance criteria.
+- It does not name the pre-1998 owners of the Marietta "Acceptance
+  Insurance" agencies.
 - Post-2004 history is the First Acceptance Corporation story, covered
   in the separate profile at [/organizations/acceptance-insurance/](/organizations/acceptance-insurance/).
