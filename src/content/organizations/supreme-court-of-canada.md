@@ -141,7 +141,7 @@ to the Court's own biography of him
 The sequence fits the rest of Ali's early record. He graduated magna cum
 laude from Harvard Law School in 2011
 ([U.S. District Court, Southern District of New York (via CourtListener)](https://storage.courtlistener.com/recap/gov.uscourts.nysd.464027/gov.uscourts.nysd.464027.145.0.pdf)),
-and told Bloomberg Law that "right after law school, I had the honor of
+and told [Bloomberg Law](/organizations/bloomberg-law/) that "right after law school, I had the honor of
 clerking for Judge Raymond C. Fisher in the Ninth Circuit, who became an early
 and important mentor to me"
 ([Bloomberg Law](https://news.bloomberglaw.com/business-and-practice/theyve-got-next-the-40-under-40-amir-ali-of-macarthur-justice-center)).

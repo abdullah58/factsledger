@@ -266,5 +266,5 @@ You hold your own private keys via a 12-word seed phrase: MetaMask cannot recove
 - Who, beyond Davis and Finlay, contributed to MetaMask's invention is not resolved; the Dietz lawsuit's outcome is unknown.
 - Current user or download figures are not claimed — 30M+ monthly active users is verified only for March 2022.
 - MetaMask is not claimed to be fully private: with the default Infura RPC, transaction metadata is collected, as ConsenSys itself disclosed.
-- The dispute between MetaMask's security lead and Accountable.US over that report's Lazarus Group finding is not covered here; it belongs to the security lead's profile and will be cross-linked in the day-15 reconciliation pass.
+- The dispute between MetaMask's security lead and [Accountable.US](/organizations/accountable-us/) over that report's [Lazarus Group](/organizations/lazarus-group/) finding is not covered here; it belongs to the security lead's profile and will be cross-linked in the day-15 reconciliation pass.
 - No judgment is made on mUSD as an investment; the sources do not support one.

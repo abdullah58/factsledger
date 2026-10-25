@@ -130,7 +130,7 @@ It is also a university city: Johns Hopkins (1876), the Peabody Institute conser
 
 ## The engineering thread
 
-Baltimore's place in this site's engineering graph is institutional. When ABET outgrew its New York home, it chose Baltimore: the accreditor has been headquartered at 415 North Charles St. since 1996 ([ABET](https://www.abet.org/about-abet/history/)). The city's electrical-engineering lineage is older still — the Baltimore Section of the American Institute of Electrical Engineers was founded December 16, 1904, becoming the [IEEE](/organizations/ieee/) Baltimore Section when the national bodies merged in January 1963 ([IEEE Baltimore Section](https://site.ieee.org/baltimore/section-history/)).
+Baltimore's place in this site's engineering graph is institutional. When ABET outgrew its New York home, it chose Baltimore: the accreditor has been headquartered at 415 North Charles St. since 1996 ([ABET](https://www.abet.org/about-abet/history/)). The city's electrical-engineering lineage is older still — the Baltimore Section of the [American Institute of Electrical Engineers](/organizations/aiee/) was founded December 16, 1904, becoming the [IEEE](/organizations/ieee/) Baltimore Section when the national bodies merged in January 1963 ([IEEE Baltimore Section](https://site.ieee.org/baltimore/section-history/)).
 
 ## Timeline
 

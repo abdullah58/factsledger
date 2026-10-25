@@ -269,7 +269,7 @@ paying for TRT whether it watched a single minute or not.
 TRT's programming has also shaped one of Turkey's most-watched modern stories.
 During the Korean President's visit to Turkey in 2010, "the state-run Turkish
 Radio and Television Corporation (TRT) produced a documentary about Turkish
-soldiers in the Korean War," and Sgt. [Süleyman Dilbirliği](/people/suleyman-dilbirligi/)'s story — the
+soldiers in the [Korean War](/events/korean-war/)," and Sgt. [Süleyman Dilbirliği](/people/suleyman-dilbirligi/)'s story — the
 Turkish sergeant who cared for the orphaned Korean girl he named Ayla — became
 public, leading to their emotional reunion
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).

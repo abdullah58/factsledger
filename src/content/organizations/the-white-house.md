@@ -208,7 +208,7 @@ In 1792 a competition to find a builder for the "President's House" drew nine pr
 
 The building survived a fire set by the British in 1814 during the War of 1812, and a second fire in the West Wing in 1929 while Herbert Hoover was president. During much of Harry S. Truman's presidency the interior — everything except the third floor — was completely gutted and renovated while the Trumans lived across Pennsylvania Avenue at Blair House; the exterior stone walls are the original ones. The house has been known as the "President's Palace," the "President's House," and the "Executive Mansion" — it was Theodore Roosevelt who officially gave it the name "White House" in 1901 ([Bush White House archive](http://georgewbush-whitehouse.archives.gov/history/facts.html)).
 
-Today the Residence holds 132 rooms, 35 bathrooms, and 6 levels, with 412 doors, 147 windows, 28 fireplaces, 8 staircases, and 3 elevators. Thomas Jefferson opened the house for public tours, and it has stayed open except during wartime — per the archive, it is the only private residence of a head of state open to the public free of charge ([Bush White House archive](http://georgewbush-whitehouse.archives.gov/history/facts.html)).
+Today the Residence holds 132 rooms, 35 bathrooms, and 6 levels, with 412 doors, 147 windows, 28 fireplaces, 8 staircases, and 3 elevators. [Thomas Jefferson](/people/thomas-jefferson/) opened the house for public tours, and it has stayed open except during wartime — per the archive, it is the only private residence of a head of state open to the public free of charge ([Bush White House archive](http://georgewbush-whitehouse.archives.gov/history/facts.html)).
 
 ## September 2026: the press-credential fight
 

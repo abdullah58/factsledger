@@ -108,7 +108,7 @@ draft: false
 **Donald J. Edwards is a Chicago private-equity investor who served as
 President and CEO of Liberté Investors Inc. from July 2002 to April
 2004 — leading its $76-million-plus-stock acquisition of USAuto Holdings
-before handing the CEO role to Stephen J. Harrison.** He founded the
+before handing the CEO role to [Stephen J. Harrison](/people/stephen-j-harrison/).** He founded the
 Chicago private-equity firm Flexpoint Ford in 2004 and served on the
 University of Illinois Board of Trustees from 2017 to 2025, including
 six years as chairman.

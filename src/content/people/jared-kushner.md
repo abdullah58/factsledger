@@ -514,7 +514,7 @@ plan, which produced an exchange of Palestinian prisoners and Israeli
 hostages, a ceasefire, and a partial Israeli withdrawal
 ([EBSCO](https://www.ebsco.com/research-starters/biography/jared-kushner)).
 In 2026 the diplomacy moved into the open. On August 16, 2026, Kushner met a
-Hamas delegation in Cairo together with [Tony Blair](/people/tony-blair/) and [Nikolay Mladenov](/people/nikolay-mladenov/)
+[Hamas](/organizations/hamas/) delegation in Cairo together with [Tony Blair](/people/tony-blair/) and [Nikolay Mladenov](/people/nikolay-mladenov/)
 to discuss a [Board of Peace](/organizations/board-of-peace/) roadmap for Gaza — covering
 ceasefire implementation, governance transfer, Hamas disarmament, Israeli
 withdrawal, reconstruction and relief — with Axios describing the talks as
@@ -561,7 +561,7 @@ Vladimir Putin in Moscow for more than three hours behind closed doors on
 September 5, then traveled by train from Poland to Kyiv on September 6 —
 their first visit to the Ukrainian capital since Russia's February 2022
 invasion, after eight previous trips to Moscow — for three rounds of talks
-with Volodymyr Zelenskyy that the AP described as "encouraging" and Al
+with [Volodymyr Zelenskyy](/people/volodymyr-zelenskyy/) that the AP described as "encouraging" and Al
 Jazeera as "substantive," with no breakthrough announced
 ([Al Jazeera](https://www.aljazeera.com/amp/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv);
 [Associated Press](https://mb.com.ph/2026/09/07/us-envoys-witkoff-and-kushner-hold-talks-in-ukraine-after-meeting-with-putin)).

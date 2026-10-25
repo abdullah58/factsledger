@@ -110,7 +110,7 @@ Critics see a corporation. In a widely discussed 2015 Inside Higher Ed essay, a 
 
 ## What the rankings capture
 
-Beyond the innovation streak, ASU has stacked up parallel #1s: five straight years atop Times Higher Education's U.S. ranking for work aligned with the UN Sustainable Development Goals, #1 in the U.S. for sustainability practices, #1 public university for hosting international students, and top national spots in supply-chain management, anthropology research spending and journalism awards ([AZ Big Media](https://azbigmedia.com/business/asu-takes-top-spot-in-innovation-for-10th-year-in-a-row/)). Its research footprint includes the Psyche mission — the first NASA deep-space mission led by ASU — and in 2024 it became the first university to collaborate formally with OpenAI ([AZ Big Media](https://azbigmedia.com/business/asu-takes-top-spot-in-innovation-for-10th-year-in-a-row/)).
+Beyond the innovation streak, ASU has stacked up parallel #1s: five straight years atop Times Higher Education's U.S. ranking for work aligned with the UN Sustainable Development Goals, #1 in the U.S. for sustainability practices, #1 public university for hosting international students, and top national spots in supply-chain management, anthropology research spending and journalism awards ([AZ Big Media](https://azbigmedia.com/business/asu-takes-top-spot-in-innovation-for-10th-year-in-a-row/)). Its research footprint includes the Psyche mission — the first [NASA](/organizations/nasa/) deep-space mission led by ASU — and in 2024 it became the first university to collaborate formally with OpenAI ([AZ Big Media](https://azbigmedia.com/business/asu-takes-top-spot-in-innovation-for-10th-year-in-a-row/)).
 
 ## What this profile does not claim
 

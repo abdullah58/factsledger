@@ -145,7 +145,7 @@ The most important chip of the era was the 80386, a 32-bit processor released in
 
 Dominance had its costs. The so-called Pentium flaw — an obscure segment of the chip's transistors performing division incorrectly — was discovered by engineers after release and initially kept quiet; when mathematician Thomas Nicely independently found it and IBM said it would not ship computers with the CPU, Intel was forced into a recall that cost $475 million ([Britannica](https://www.britannica.com/money/Intel)). In 2009, the European Union fined Intel $1.45 billion for alleged monopolistic actions, and Intel paid AMD $1.25 billion the same year to settle a decades-long dispute in which AMD accused it of pressuring PC makers not to use its chips ([Britannica](https://www.britannica.com/money/Intel)).
 
-By the end of the century, Intel or compatible chips were in every PC except Apple's Macintosh — and in 2005, Apple CEO Steve Jobs announced future Apple PCs would use Intel CPUs, closing even that gap ([Britannica](https://www.britannica.com/money/Intel)).
+By the end of the century, Intel or compatible chips were in every PC except [Apple](/organizations/apple/)'s Macintosh — and in 2005, Apple CEO [Steve Jobs](/people/steve-jobs/) announced future Apple PCs would use Intel CPUs, closing even that gap ([Britannica](https://www.britannica.com/money/Intel)).
 
 ## The stumble
 

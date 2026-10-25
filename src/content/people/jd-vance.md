@@ -249,7 +249,7 @@ The pick reflected Vance's transformation from critic to one of the staunchest c
 
 Vance resigned his Senate seat on January 10, 2025, and was sworn in as vice president on January 20 ([CNN](https://www.cnn.com/politics/jd-vance-fast-facts?cid=external-feeds_iluminar_meta)). His first major foreign-policy address came at the [Munich Security Conference](/organizations/munich-security-conference/) on February 14, 2025, where he declared that Europe's greatest danger was a "threat from within," criticized migration and alleged censorship across Europe, and touched only briefly on Ukraine ([The National](https://www.thenationalnews.com/news/europe/2025/02/14/munich-security-conference-jd-vance-speech/)). European leaders pushed back, and U.S. Congressman Adam Smith said Vance's remarks damaged transatlantic relations ([The National](https://www.thenationalnews.com/news/europe/2025/02/14/munich-security-conference-jd-vance-speech/)).
 
-CNN's 2026 fast facts also record a March 2025 Signal group-chat episode involving Vance and his 2026 book *Communion* ([CNN](https://www.cnn.com/politics/jd-vance-fast-facts?cid=external-feeds_iluminar_meta)).
+[CNN](/organizations/cnn/)'s 2026 fast facts also record a March 2025 Signal group-chat episode involving Vance and his 2026 book *Communion* ([CNN](https://www.cnn.com/politics/jd-vance-fast-facts?cid=external-feeds_iluminar_meta)).
 
 ## The H-1B campaign (September 2026)
 

@@ -96,7 +96,7 @@ Harrison's 14.8%.
 ## Career
 
 Harrison joined USAuto Holdings as Vice President and Secretary in 1995.
-When Liberté Investors Inc. acquired USAuto Holdings in April 2004 —
+When [Liberté Investors](/organizations/liberte-investors/) Inc. acquired USAuto Holdings in April 2004 —
 renaming itself First Acceptance Corporation — he became Executive Vice
 President and Secretary of the combined company, serving until December
 2007 (DEF 14A, Oct. 6, 2008).
@@ -118,7 +118,7 @@ Agenus executives of the same name.
 6,999,999 shares owned outright plus 100,000 shares acquirable within 60
 days — about 14.7% of outstanding stock at the 2008 proxy.
 
-**Was he related to Stephen J. Harrison?**
+**Was he related to [Stephen J. Harrison](/people/stephen-j-harrison/)?**
 The proxy lists both men as large shareholders and officers; it does
 not state a family relationship, and none is stated here.
 

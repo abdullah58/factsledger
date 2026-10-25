@@ -112,7 +112,7 @@ draft: false
 
 The case is presided over by U.S. District Judge Victor Marrero and prosecuted by the [U.S. Attorney's Office for the Southern District of New York](/organizations/us-attorneys-office-sdny/)'s Public Corruption Unit ([DOJ indictment release](https://www.justice.gov/usao-sdny/pr/chief-financial-officer-multinational-media-company-charged-participating-scheme)). The DOJ's indictment release never named the company, referring only to a "multinational media company headquartered in New York City"; NPR, the Associated Press, and Bloomberg identified it as The Epoch Times, a conservative multinational outlet ([NPR](https://www.wcbe.org/npr-news/2024-06-03/an-epoch-times-executive-is-facing-money-laundering-charges); [AP](https://srnnews.com/ex-epoch-times-cfo-pleads-guilty-in-67m-multinational-money-laundering-scheme/)).
 
-The case also entered the nonprofit-oversight record: [Accountable.US](/organizations/accountable-us/)'s June 13, 2024 IRS complaint against the Epoch Public Foundation and The Epoch Times Association cites the case as *United States v. Guan*, No. 1:24-cr-00322-VM (S.D.N.Y.), filed May 23, 2024 ([complaint](https://accountable.us/wp-content/uploads/2024/06/Accountable.US-IRS-Complaint_Epoch-Public-Foundation.pdf)).
+The case also entered the nonprofit-oversight record: [Accountable.US](/organizations/accountable-us/)'s June 13, 2024 IRS complaint against the [Epoch Public Foundation](/organizations/epoch-public-foundation/) and The Epoch Times Association cites the case as *United States v. Guan*, No. 1:24-cr-00322-VM (S.D.N.Y.), filed May 23, 2024 ([complaint](https://accountable.us/wp-content/uploads/2024/06/Accountable.US-IRS-Complaint_Epoch-Public-Foundation.pdf)).
 
 ## The alleged laundering scheme
 

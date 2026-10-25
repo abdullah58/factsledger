@@ -131,7 +131,7 @@ Charter's defining transaction closed on May 18, 2016: its combinations with Tim
 
 On September 16, 2022, voting-rights advocacy organization [Accountable.US](/organizations/accountable-us/) unveiled its American Democracy Scorecard, grading the nation's top 100 corporations on their support for democracy ([Fast Company](https://www.fastcompany.com/90790098/democracy-scorecard-top-companies-voter-suppression?partner=rss&%3Butm_source=rss&%3Butm_medium=feed&%3Butm_campaign=rss+fastcompany&%3Butm_content=rss)). Companies were rated on 14 criteria covering pro-democracy statements, political-spending transparency, and PAC donations to lawmakers who opposed voting-rights legislation, objected to certifying the 2020 election, or backed "anti-voter" measures ([Fast Company](https://www.fastcompany.com/90790098/democracy-scorecard-top-companies-voter-suppression?partner=rss&%3Butm_source=rss&%3Butm_medium=feed&%3Butm_campaign=rss+fastcompany&%3Butm_content=rss)). Two-thirds of the companies received failing marks ([Fast Company](https://www.fastcompany.com/90790098/democracy-scorecard-top-companies-voter-suppression?partner=rss&%3Butm_source=rss&%3Butm_medium=feed&%3Butm_campaign=rss+fastcompany&%3Butm_content=rss)).
 
-Charter Communications landed among the 10 lowest scorers, alongside AT&T — the scorecard's lowest-ranked company — and Verizon, with telecommunications receiving the lowest ranking of any industry ([Fast Company](https://www.fastcompany.com/90790098/democracy-scorecard-top-companies-voter-suppression?partner=rss&%3Butm_source=rss&%3Butm_medium=feed&%3Butm_campaign=rss+fastcompany&%3Butm_content=rss)). The ten worst scores, in full, were:
+Charter Communications landed among the 10 lowest scorers, alongside AT&T — the scorecard's lowest-ranked company — and [Verizon](/organizations/verizon/), with telecommunications receiving the lowest ranking of any industry ([Fast Company](https://www.fastcompany.com/90790098/democracy-scorecard-top-companies-voter-suppression?partner=rss&%3Butm_source=rss&%3Butm_medium=feed&%3Butm_campaign=rss+fastcompany&%3Butm_content=rss)). The ten worst scores, in full, were:
 
 | Company | Industry note from coverage |
 | --- | --- |
@@ -139,7 +139,7 @@ Charter Communications landed among the 10 lowest scorers, alongside AT&T — th
 | Verizon | Telecommunications |
 | Energy Transfer | Natural gas pipeline company |
 | Charter Communications | Telecommunications |
-| Comcast | Telecommunications |
+| [Comcast](/organizations/comcast/) | Telecommunications |
 | Boeing | — |
 | ExxonMobil | — |
 | Lockheed Martin | — |
@@ -148,7 +148,7 @@ Charter Communications landed among the 10 lowest scorers, alongside AT&T — th
 
 ([Fast Company](https://www.fastcompany.com/90790098/democracy-scorecard-top-companies-voter-suppression?partner=rss&%3Butm_source=rss&%3Butm_medium=feed&%3Butm_campaign=rss+fastcompany&%3Butm_content=rss))
 
-The underlying data showed Fortune 100 companies had donated $6.2 million to state legislators backing restrictive voting laws, $988,059 to 2020-election-audit backers, $19.2 million to federal lawmakers opposing the January 6 commission, and $5.7 million to Congress members who voted to overturn the 2020 election ([Fast Company](https://www.fastcompany.com/90790098/democracy-scorecard-top-companies-voter-suppression?partner=rss&%3Butm_source=rss&%3Butm_medium=feed&%3Butm_campaign=rss+fastcompany&%3Butm_content=rss)). None of the telecom companies responded to Capital & Main's request for comment; Accountable.US called the scorecard a "living tool" and launched a six-figure media campaign around it ([Fast Company](https://www.fastcompany.com/90790098/democracy-scorecard-top-companies-voter-suppression?partner=rss&%3Butm_source=rss&%3Butm_medium=feed&%3Butm_campaign=rss+fastcompany&%3Butm_content=rss)).
+The underlying data showed Fortune 100 companies had donated $6.2 million to state legislators backing restrictive voting laws, $988,059 to 2020-election-audit backers, $19.2 million to federal lawmakers opposing the January 6 commission, and $5.7 million to Congress members who voted to overturn the 2020 election ([Fast Company](https://www.fastcompany.com/90790098/democracy-scorecard-top-companies-voter-suppression?partner=rss&%3Butm_source=rss&%3Butm_medium=feed&%3Butm_campaign=rss+fastcompany&%3Butm_content=rss)). None of the telecom companies responded to [Capital & Main](/organizations/capital-and-main/)'s request for comment; Accountable.US called the scorecard a "living tool" and launched a six-figure media campaign around it ([Fast Company](https://www.fastcompany.com/90790098/democracy-scorecard-top-companies-voter-suppression?partner=rss&%3Butm_source=rss&%3Butm_medium=feed&%3Butm_campaign=rss+fastcompany&%3Butm_content=rss)).
 
 ## After 2016: New York's revocation threat and the 2026 mega-deals
 

@@ -87,7 +87,7 @@ draft: false
 **Stephen J. Harrison is a Nashville, Tennessee insurance executive who
 co-founded USAuto Insurance Company and then served as CEO of First
 Acceptance Corporation from 2004 to 2011.** He became CEO and a director
-when Liberté Investors Inc. acquired USAuto Holdings in April 2004 and
+when [Liberté Investors](/organizations/liberte-investors/) Inc. acquired USAuto Holdings in April 2004 and
 renamed itself First Acceptance Corporation, and he was the company's
 largest single shareholder at the 2008 proxy — about 14.8% of outstanding
 stock.
@@ -114,7 +114,7 @@ Racal, nor executives of the same name at Manitex or Relypsa.
 
 ## FAQ
 
-**Was Stephen J. Harrison related to Thomas M. Harrison?**
+**Was Stephen J. Harrison related to [Thomas M. Harrison](/people/thomas-m-harrison/)?**
 The 2008 proxy lists both as large shareholders and executives of First
 Acceptance (Stephen held 14.8%, Thomas 14.7%); it does not state a
 family relationship, and none is stated here.

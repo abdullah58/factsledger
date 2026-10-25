@@ -192,7 +192,7 @@ A record 2.77 billion bushels in 2025 — enough to keep Iowa the largest
 corn grower in the United States, 418 million bushels ahead of Illinois.
 
 **What does Iowa export?**
-Mainly soybeans, corn, and pork — chiefly to Canada, Mexico, and Japan.
+Mainly soybeans, corn, and pork — chiefly to Canada, Mexico, and [Japan](/places/japan/).
 
 **Is Iowa only about farming?**
 No. Agriculture is the signature, but finance and insurance are the

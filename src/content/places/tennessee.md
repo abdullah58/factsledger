@@ -215,7 +215,7 @@ rate in the country.
 
 **What is the most-visited national park?**
 Great Smoky Mountains National Park — more than 12 million recreational
-visits in 2024, per the National Park Service.
+visits in 2024, per the [National Park Service](/organizations/national-park-service/).
 
 **Who is the governor of Tennessee?**
 Bill Lee, the 50th governor, in office since 2019.

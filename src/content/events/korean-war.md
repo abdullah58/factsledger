@@ -121,7 +121,7 @@ lastUpdated: 2026-10-10
 draft: false
 ---
 
-The Korean War (June 25, 1950 – July 27, 1953) was the first war fought under the United Nations flag — a UN-led defense of [South Korea](/places/south-korea/) after North Korea, supplied and advised by the Soviet Union, invaded across the 38th parallel ([Britannica](https://www.britannica.com/event/Korean-War)). Twenty-two nations served under the U.S.-led United Nations Command ([UNC](https://www.unc.mil/History/1950-1953-Korean-War-Active-Conflict/)); at least 2.5 million people died ([Britannica](https://www.britannica.com/event/Korean-War)), and the fighting ended in an armistice, not a peace treaty ([UNC](https://www.unc.mil/History/1950-1953-Korean-War-Active-Conflict/)).
+The Korean War (June 25, 1950 – July 27, 1953) was the first war fought under the United Nations flag — a UN-led defense of [South Korea](/places/south-korea/) after [North Korea](/places/north-korea/), supplied and advised by the Soviet Union, invaded across the 38th parallel ([Britannica](https://www.britannica.com/event/Korean-War)). Twenty-two nations served under the U.S.-led United Nations Command ([UNC](https://www.unc.mil/History/1950-1953-Korean-War-Active-Conflict/)); at least 2.5 million people died ([Britannica](https://www.britannica.com/event/Korean-War)), and the fighting ended in an armistice, not a peace treaty ([UNC](https://www.unc.mil/History/1950-1953-Korean-War-Active-Conflict/)).
 
 ## Overview
 

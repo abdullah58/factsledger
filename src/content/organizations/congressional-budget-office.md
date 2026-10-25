@@ -153,7 +153,7 @@ When the Centers for Medicare & Medicaid Services announced a premium-stabilizat
 ## Frequently asked questions
 
 **Is CBO part of the executive branch?**
-No. CBO is a legislative-branch agency that works for Congress, while the Office of Management and Budget serves the President. CBO explicitly describes itself as an alternative to OMB's numbers, which is why its estimates often differ from administration figures and why lawmakers treat it as an independent scorekeeper. ([Congressional Budget Office](https://www.cbo.gov/publication/62014))
+No. CBO is a legislative-branch agency that works for Congress, while the [Office of Management and Budget](/organizations/office-of-management-and-budget/) serves the President. CBO explicitly describes itself as an alternative to OMB's numbers, which is why its estimates often differ from administration figures and why lawmakers treat it as an independent scorekeeper. ([Congressional Budget Office](https://www.cbo.gov/publication/62014))
 
 **Who appoints the CBO director, and for how long?**
 The House Speaker and the Senate President pro tempore appoint the director jointly, after considering recommendations from the two Budget Committees. Terms run four years, beginning January 3 of the year before a presidential election; reappointment is unlimited, and either chamber can remove a director by resolution. ([Congressional Research Service](https://www.EveryCRSReport.com/files/20150520_RL31880_f96d0f047dabec612d2d5d7aa89bab68ae8c20ba.html))

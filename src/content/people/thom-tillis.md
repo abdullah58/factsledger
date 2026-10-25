@@ -171,4 +171,4 @@ He renewed the call on September 17, after Driscoll — who had reportedly clash
 
 ## What this profile does not claim
 
-This profile does not claim Tillis opposed Hegseth's confirmation — he voted for it before becoming his critic. It does not treat the September 17 "He needs to go" statement as his first call; the first came on September 2. And it does not reconcile Driscoll's resignation date: The Hill places it at the end of August, while Al Jazeera ties it to the days before the September 2 call — each is presented as its source reports it.
+This profile does not claim Tillis opposed Hegseth's confirmation — he voted for it before becoming his critic. It does not treat the September 17 "He needs to go" statement as his first call; the first came on September 2. And it does not reconcile Driscoll's resignation date: The Hill places it at the end of August, while [Al Jazeera](/organizations/al-jazeera/) ties it to the days before the September 2 call — each is presented as its source reports it.

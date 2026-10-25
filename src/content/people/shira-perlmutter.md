@@ -84,7 +84,7 @@ The shakeup was not limited to her. That same month, Trump fired Librarian of Co
 
 ## The legal fight
 
-Perlmutter sued in the U.S. District Court for the District of Columbia on May 22, 2025. Judge Timothy J. Kelly denied her preliminary-injunction motion on July 30, 2025, finding she had not shown irreparable harm. On September 10, 2025, a divided three-judge D.C. Circuit panel reversed 2–1, granting an injunction pending appeal that kept her in office ([IPWatchdog](https://ipwatchdog.com/2026/09/22/d-c-judge-pauses-perlmutter-suit-as-copyright-office-bill-awaits-senate-action/)).
+Perlmutter sued in the [U.S. District Court for the District of Columbia](/organizations/us-district-court-dc/) on May 22, 2025. Judge Timothy J. Kelly denied her preliminary-injunction motion on July 30, 2025, finding she had not shown irreparable harm. On September 10, 2025, a divided three-judge D.C. Circuit panel reversed 2–1, granting an injunction pending appeal that kept her in office ([IPWatchdog](https://ipwatchdog.com/2026/09/22/d-c-judge-pauses-perlmutter-suit-as-copyright-office-bill-awaits-senate-action/)).
 
 The majority opinion, by Judge Florence Pan, was blunt: Trump's purported ouster amounted to "an attempt to reach into the legislative branch to fire an official that he has no statutory authority to either appoint or remove." She added that removing "the legislative branch's chief adviser on copyright matters, based on the advice that she provided to Congress, is akin to the president trying to fire a federal judge's law clerk" ([Reuters](https://www.reuters.com/legal/government/us-supreme-court-wont-let-trump-remove-top-copyright-official-now-2026-06-30/)).
 

@@ -144,7 +144,7 @@ In August 2023, the Justice Department indicted Roman Storm and Roman Semenov on
 
 ## Tornado Cash in the World Liberty Financial report
 
-In September 2025, Accountable.US's "American Sell-Out" report on World Liberty Financial — the Trump-family-linked crypto venture — stated the firm sold tokens to 62 users who had previously used Tornado Cash, while acknowledging it eventually blocked 272 wallets after the initial sales. ([Bitcoin.com](https://news.bitcoin.com/american-sell-out-trump-family-linked-world-liberty-accused-of-deals-with-us-adversaries/)) These are the report's allegations, not adjudicated findings; see the related profile on [World Liberty Financial](/organizations/world-liberty-financial/).
+In September 2025, [Accountable.US](/organizations/accountable-us/)'s "American Sell-Out" report on World Liberty Financial — the Trump-family-linked crypto venture — stated the firm sold tokens to 62 users who had previously used Tornado Cash, while acknowledging it eventually blocked 272 wallets after the initial sales. ([Bitcoin.com](https://news.bitcoin.com/american-sell-out-trump-family-linked-world-liberty-accused-of-deals-with-us-adversaries/)) These are the report's allegations, not adjudicated findings; see the related profile on [World Liberty Financial](/organizations/world-liberty-financial/).
 
 ## FAQ
 

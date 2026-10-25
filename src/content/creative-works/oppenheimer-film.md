@@ -240,7 +240,7 @@ same day Warner Bros. released *Barbie*, and the shared date ignited
 "Barbenheimer" ([Business Standard](https://www.business-standard.com/world-news/christopher-nolan-warner-bros-universal-pictures-studio-odyssey-oppenheimer-126073000661_1.html);
 [SlashFilm](https://www.slashfilm.com/2204416/christopher-nolan-oppenheimer-biggest-biopic-box-office-michael/)).
 It was Nolan's first film away from Warner Bros. since *Memento* (2000), after
-the studio's 2020 day-and-date HBO Max plan ended their association ([CNBC TV18](https://www.cnbctv18.com/entertainment/10-rare-facts-about-christopher-nolan-oppenheimer-that-you-did-not-know-17161221.htm);
+the studio's 2020 day-and-date [HBO Max](/organizations/hbo-max/) plan ended their association ([CNBC TV18](https://www.cnbctv18.com/entertainment/10-rare-facts-about-christopher-nolan-oppenheimer-that-you-did-not-know-17161221.htm);
 [Business Standard](https://www.business-standard.com/world-news/christopher-nolan-warner-bros-universal-pictures-studio-odyssey-oppenheimer-126073000661_1.html)).
 Cineuropa lists it as a USA/UK production — a partial UK co-production
 ([Cineuropa](https://cineuropa.org/en/newsdetail/457038/)).

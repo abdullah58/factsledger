@@ -127,7 +127,7 @@ Kruse (Lincoln).
 
 Two cases on this court's docket connect to this research batch:
 
-- **In re Acceptance Insurance Companies Inc. (2005):** on January 7,
+- **In re [Acceptance Insurance](/organizations/acceptance-insurance/) Companies Inc. (2005):** on January 7,
   2005, the parent filed a voluntary Chapter 11 petition (Case No.
   05-80059) in this court, while affiliates Acceptance Insurance
   Services, Inc. and American Agrisurance, Inc. filed Chapter 7 petitions

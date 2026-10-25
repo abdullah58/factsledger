@@ -168,7 +168,7 @@ lastUpdated: 2026-10-23
 draft: false
 ---
 
-# Acceptance Insurance Companies Inc.
+# [Acceptance Insurance](/organizations/acceptance-insurance/) Companies Inc.
 
 **Acceptance Insurance Companies Inc. (AICI) was a Delaware-incorporated
 insurance holding company headquartered in [Council Bluffs](/places/council-bluffs-iowa/), [Iowa](/places/iowa/), whose

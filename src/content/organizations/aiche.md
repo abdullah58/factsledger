@@ -124,7 +124,7 @@ CCPS became the industry's process-safety memory. It has since published more th
 
 ## AIChE and ABET
 
-AIChE's fellow 1932 ECPD founders were the American Society of Civil Engineers, the American Institute of Mining and Metallurgical Engineers (now [AIME](/organizations/aime/)), the American Society of Mechanical Engineers, the American Institute of Electrical Engineers (now [IEEE](/organizations/ieee/)), the Society for the Promotion of Engineering Education (now the [American Society for Engineering Education](/organizations/asee/)), and the National Council of State Boards of Engineering Examiners (now [NCEES](/organizations/ncees/)) ([ABET](https://www.abet.org/about-abet/history/)).
+AIChE's fellow 1932 ECPD founders were the American Society of Civil Engineers, the American Institute of Mining and Metallurgical Engineers (now [AIME](/organizations/aime/)), the American Society of Mechanical Engineers, the [American Institute of Electrical Engineers](/organizations/aiee/) (now [IEEE](/organizations/ieee/)), the Society for the Promotion of Engineering Education (now the [American Society for Engineering Education](/organizations/asee/)), and the National Council of State Boards of Engineering Examiners (now [NCEES](/organizations/ncees/)) ([ABET](https://www.abet.org/about-abet/history/)).
 
 ## Timeline
 

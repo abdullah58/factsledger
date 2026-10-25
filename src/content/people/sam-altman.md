@@ -366,7 +366,7 @@ Speaking at the G20 Innovation Ministerial in Chapel Hill, North Carolina, on Se
 
 ## Wealth
 
-Altman debuted on the Bloomberg Billionaires Index on March 1, 2024, with an estimated net worth of at least $2 billion. Bloomberg attributed this largely to a web of venture capital funds and startup investments, explicitly excluding any stake in OpenAI — Altman has repeatedly said he holds no equity in the company itself ([Bloomberg](https://www.bloomberg.com/news/articles/2024-03-01/sam-altman-is-a-billionaire-thanks-to-vc-funds-startups)).
+Altman debuted on the [Bloomberg](/organizations/bloomberg/) Billionaires Index on March 1, 2024, with an estimated net worth of at least $2 billion. Bloomberg attributed this largely to a web of venture capital funds and startup investments, explicitly excluding any stake in OpenAI — Altman has repeatedly said he holds no equity in the company itself ([Bloomberg](https://www.bloomberg.com/news/articles/2024-03-01/sam-altman-is-a-billionaire-thanks-to-vc-funds-startups)).
 
 ## Personal life
 

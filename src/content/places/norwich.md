@@ -207,5 +207,5 @@ On 1 February 2008 it collided with debris from a footbridge knocked down by a t
 - It does not claim that Norwich was England's second city at any specific date; it records Britannica's account that it was among the most prosperous provincial towns until the late 18th century.
 - It does not present the National Centre for Writing's per-head culture-spending statement as independently verified; it is that organisation's own claim and is attributed to it.
 - It makes no claim about Norwich's current population beyond the 2021 census figure of around 143,900; later estimates were not verified in a fully-read source.
-- It does not describe the 2008 derailment beyond the RAIB summary and the Rail Technology Magazine aftermath account; the full investigation belongs to the crash profile.
+- It does not describe the 2008 derailment beyond the RAIB summary and the [Rail Technology Magazine](/organizations/rail-technology-magazine/) aftermath account; the full investigation belongs to the crash profile.
 - It does not rank Norwich's present-day industries by employment or output, because no fully-read source verified such a ranking.
