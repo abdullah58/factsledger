@@ -53,12 +53,12 @@ sourceNote: >-
   for the buyer's IPO and operating playbook. Wikipedia was used only as a
   lead index and is not cited. No first-party sources were used.
 openItems:
-  - The enterprise-value figure is $1.28–1.285 billion depending on the
-    source; the equity value including net cash is ~$2.25 billion.
-  - Founders' names are not stated in the cited sources; TechCrunch names
-    CEO Howie Liu.
-  - The "spreadsheet-database hybrid" characterization is the standard
-    independent description of the product.
+  - 'The enterprise-value figure is $1.28–1.285 billion depending on the
+    source; the equity value including net cash is ~$2.25 billion.'
+  - 'Founders'' names are not stated in the cited sources; TechCrunch names
+    CEO Howie Liu.'
+  - 'The "spreadsheet-database hybrid" characterization is the standard
+    independent description of the product.'
 sources:
   - title: Bending Spoons to buy Airtable for $1.28B
     url: https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/
@@ -86,17 +86,17 @@ draft: false
 
 ## Overview
 
-Airtable is the cautionary tale of the 2021 SaaS boom: a San Francisco no-code database company founded in 2013 that fused spreadsheets with relational databases, raised more than $1.4 billion, peaked at an $11 billion-plus valuation — and was then sold for $1.28 billion in cash to Italian serial acquirer Bending Spoons in 2026 ([TechCrunch](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/)). The deal, agreed in August and completed in September, was the first acquisition Bending Spoons made after its July 2026 Nasdaq IPO ([FastForward](https://fastforward.com.cy/economy/bending-spoons-and-acquisitions-brought-it-top-tech)).
+Airtable is the cautionary tale of the 2021 SaaS boom: a [San Francisco](/places/san-francisco/) no-code database company founded in 2013 that fused spreadsheets with relational databases, raised more than $1.4 billion, peaked at an $11 billion-plus valuation — and was then sold for $1.28 billion in cash to Italian serial acquirer [Bending Spoons](/organizations/bending-spoons/) in 2026 ([TechCrunch](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/)). The deal, agreed in August and completed in September, was the first acquisition Bending Spoons made after its July 2026 [Nasdaq](/organizations/nasdaq/) IPO ([FastForward](https://fastforward.com.cy/economy/bending-spoons-and-acquisitions-brought-it-top-tech)).
 
 ## The math of the unwind
 
 The headline is the price, not the business. As of June 2026, Airtable had roughly $480 million in annual recurring revenue, growing more than 20% year over year, serving over 500,000 organizations including 80% of the Fortune 100 ([TechCrunch](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/)). Earlier in 2026 its shares traded on secondary markets at about a $4 billion valuation; with net cash, the equity value at sale was about $2.25 billion. Roughly 2.7x ARR for a healthy, growing, widely deployed product — an 88% fall from the 2021 peak. The market did not change its mind about Airtable; it changed its mind about what recurring revenue is worth.
 
-Airtable saw the AI wave coming: in January 2026 it unveiled Superagent, an orchestration platform for spinning up teams of AI agents to do tasks ([TechCrunch](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/)). CEO Howie Liu was positioning the company for the agent era — but the company was sold before it could prove the bet.
+Airtable saw the AI wave coming: in January 2026 it unveiled Superagent, an orchestration platform for spinning up teams of AI agents to do tasks ([TechCrunch](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/)). CEO [Howie Liu](/people/howie-liu/) was positioning the company for the agent era — but the company was sold before it could prove the bet.
 
 ## The buyer and its playbook
 
-Bending Spoons is the Milan-based company that went public on the Nasdaq at an $18 billion valuation in July 2026 (pricing at $29 a share, raising $1.68 billion, ~$18.4 billion at pricing) after building a 50-company portfolio — Evernote, WeTransfer, Vimeo, Eventbrite, AOL — from distressed or plateaued software brands ([FastForward](https://fastforward.com.cy/economy/bending-spoons-and-acquisitions-brought-it-top-tech); [TechCrunch](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/)). Its playbook, per TechCrunch: buy companies trading at steep discounts to private valuations, trim staff, streamline products, and run them profitably ([TechCrunch](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/)). At Evernote the workforce went from 341 to 60; at WeTransfer a plan to cut roughly 75% of staff was announced in 2024 ([FastForward](https://fastforward.com.cy/economy/bending-spoons-and-acquisitions-brought-it-top-tech)). Weeks after Airtable, Bending Spoons agreed to buy Miro for $1.36 billion in cash (equity value $1.79 billion) — a ~92% dip from the $17.5 billion price tag the workplace-collaboration startup carried in late 2021 — confirming the fire-sale consolidation pattern ([TechCrunch](https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/)).
+Bending Spoons is the [Milan](/places/milan/)-based company that went public on the Nasdaq at an $18 billion valuation in July 2026 (pricing at $29 a share, raising $1.68 billion, ~$18.4 billion at pricing) after building a 50-company portfolio — [Evernote](/organizations/evernote/), [WeTransfer](/organizations/wetransfer/), [Vimeo](/organizations/vimeo/), [Eventbrite](/organizations/eventbrite/), [AOL](/organizations/aol/) — from distressed or plateaued software brands ([FastForward](https://fastforward.com.cy/economy/bending-spoons-and-acquisitions-brought-it-top-tech); [TechCrunch](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/)). Its playbook, per TechCrunch: buy companies trading at steep discounts to private valuations, trim staff, streamline products, and run them profitably ([TechCrunch](https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/)). At Evernote the workforce went from 341 to 60; at WeTransfer a plan to cut roughly 75% of staff was announced in 2024 ([FastForward](https://fastforward.com.cy/economy/bending-spoons-and-acquisitions-brought-it-top-tech)). Weeks after Airtable, Bending Spoons agreed to buy [Miro](/organizations/miro/) for $1.36 billion in cash (equity value $1.79 billion) — a ~92% dip from the $17.5 billion price tag the workplace-collaboration startup carried in late 2021 — confirming the fire-sale consolidation pattern ([TechCrunch](https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/)).
 
 ## What this profile does not claim
 
