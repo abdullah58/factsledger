@@ -233,7 +233,7 @@ Graham led Y Combinator as its president for its first nine years. In February 2
 
 ### The 2019 Altman departure: two accounts
 
-Sam Altman left Y Combinator in 2019, the same year OpenAI announced a for-profit subsidiary with Altman as its chief executive. Accounts of the circumstances of that departure differ, and this profile states both rather than adopting either.
+Sam Altman left Y Combinator in 2019, the same year [OpenAI](/organizations/openai/) announced a for-profit subsidiary with Altman as its chief executive. Accounts of the circumstances of that departure differ, and this profile states both rather than adopting either.
 
 On May 30, 2024, Graham posted on X disputing reports that Y Combinator had "fired" Altman. As reported by TechCrunch, he wrote: "People have been claiming [Y Combinator] fired Sam Altman. That's not true," and said that when OpenAI announced its for-profit subsidiary in 2019, Jessica Livingston told Altman he needed to choose between the two roles: "if he was going to work full-time on OpenAI, we should find someone else to run YC, and he agreed" ([TechCrunch](https://techcrunch.com/2024/05/30/paul-graham-claims-altman-wasnt-fired-from-y-combinator)). Forbes reported the same posts, quoting Graham as saying "We didn't want him to leave, just to choose one or the other" ([Forbes](https://www.forbes.com/sites/roberthart/2024/05/30/sam-altman-wasnt-fired-from-y-combinator-founder-says-as-openai-chief-faces-criticism-from-ex-board-member/)).
 

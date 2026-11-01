@@ -63,7 +63,7 @@ lastUpdated: 2026-09-30
 
 ## Overview
 
-[The White House](/organizations/the-white-house/) Press Office, headed by the White House press secretary, is the primary spokesperson for the White House ([Ballotpedia](https://ballotpedia.org/White_House_Press_Secretary)). Its daily briefings are one of the most visible rituals of the American presidency: the press secretary conveys the president's messages, manages press briefings, and serves as a liaison between the executive branch and the news media ([Ballotpedia](https://ballotpedia.org/White_House_Press_Secretary)).
+[The White House](/organizations/the-white-house/) Press Office, headed by the [White House](/places/white-house/) press secretary, is the primary spokesperson for the White House ([Ballotpedia](https://ballotpedia.org/White_House_Press_Secretary)). Its daily briefings are one of the most visible rituals of the American presidency: the press secretary conveys the president's messages, manages press briefings, and serves as a liaison between the executive branch and the news media ([Ballotpedia](https://ballotpedia.org/White_House_Press_Secretary)).
 
 ## A century of the role
 

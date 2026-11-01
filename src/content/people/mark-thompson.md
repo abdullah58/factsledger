@@ -141,7 +141,7 @@ A new "TV Future Lab" was created to develop and manage streaming and VOD progra
 
 On October 1, 2024 — three months after the memo — CNN rolled out a paywall asking some users to pay $3.99 a month for access to CNN.com, triggered after readers consumed a certain number of free articles. "Starting today, we are asking users in the United States to pay a small recurring fee for unlimited access to CNN.com's world-class articles," said MacCallum, by then EVP of digital products and services. Subscribers got unlimited articles plus original documentaries, election features, a curated daily news selection and fewer ads; the company said the product was in preliminary form and would expand. ([Reuters](https://jack1065.com/2024/10/01/cnn-launches-paywall-to-charge-3-99-a-month-for-some-users/))
 
-Reuters drew the connection explicitly: "The subscription push is also in tandem with CNN CEO Mark Thompson's plans to shift the company away from being a television-focused organization to a multi-platform news company by bolstering its digital business." The memo had promised a subscription product before year-end; the paywall was the delivery. ([Reuters](https://jack1065.com/2024/10/01/cnn-launches-paywall-to-charge-3-99-a-month-for-some-users/))
+[Reuters](/organizations/reuters/) drew the connection explicitly: "The subscription push is also in tandem with CNN CEO Mark Thompson's plans to shift the company away from being a television-focused organization to a multi-platform news company by bolstering its digital business." The memo had promised a subscription product before year-end; the paywall was the delivery. ([Reuters](https://jack1065.com/2024/10/01/cnn-launches-paywall-to-charge-3-99-a-month-for-some-users/))
 
 ## The Collins double-duty
 

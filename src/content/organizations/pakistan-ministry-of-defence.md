@@ -69,7 +69,7 @@ A spokesperson for Donald Trump Jr. has told media outlets that he is a passive 
 
 The company's founder and chief executive, Andrew Fox, told Reuters the two sides were aiming for a mutual arrangement pairing American and Pakistani technology, and that Powerus was weighing whether to manufacture equipment inside Pakistan ([ThePrint](https://theprint.in/defence/pakistan-signs-interceptor-drone-deal-with-trump-family-backed-powerus/3046759/)). "Pakistan has the opportunity not only diplomatically but economically, to create industry here, create jobs, and create export opportunities. This is more than a one-off for us. This is the establishment of a long-term relationship," Fox told the Financial Times after the deal ([ThePrint](https://theprint.in/defence/pakistan-signs-interceptor-drone-deal-with-trump-family-backed-powerus/3046759/)).
 
-## The India and Israel complications
+## The India and [Israel](/places/israel/) complications
 
 Less than three months before the Pakistan order, the same company had given an Indian defence manufacturer the exclusive right to make and sell its drone interceptor technology in India ([Al Jazeera](https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india)). In a June 30 filing to India's stock exchanges, Paras Defence and Space Technologies said Powerus had granted it an exclusive licence to manufacture and sell its Guardian-1 interceptor technology in India ([Al Jazeera](https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india)).
 

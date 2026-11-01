@@ -130,7 +130,7 @@ Most coverage of NewsNation treats it as another entry in the cable-news brandin
 
 That model — a national desk grafted onto the country's largest local-station portfolio — is the undercovered core of the NewsNation story. The press releases kept restating it for years: by December 2025, the figure Nexstar cited had grown to 6,000 journalists in 110 newsrooms, and the network was fully distributed on every pay television platform in the United States [^2].
 
-## From newscast block to 24/7 network
+## From newscast [block](/organizations/block/) to 24/7 network
 
 NewsNation began life as a programming block and became a full network in stages. The rebrand of WGN America as NewsNation arrived in March 2021 [^3]. The most consequential operational step followed: on June 1, 2024, the network expanded to a 24/7 schedule [^4]. The numbers attached to that move were striking — Nexstar said primetime viewership was up nearly 210 percent since the March 2021 rebrand, the network reached about 67 million households, and the expansion came with talent additions including Anna Kooiman, Laura Ingle, and Alicia Nieves [^4].
 
