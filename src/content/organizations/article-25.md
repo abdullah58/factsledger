@@ -107,7 +107,7 @@ lastUpdated: "2026-09-05"
 Article 25 is a UK-registered architectural charity that designs and delivers schools, hospitals and housing
 in under-resourced regions, named for Article 25 of the UN's Universal Declaration of Human Rights, which
 concerns the right to adequate housing ([Article 25](https://www.article-25.org/our-team)). It was founded by
-Maxwell Hutchinson, with the architect Norman Foster as patron ([Article 25](https://www.article-25.org/our-team)).
+[Maxwell Hutchinson](/people/maxwell-hutchinson/), with the architect [Norman Foster](/people/norman-foster/) as patron ([Article 25](https://www.article-25.org/our-team)).
 The organisation is best independently documented for two very different things: a 2015 embezzlement that
 nearly ended it, and a 2024 international design award.
 
@@ -116,9 +116,9 @@ nearly ended it, and a 2024 international design award.
 In mid-2015, Article 25's bank alerted the charity to irregular account activity. Trustees "uncovered what
 appears to be a systematic falsification of financial statements that have hidden multiple unapproved payments"
 exceeding £200,000 ([ArchDaily](https://www.archdaily.com/769992/article-25-launch-appeal-after-uncovering-multiple-unapproved-payments-in-excess-of-200000-pounds)).
-The charity's office manager, who went by the name William Golding at work (his legal first name was Scott),
-had a prior conviction — six months' imprisonment and an order to repay £9,500 for theft from Wallace and
-Gromit's Grand Appeal — before Article 25 hired him in 2013
+The charity's office manager, who went by the name [William Golding](/people/scott-golding/) at work (his legal first name was Scott),
+had a prior conviction — six months' imprisonment and an order to repay £9,500 for theft from [Wallace and
+Gromit's Grand Appeal](/organizations/wallace-and-gromits-grand-appeal/) — before Article 25 hired him in 2013
 ([Dezeen](https://www.dezeen.com/2015/07/15/article-25-architecture-charity-bookkeeper-charged-fraud/)). He
 stopped responding to colleagues on 29 June 2015 and was arrested shortly afterward in Bournemouth
 ([Third Sector](https://www.thirdsector.co.uk/charity-worker-jailed-260k-fraud/finance/article/1377751)).
@@ -133,13 +133,13 @@ In December 2015, Golding was convicted and sentenced to four years and eight mo
 bank cards on luxury purchases from stores including Alexander McQueen, Gucci, Prada and Harrods, while
 presenting fabricated accounts to the charity's senior management
 ([Third Sector](https://www.thirdsector.co.uk/charity-worker-jailed-260k-fraud/finance/article/1377751)). Chair
-Sunand Prasad said Golding "worked systematically, forging documents, and defrauding Article 25 of vital funds"
+[Sunand Prasad](/people/sunand-prasad/) said Golding "worked systematically, forging documents, and defrauding Article 25 of vital funds"
 ([Third Sector](https://www.thirdsector.co.uk/charity-worker-jailed-260k-fraud/finance/article/1377751)).
 
 ## 2024 RIBA International Award
 
-Article 25 won a 2024 RIBA International Award for Excellence for the Collège Amadou Hampaté Bâ, a school it
-built in Niamey, Niger, one of 22 projects recognised worldwide that year
+Article 25 won a 2024 [RIBA](/organizations/royal-institute-of-british-architects/) International Award for Excellence for the [Collège Amadou Hampaté Bâ](/schools/college-amadou-hampate-ba/), a school it
+built in [Niamey](/places/niamey/), [Niger](/places/niger/), one of 22 projects recognised worldwide that year
 ([RIBA](https://www.riba.org/news/riba-reveals-22-exceptional-projects-in-search-for-world-s-most-transformative-building)).
 
 ## What this profile does not claim
