@@ -228,7 +228,7 @@ HP was the world's second-largest PC maker in the second quarter of 2025, shippi
 ## What this profile does not claim
 
 - It does not assert 2 July 1939 as the founding date; HP's own timeline and Britannica give 1 January 1939, and the July date appears only in Wikipedia-derived material.
-- It does not assert that 31 companies were sued by Forgent; The Register says 30, and the one-company discrepancy is unresolved.
+- It does not assert that 31 companies were sued by Forgent; [The Register](/organizations/the-register/) says 30, and the one-company discrepancy is unresolved.
 - It does not state the year Forgent Networks became Asure Software, which is disputed (2007 vs 2009).
 - It makes no claim about HP Inc.'s current total headcount; only the planned reduction of 4,000–6,000 employees is stated.
 - It does not assert the HP Garage's landmark status, which was not verified in a fully-read source in this pass.

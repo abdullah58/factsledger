@@ -185,6 +185,6 @@ Yes: the XXI Premio San Juan de Dios in 2013, awarded by the Colegio Oficial de 
 - It asserts no resident count, director names or funding figures after 2022; the latest verified figures are from that year.
 - It does not settle the national number of people with deafblindness in Spain: the sources give a minimum of 7,000 and about 8,000, rising to 34,000 including over-65s, and the profile reports each with its source.
 - It does not describe Saint Angela of the Cross, the centre's namesake; no fully-read source in this pass covered her.
-- It asserts nothing from the El País feature of 4 March 2023, the El Mundo article of 24 July 2017, the 20minutos article of 2025 or APASCIDE's own centre page, none of which could be read in this pass.
+- It asserts nothing from the [El País](/organizations/el-pais/) feature of 4 March 2023, the [El Mundo](/organizations/el-mundo/) article of 24 July 2017, the 20minutos article of 2025 or APASCIDE's own centre page, none of which could be read in this pass.
 - It does not claim the centre is still the only one of its kind in Spain today; the most recent fully-read source to call it the only one dates from 2023.
 - It makes no claim about APASCIDE's public-utility declaration date, on which two sources in this pass disagree (2006 against 2004); that concerns the association, not the centre.

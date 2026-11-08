@@ -96,7 +96,7 @@ Axiom's finances tell a whiplash story. In September 2024, [Forbes](/organizatio
 
 Then came February 2026. Axiom announced $350 million in financing, co-led by Type One Ventures and the [Qatar Investment Authority](/organizations/qatar-investment-authority/), with J.P. Morgan serving as sole placement agent. The round mixed equity and debt, and the participant list told its own story: 1789 Capital, the Hungarian group 4iG, LuminArx Capital Management — and Ghaffarian himself, who put in money directly. Type One's Tarek Waked called Axiom the "successor-architect for life after the ISS," the successor to the most expensive engineering project in human history [^2].
 
-In June 2026, The Information reported that Axiom was plotting an IPO, riding the investor frenzy around SpaceX's own listing plans — a remarkable reversal from the Forbes "barely pay its bills" era eighteen months earlier. The company's $350 million round, the NASA missions queue, and a station actually under fabrication gave the thesis something concrete to point at [^5].
+In June 2026, The Information reported that Axiom was plotting an IPO, riding the investor frenzy around [SpaceX](/organizations/spacex/)'s own listing plans — a remarkable reversal from the Forbes "barely pay its bills" era eighteen months earlier. The company's $350 million round, the NASA missions queue, and a station actually under fabrication gave the thesis something concrete to point at [^5].
 
 ## Building the station, for real
 

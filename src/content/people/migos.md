@@ -98,7 +98,7 @@ Between "Versace" and their commercial peak, the trio released a run of mixtapes
 
 ## The *Culture* era
 
-"Bad and Boujee," featuring Lil Uzi Vert and produced by Metro Boomin, was released on August 28, 2016, and climbed to No. 1 on the Billboard Hot 100 in January 2017 — the group's first chart-topping single. ([REVOLT](https://www.revolt.tv/article/2017-02-06/24340/from-the-bando-to-the-top-of-the-billboard-migos-journey-to-a-no-1-album)) On February 6, 2017, their second album *Culture* debuted at No. 1 on the Billboard 200 with 131,000 equivalent album units and 116 million U.S. streams in its first week — their first No. 1 album and the first for their label, Quality Control. ([REVOLT](https://www.revolt.tv/article/2017-02-06/24340/from-the-bando-to-the-top-of-the-billboard-migos-journey-to-a-no-1-album))
+"Bad and Boujee," featuring Lil Uzi Vert and produced by Metro Boomin, was released on August 28, 2016, and climbed to No. 1 on the [Billboard](/organizations/billboard/) Hot 100 in January 2017 — the group's first chart-topping single. ([REVOLT](https://www.revolt.tv/article/2017-02-06/24340/from-the-bando-to-the-top-of-the-billboard-migos-journey-to-a-no-1-album)) On February 6, 2017, their second album *Culture* debuted at No. 1 on the Billboard 200 with 131,000 equivalent album units and 116 million U.S. streams in its first week — their first No. 1 album and the first for their label, Quality Control. ([REVOLT](https://www.revolt.tv/article/2017-02-06/24340/from-the-bando-to-the-top-of-the-billboard-migos-journey-to-a-no-1-album))
 
 ## "MotorSport"
 

@@ -203,7 +203,7 @@ That project is Starship. NASA selected SpaceX's Starship Human Landing System f
 
 SpaceX's corporate geography moved with its ambitions. On July 16, 2024, Musk announced the headquarters would move from Hawthorne, California — where the company occupied a roughly million-square-foot former Boeing factory — to Starbase, Texas, the commercial spaceport it had been developing near Brownsville. ([Bisnow](https://www.bisnow.com/news/national/office/elon-musk-says-space-x-x-moving-headquarters-out-of-california-125112)) And in June 2026, the private-company era ended: SpaceX priced shares at $135, raising $75 billion through about 555.56 million shares at a $1.77 trillion valuation, the largest IPO on record, with shares trading on Nasdaq. ([TradingView News](https://www.tradingview.com/news/moodys:036acab54b874:0-spacex-ipo-vs-upcoming-anthropic-ipo-will-claude-maker-beat-elon-musk-s-75-bn-record/))
 
-A lesser-known thread ties SpaceX to the engineering-software world: [Altair Engineering](/organizations/altair-engineering/) founder and CEO James Scapa said in 2017 that Altair works with "well-known companies like Blue Origin, SpaceX and Facebook," naming SpaceX among its customers. ([TechCrunch](https://techcrunch.com/2017/11/01/altair-engineering-soars-41-in-public-debut/1024))
+A lesser-known thread ties SpaceX to the engineering-software world: [Altair Engineering](/organizations/altair-engineering/) founder and CEO [James Scapa](/people/james-scapa/) said in 2017 that Altair works with "well-known companies like Blue Origin, SpaceX and Facebook," naming SpaceX among its customers. ([TechCrunch](https://techcrunch.com/2017/11/01/altair-engineering-soars-41-in-public-debut/1024))
 
 ## What this profile does not claim
 

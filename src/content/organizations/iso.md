@@ -206,6 +206,6 @@ Because Forgent Networks (now Asure Software) began demanding patent royalties o
 - It does not assert a single exact count of ISO's published standards: ISO's own pages give "over 22,000" (2025 update), while reference summaries give higher figures that were not verified in a fully-read citable source.
 - It does not name ISO's current president or Secretary-General; reference summaries conflict on the presidency, and no fully-read tier1/tier2 source in this pass names the current office-holders.
 - It does not claim ISO ever actually withdrew a standard for patent reasons: the 2002 JPEG withdrawal was considered, not carried out, and no fully-read source in this pass records an actual withdrawal.
-- It does not assert Forgent's later royalty totals: The Register's 2004 follow-up could not be read in full in this environment, so the JPEG account rests on the July 2002 Imaging Resource report.
+- It does not assert Forgent's later royalty totals: [The Register](/organizations/the-register/)'s 2004 follow-up could not be read in full in this environment, so the JPEG account rests on the July 2002 Imaging Resource report.
 - It does not describe ISO's internal finances beyond the funding model its own structure page states (subscriptions plus standards sales, with the Central Secretariat at about one fifth of system cost); no audited revenue figure was verified in a fully-read source.
 - It is about the ISO organization, not the ISO 9001 standard or any individual standard; ISO 9001 is covered here only as one of ISO's products.

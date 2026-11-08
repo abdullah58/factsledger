@@ -164,7 +164,7 @@ The turn came early: by 2002, Guardian writer John Patterson was arguing that st
 ## Frequently asked questions
 
 **Who founded Ain't It Cool News?**
-Harry Knowles founded the site in Austin, Texas, in 1996, naming it after a catchphrase from John Travolta's character in the film Broken Arrow. He built it while recovering from a mid-1990s injury, using a network of anonymous industry "spies" to publish casting news, scripts, and early reviews that studios tried to keep under wraps.
+Harry Knowles founded the site in [Austin, Texas](/places/austin-texas/), in 1996, naming it after a catchphrase from John Travolta's character in the film Broken Arrow. He built it while recovering from a mid-1990s injury, using a network of anonymous industry "spies" to publish casting news, scripts, and early reviews that studios tried to keep under wraps.
 
 **Why was Ain't It Cool News influential?**
 It invented a genre: spoiler-era scoop journalism. Its 1997 Batman & Robin preview-screening leaks made it nationally famous and taught studios to fear the internet. At its 2000 peak, Knowles was mainstream media's go-to representative of online film culture, appearing as a guest reviewer on Roger Ebert's show while rivals like JoBlo and Slashfilm copied the model.

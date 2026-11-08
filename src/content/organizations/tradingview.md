@@ -165,7 +165,7 @@ Then came the pandemic retail-trading surge. Visitors to the platform rose 237% 
 | Series B | May 2018 | $37 million | Insight Venture Partners |
 | Growth round | October 2021 | $298 million | Tiger Global Management |
 
-Sources: [TechCrunch](https://techcrunch.com/2018/05/21/cryptocurrency-and-a-stock-market-boom-pushes-tradingview-to-37-million-in-new-funding/); [The Block](https://www.theblock.co/news/business/2021-10-14-charting-platform-tradingview-raises-298-million-at-3-billion-valuation-120628). The seed row records only what TechCrunch confirms — the investors, not an amount, which no fully-read source states.
+Sources: [TechCrunch](https://techcrunch.com/2018/05/21/cryptocurrency-and-a-stock-market-boom-pushes-tradingview-to-37-million-in-new-funding/); [The Block](https://www.theblock.co/news/business/2021-10-14-charting-platform-tradingview-raises-298-million-at-3-billion-valuation-120628). The seed row records only what [TechCrunch](/organizations/techcrunch/) confirms — the investors, not an amount, which no fully-read source states.
 
 ## What the platform actually does
 

@@ -248,7 +248,7 @@ Yes. In April 2004 Forgent Networks sued 31 companies, including Eastman Kodak, 
 ## What this profile does not claim
 
 - It does not assert a single "founded" date: Britannica dates the business to 1880 and incorporation to 1901, while the Science Museum Group dates the founding to September 4, 1888 (the trademark registration date) and Wikipedia's infobox gives incorporation on May 23, 1892.
-- It does not state how much Sony paid Forgent for a JPEG license — Computerworld says $16 million, The Register says $15 million.
+- It does not state how much Sony paid Forgent for a JPEG license — Computerworld says $16 million, [The Register](/organizations/the-register/) says $15 million.
 - It does not assert that Microsoft was a defendant in the Forgent suit: Computerworld (2004) says it was not, while Macworld (2006) quotes Forgent saying it was suing about 30 companies "including … Microsoft".
 - It does not name the buyers of Kodak's digital imaging patents (about $525 million, December 2012), which no fully-read source names.
 - It does not name the trading name of the businesses spun off to the U.K. Kodak Pension Plan in 2013.

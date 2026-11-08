@@ -156,6 +156,6 @@ The deal closed in April 2026 after regulatory approvals: Capital One paid appro
 - This profile does not present Brex as an independent company: the Capital One acquisition was completed in April 2026 and CEO Pedro Franceschi reports into Capital One.
 - Revenue figures were never independently disclosed; the profile states funding, valuations and customer counts from press reporting only.
 - The Pagar.me sale price is deliberately omitted because sources disagree (tens of millions per a 2024 founder interview; undisclosed per 2018 coverage); only the Stone Pagamentos acquisition is stated.
-- The client names TikTok, Robinhood and Intel are stated as reported by TechCrunch, not as independently verified customer relationships.
+- The client names TikTok, Robinhood and Intel are stated as reported by [TechCrunch](/organizations/techcrunch/), not as independently verified customer relationships.
 - The $13 billion in deposits "oversees at partner banks" figure is TechCrunch's phrasing of reported figures; its exact accounting basis was not verified.
 - Brex is not confused with Ramp: Brex was founded by Dubugras and Franceschi in 2017; Ramp is a separate expense-management fintech co-founded by Eric Glyman ([TechCrunch](https://techcrunch.com/2026/01/22/capital-one-acquires-brex-for-steep-discount-to-its-peak-valuation-but-early-believers-are-laughing-all-the-way-to-the-bank/); [TechCrunch](https://techcrunch.com/2024/06/12/fintech-brex-abandons-co-ceo-model-talks-ipo-cash-burn-and-plans-for-a-secondary-sale/)).

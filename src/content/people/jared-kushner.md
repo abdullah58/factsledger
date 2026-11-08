@@ -348,7 +348,7 @@ draft: false
 Jared Kushner is an American real estate investor, former senior [White House](https://factsledger.com/organizations/the-white-house)
 adviser and, since February 2026, Donald Trump's Special Envoy for Peace —
 the diplomat Trump has deployed to Gaza, Iran and the Russia-Ukraine war
-alongside special envoy Steve Witkoff
+alongside special envoy [Steve Witkoff](/people/steve-witkoff/)
 ([Al Jazeera](https://www.aljazeera.com/amp/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv);
 [Associated Press](https://mb.com.ph/2026/09/07/us-envoys-witkoff-and-kushner-hold-talks-in-ukraine-after-meeting-with-putin)).
 Born January 10, 1981, in Livingston, New Jersey, he built his early career at

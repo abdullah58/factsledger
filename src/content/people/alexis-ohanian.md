@@ -134,6 +134,6 @@ Beyond technology, Ohanian became one of the leading investors in women's sports
 ## What this profile does not claim
 
 - No net-worth figure is given: circulating estimates rest on aggregators, and no Forbes wealth figure was verified in a fully-read source.
-- Initialized Capital's founding year is reported as 2011 by TechCrunch and 2012 in another report of the same departure; the profile follows TechCrunch and flags the variant rather than resolving it silently.
+- Initialized Capital's founding year is reported as 2011 by [TechCrunch](/organizations/techcrunch/) and 2012 in another report of the same departure; the profile follows TechCrunch and flags the variant rather than resolving it silently.
 - The price Condé Nast paid for Reddit is not stated, since no fully-read source in this pass gives it.
 - A speaker bio's claim that Ohanian built Initialized to $100 billion in market value was rejected: it contradicts TechCrunch's reported $500 million in assets under management and is not used anywhere in this profile.

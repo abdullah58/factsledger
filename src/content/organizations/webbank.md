@@ -172,7 +172,7 @@ Its business partners, listed on the bank's own site, are a roll call of America
 
 Sources: [WebBank](https://www.webbank.com/business-brand-partners); [FinMasters](https://finmasters.com/webbank-review/); [SEC](https://www.sec.gov/Archives/edgar/data/1409970/000140997016001801/form8-kfiledon3216webbanka.htm).
 
-The invisibility has a cost in public confusion. WebBank holds an A rating with the Better Business Bureau, but more than 200 BBB complaints against it are, in FinMasters' assessment, nearly all misdirected — borrowers complaining to the bank about the partner that services their account ([FinMasters](https://finmasters.com/webbank-review/)). It is also routinely confused with WeBank, the Tencent-backed Chinese neobank founded in 2014 — a different institution in a different country ([FinMasters](https://finmasters.com/webbank-review/)).
+The invisibility has a cost in public confusion. WebBank holds an A rating with the [Better Business Bureau](/organizations/better-business-bureau/), but more than 200 BBB complaints against it are, in FinMasters' assessment, nearly all misdirected — borrowers complaining to the bank about the partner that services their account ([FinMasters](https://finmasters.com/webbank-review/)). It is also routinely confused with WeBank, the Tencent-backed Chinese neobank founded in 2014 — a different institution in a different country ([FinMasters](https://finmasters.com/webbank-review/)).
 
 ## Ownership and structure
 

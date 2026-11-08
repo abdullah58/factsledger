@@ -102,7 +102,7 @@ Its two landmark crypto sanctions actions show how the tool works in practice:
 |---|---|---|
 | **Target** | Virtual currency mixer Tornado Cash, created 2019 | Crypto exchange Garantex (redesignated), successor exchange Grinex, A7 network, Old Vector |
 | **Legal authority** | E.O. 13694 (malicious cyber-enabled activities); followed the May 6, 2022 Blender.io designation | E.O. 13694 as amended (cyber authorities); Garantex originally designated April 5, 2022 under E.O. 14024 |
-| **Scale alleged** | Laundered more than $7 billion since 2019, including $455 million by the DPRK's Lazarus Group, $96M+ from the Harmony Bridge heist, $7.8M from the Nomad heist | Garantex processed over $100 million linked to illicit activities since 2019; Grinex moved billions after taking over Garantex's customers |
+| **Scale alleged** | Laundered more than $7 billion since 2019, including $455 million by the DPRK's [Lazarus Group](/organizations/lazarus-group/), $96M+ from the Harmony Bridge heist, $7.8M from the Nomad heist | Garantex processed over $100 million linked to illicit activities since 2019; Grinex moved billions after taking over Garantex's customers |
 | **Crypto hook** | The mixer itself was the laundering tool | The ruble-backed A7A5 token, issued by Kyrgyzstani firm Old Vector, became blocked property |
 | **Treasury message** | Under Secretary Brian E. Nelson: mixers should "in general be considered as high-risk" and Treasury would "aggressively pursue" them | Under Secretary John K. Hurley: Treasury supports the digital asset industry's integrity and "will not tolerate abuse of this industry to support cybercrime and sanctions evasion" |
 

@@ -245,7 +245,7 @@ instax is Fujifilm's line of instant cameras, hybrid cameras and smartphone prin
 
 ## What this profile does not claim
 
-- It does not state Sony's Forgent licence fee, which is reported as $15 million by The Register and about $16 million by Macworld.
+- It does not state Sony's Forgent licence fee, which is reported as $15 million by [The Register](/organizations/the-register/) and about $16 million by Macworld.
 - It does not say whether Fuji Photo Film was among the roughly 30 companies in Forgent's final November 2006 settlement; no source read in this pass says so.
 - It does not claim Fuji Photo Film was founded as a Daicel subsidiary; that appears in reference summaries but was not confirmed in a fully-read source.
 - It does not date the renaming of Fuji Xerox to FUJIFILM Business Innovation, which was not verified in a fully-read source.

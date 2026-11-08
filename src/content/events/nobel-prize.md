@@ -210,7 +210,7 @@ and trustees
 
 This profile does not repeat the famous 1888 "Merchant of Death"
 mistaken-obituary story, which was not verified to citation standard. It does
-not state an exact dollar figure for the prize beyond Al Jazeera's 2025
+not state an exact dollar figure for the prize beyond [Al Jazeera](/organizations/al-jazeera/)'s 2025
 conversion. It does not claim the economics prize is a Nobel Prize — the
 Foundation says explicitly that it is not. First-ceremony venue details were
 not read in full and are not stated.

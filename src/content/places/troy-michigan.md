@@ -158,6 +158,6 @@ The city's retail anchor is the Somerset Collection at 2800 West Big Beaver Road
 - It does not assert that Troy was named after Troy, New York; that etymology was not in any fully-read source used here, and the profile disambiguates by county and state only.
 - It does not use the city prospectus population figure of 87,326; Census figures (87,294 in 2020; 88,733 estimated in July 2025) are used instead, and the difference is flagged above.
 - It does not repeat older prospectus percentages for education and diversity where Census 2020–2024 figures supersede them.
-- It does not assert Altair Engineering's current headquarters status after Siemens' 2025 acquisition of Altair, which was not verified for this profile.
+- It does not assert Altair Engineering's current headquarters status after [Siemens](/organizations/siemens/)' 2025 acquisition of Altair, which was not verified for this profile.
 - It does not present Livability or Niche rankings as independently verified facts; they are the city's attributed promotional claims.
 - It does not claim anything about Troy, New York, the ancient city of Troy, or any other place named Troy.

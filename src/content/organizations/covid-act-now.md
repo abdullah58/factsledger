@@ -159,6 +159,6 @@ current website describes ongoing work on a voter-registration project unrelated
 ## What this profile does not claim
 
 A co-founder's own biography states that Covid Act Now "advised officials in 25+ states and the military" and
-"collaborated with the CDC and White House." No independent source corroborating those specific claims was found,
+"collaborated with the CDC and [White House](/places/white-house/)." No independent source corroborating those specific claims was found,
 so they are not repeated here. No named major donor is identified; only aggregate annual revenue figures from
 public tax filings are available.

@@ -110,7 +110,7 @@ On March 14, 2024, MovieWeb published an interview by contributing writer **Rich
 Valnet Inc. has owned MovieWeb.com and TvWeb.com since 2021, when it acquired them from WatchR Media, Inc. Valnet is a digital content investment company that owns and operates a diversified portfolio of publishing and studio assets, including Screen Rant, Collider and CBR ([Caribbean News Global](https://caribbeannewsglobal.com/acquisition-of-movieweb-com-and-tvweb-com-by-valnet-inc/)).
 
 **How old is MovieWeb?**
-MovieWeb has been online since 1995, per both the acquisition release and Mergr's directory profile, making it one of the longest-running entertainment publishers on the web — over three decades of continuous operation as of 2026, and three years older than Google ([Mergr](https://mergr.com/movieweb-overview)).
+MovieWeb has been online since 1995, per both the acquisition release and Mergr's directory profile, making it one of the longest-running entertainment publishers on the web — over three decades of continuous operation as of 2026, and three years older than [Google](/organizations/google/) ([Mergr](https://mergr.com/movieweb-overview)).
 
 **What does MovieWeb cover?**
 The site covers movie and TV news: casting and development, release dates, trailers, interviews and clips. It also publishes original interviews with filmmakers, such as its March 2024 conversation with director Adam Rehmeier about his coming-of-age comedy *Snack Shack* ([MovieWeb](https://movieweb.com/snack-shack-adam-rehmeier-intervie/)).

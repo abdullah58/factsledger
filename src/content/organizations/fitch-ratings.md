@@ -162,7 +162,7 @@ Fitch's most consequential single rating action came on August 1, 2023, when it 
 
 ## Fitch and the new fintech securitizations
 
-Fitch's ratings now reach into the newest corners of consumer finance. In February 2026, [Avant](/organizations/avant/) closed a $200 million personal-loan securitization — its 23rd since founding and its seventh revolving transaction — that became the first of its deals to earn AAA ratings from both Fitch Ratings and Kroll Bond Rating Agency ([PYMNTS](https://www.pymnts.com/loans/2026/fintech-avant-boosts-financing-capacity-with-new-200-million-dollar-deal/)). The 24-month revolving structure is expected to provide more than $500 million in financing capacity, bringing Avant's long-term funding commitments to about $2.5 billion ([PYMNTS](https://www.pymnts.com/loans/2026/fintech-avant-boosts-financing-capacity-with-new-200-million-dollar-deal/)).
+Fitch's ratings now reach into the newest corners of consumer finance. In February 2026, [Avant](/organizations/avant/) closed a $200 million personal-loan securitization — its 23rd since founding and its seventh revolving transaction — that became the first of its deals to earn AAA ratings from both Fitch Ratings and [Kroll Bond Rating Agency](/organizations/kroll-bond-rating-agency/) ([PYMNTS](https://www.pymnts.com/loans/2026/fintech-avant-boosts-financing-capacity-with-new-200-million-dollar-deal/)). The 24-month revolving structure is expected to provide more than $500 million in financing capacity, bringing Avant's long-term funding commitments to about $2.5 billion ([PYMNTS](https://www.pymnts.com/loans/2026/fintech-avant-boosts-financing-capacity-with-new-200-million-dollar-deal/)).
 
 ## Frequently asked questions
 
