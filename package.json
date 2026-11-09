@@ -5,10 +5,14 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/fetch-hero-images.mjs && astro build",
+    "build": "node scripts/fetch-hero-images.mjs && npm run build:site && npm run check:seo",
+    "build:site": "astro build",
     "preview": "astro preview",
     "check": "astro check",
     "check:interlinks": "python3 scripts/check-interlinks.py",
+    "check:seo": "node scripts/check-built-seo.mjs",
+    "test:unit": "node --test scripts/entity-schema.test.mjs scripts/sitemap-dates.test.mjs",
+    "test:interlinks": "python3 scripts/test-interlinks.py",
     "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {

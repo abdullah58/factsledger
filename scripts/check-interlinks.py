@@ -3,7 +3,7 @@
 
 The site-wide rule is one link to each canonical internal target per source
 page, even when the entity name appears repeatedly. This checker scans Markdown
-content and fails on duplicate or missing content targets. Legacy `related:`
+content and fails on duplicate, missing, unpublished or nested content targets. Legacy `related:`
 blocks are reported as warnings; use --fail-on-related during migrations.
 """
 
@@ -52,8 +52,13 @@ def source_files(repo: Path) -> list[Path]:
     return sorted(
         path
         for path in (repo / "src" / "content").glob("*/*.md")
-        if path.name != "_TEMPLATE.md"
+        if not path.name.startswith("_")
     )
+
+
+def is_draft(text: str) -> bool:
+    frontmatter = FRONTMATTER_RE.match(text)
+    return bool(frontmatter and re.search(r"^draft:\s*true\s*(?:#.*)?$", frontmatter[0], re.M | re.I))
 
 
 def find_nested_links(body: str) -> list[str]:
@@ -88,6 +93,8 @@ def find_nested_links(body: str) -> list[str]:
 
 def inspect_file(repo: Path, path: Path) -> tuple[dict[str, int], list[Finding], bool]:
     text = path.read_text(encoding="utf-8")
+    if path.name.startswith("_") or is_draft(text):
+        return {}, [], False
     source = str(path.relative_to(repo))
     raw_links = MARKDOWN_LINK_RE.findall(text) + YAML_HREF_RE.findall(text)
     links = [canonical_path(link) for link in raw_links]
@@ -102,6 +109,8 @@ def inspect_file(repo: Path, path: Path) -> tuple[dict[str, int], list[Finding],
         destination = content_target(repo, target)
         if destination is not None and not destination.exists():
             findings.append(Finding("missing", source, target, str(destination.relative_to(repo))))
+        elif destination is not None and (destination.name.startswith("_") or is_draft(destination.read_text(encoding="utf-8"))):
+            findings.append(Finding("unpublished", source, target, "target is a draft or template and has no public route"))
 
     body = FRONTMATTER_RE.sub("", text, count=1)
     for snippet in find_nested_links(body):
@@ -135,7 +144,7 @@ def main() -> int:
         if has_related:
             related_files.append(str(path.relative_to(repo)))
 
-    errors = [finding for finding in findings if finding.kind in {"duplicate", "missing", "nested"}]
+    errors = [finding for finding in findings if finding.kind in {"duplicate", "missing", "nested", "unpublished"}]
     if args.fail_on_related:
         errors.extend(
             Finding("related", source, "", "legacy related: block found")
@@ -147,6 +156,7 @@ def main() -> int:
     print(f"internal_links_scanned={total_links}")
     print(f"duplicate_target_errors={sum(f.kind == 'duplicate' for f in findings)}")
     print(f"missing_target_errors={sum(f.kind == 'missing' for f in findings)}")
+    print(f"unpublished_target_errors={sum(f.kind == 'unpublished' for f in findings)}")
     print(f"nested_link_errors={sum(f.kind == 'nested' for f in findings)}")
     print(f"legacy_related_blocks={len(related_files)}")
 
@@ -168,7 +178,7 @@ def main() -> int:
         print(f"\nFAILED: {len(errors)} policy violation(s) found.", file=sys.stderr)
         return 1
 
-    print("\nPASSED: no duplicate or missing internal content targets found.")
+    print("\nPASSED: no duplicate, missing, unpublished, or nested internal content targets found.")
     return 0
 
 
