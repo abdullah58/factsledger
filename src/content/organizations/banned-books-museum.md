@@ -105,14 +105,12 @@ draft: false
 
 ## Overview
 
-The Banned Books Museum is a small, single-room museum in Tallinn's Old Town, opened on 5 December 2020 by Joseph
-Maximillian Dunnigan, a Scottish graduate who had lived and worked in China before settling in Estonia to study
-social entrepreneurship at Tallinn University
+The Banned Books Museum is a small, single-room museum in [Tallinn's Old Town](/places/tallinn-old-town/), opened on 5 December 2020 by [Joseph Maximillian Dunnigan](/people/joseph-maximillian-dunnigan/), a [Scottish](/places/scotland/) graduate who had lived and worked in [China](/places/china/) before settling in [Estonia](/places/estonia/) to study social entrepreneurship at [Tallinn University](/universities/tallinn-university/)
 ([Estonian World](https://estonianworld.com/culture/a-museum-of-banned-books-opens-in-estonia/)). The museum
 operates as Banned Books MTÜ, a non-profit association registered in Estonia on 28 August 2020, with Dunnigan and a second board member, Urve Leemets — an
 Estonian national registered on the same date — both listed on its board
 ([Estonian Business Register](https://ariregister.rik.ee/eng/company/80584386/BANNED-BOOKS-MT%C3%9C)). It is
-recognised as a listed attraction by the City of Tallinn's official tourism authority
+recognised as a listed attraction by the [City of Tallinn](/organizations/city-of-tallinn/)'s official tourism authority
 ([Visit Tallinn](https://visittallinn.ee/eng/visitor/see-do/things-to-do/attractions-museums/181031/banned-books-museum)).
 
 ## Collection and mission
@@ -120,23 +118,21 @@ recognised as a listed attraction by the City of Tallinn's official tourism auth
 The museum displays books that have been banned, censored, or restricted in various countries, organised in part
 by country of origin, alongside sections on censorship history and book burning
 ([Reader's Digest UK](https://www.readersdigest.co.uk/lifestyle/travel/how-tallins-banned-books-museum-defends-free-speech)).
-Writing in Prospect Magazine in November 2025, journalist Vitali Vitaliev described a collection of around 400
-titles from more than 100 countries, including works by George Orwell, Vladimir Nabokov, Mikhail Bulgakov, Nelson
-Mandela and the Dalai Lama, and noted the presence of Soviet-era samizdat publications
+Writing in [Prospect Magazine](/organizations/prospect-magazine/) in November 2025, journalist [Vitali Vitaliev](/people/vitali-vitaliev/) described a collection of around 400
+titles from more than 100 countries, including works by [George Orwell](/people/george-orwell/), [Vladimir Nabokov](/people/vladimir-nabokov/), [Mikhail Bulgakov](/people/mikhail-bulgakov/), [Nelson Mandela](/people/nelson-mandela/) and the [Dalai Lama](/people/dalai-lama/), and noted the presence of [Soviet-era](/places/soviet-union/) samizdat publications
 ([Prospect Magazine](https://www.prospectmagazine.co.uk/views/lives/71630/second-life-a-modern-museum-of-banned-books-reminds-me-of-my-old-soviet-life)).
 Dunnigan has described the museum's aim as remaining "politically neutral," offering, in his words, "a study in
 censorship as it exists in reality"
 ([Prospect Magazine](https://www.prospectmagazine.co.uk/views/lives/71630/second-life-a-modern-museum-of-banned-books-reminds-me-of-my-old-soviet-life)).
-Book Riot's 2021 profile described the venue as also functioning as a bookstore, hosting book club meetings and
+[Book Riot](/organizations/book-riot/)'s 2021 profile described the venue as also functioning as a bookstore, hosting book club meetings and
 producing podcast episodes on censorship themes
 ([Book Riot](https://bookriot.com/banned-books-museum/)).
 
 ## Independent coverage
 
-Beyond the founder's own account, the museum has been independently covered by Euronews, whose March 2023 video
-segment confirmed the collection and its Tallinn location
+Beyond the founder's own account, the museum has been independently covered by [Euronews](/organizations/euronews/), whose March 2023 video segment confirmed the collection and its [Tallinn](/places/tallinn/) location
 ([Euronews](https://www.euronews.com/video/2023/03/14/banned-books-from-all-over-the-world-displayed-in-tallinn-museum)),
-and by Estonian World, Book Riot and Reader's Digest UK, each of which independently verified the founding
+and by [Estonian World](/organizations/estonian-world/), Book Riot and [Reader's Digest UK](/organizations/readers-digest-uk/), each of which independently verified the founding
 narrative with the founder directly.
 
 ## What this profile does not claim
