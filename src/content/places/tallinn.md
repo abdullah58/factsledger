@@ -147,7 +147,7 @@ The city has been fought over, traded, occupied, and rebuilt for eight centuries
 
 | Measure | Figure | Source |
 | --- | --- | --- |
-| Population (start of 2025) | 456,518 | Statistics Estonia via City of Tallinn |
+| Population (start of 2025) | 456,518 | Statistics Estonia via [City of Tallinn](/organizations/city-of-tallinn/) |
 | Population (2021 census) | 437,817 | Encyclopaedia Britannica |
 | Population (late 1980s) | about 500,000 | Encyclopaedia Britannica |
 | Population (1934 census) | 137,792 | Encyclopaedia Britannica |
@@ -180,4 +180,4 @@ The city also hosts a smaller, stranger institution: the [Banned Books Museum](/
 
 ## What this profile does not claim
 
-This profile does not claim a single settled population figure: Britannica's 2021 census figure (437,817) and Statistics Estonia's start-of-2025 figure (456,518) come from different years and methods and are both stated with their years. It does not date Britannica's figure that the city is 53 percent ethnically Estonian, because the source does not date it in the text read. It does not claim Skype was founded in Tallinn — only that its main research and development centre was there. It does not describe the Banned Books Museum's founder beyond what Book Riot states (spokesperson and leader), because the press profiles of the founder were blocked in this session. It does not claim a current visitor number beyond Britannica's "more than four million annually".
+This profile does not claim a single settled population figure: Britannica's 2021 census figure (437,817) and Statistics Estonia's start-of-2025 figure (456,518) come from different years and methods and are both stated with their years. It does not date Britannica's figure that the city is 53 percent ethnically Estonian, because the source does not date it in the text read. It does not claim Skype was founded in Tallinn — only that its main research and development centre was there. It does not describe the Banned Books Museum's founder beyond what [Book Riot](/organizations/book-riot/) states (spokesperson and leader), because the press profiles of the founder were blocked in this session. It does not claim a current visitor number beyond Britannica's "more than four million annually".

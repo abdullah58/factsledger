@@ -121,7 +121,7 @@ draft: false
 
 ## Overview
 
-Oliver Mulherin is an Australian software engineer who has worked at the IOTA Foundation, Broadwing, SPARK Neuro, and Meta, and who is married to OpenAI chief executive [Sam Altman](/people/sam-altman/) ([Newsweek](https://www.newsweek.com/sam-altman-partner-oliver-mulherin-open-ai-1922107); [NBC News](https://www.nbcnews.com/tech/tech-news/sam-altman-oliver-mulherin-ollie-wedding-married-partner-boyfriend-rcna133512)).
+Oliver Mulherin is an Australian software engineer who has worked at the IOTA Foundation, Broadwing, SPARK Neuro, and Meta, and who is married to [OpenAI](/organizations/openai/) chief executive [Sam Altman](/people/sam-altman/) ([Newsweek](https://www.newsweek.com/sam-altman-partner-oliver-mulherin-open-ai-1922107); [NBC News](https://www.nbcnews.com/tech/tech-news/sam-altman-oliver-mulherin-ollie-wedding-married-partner-boyfriend-rcna133512)).
 
 ## Education and early career
 

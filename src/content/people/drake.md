@@ -196,7 +196,7 @@ Drake is Aubrey Drake Graham, a Canadian rapper, singer and actor born on 24 Oct
 Drake has 14 Hot 100 No. 1 singles, the most by any solo male artist in the chart's history ([Encyclopaedia Britannica](https://www.britannica.com/biography/Drake)). The 14th was "Janice STFU", from his 2026 album *Iceman*, which debuted at No. 1 and moved him past Michael Jackson's 13 ([Encyclopaedia Britannica](https://www.britannica.com/biography/Drake)).
 
 **How many Grammy Awards has Drake won?**
-Drake has won five Grammy Awards from 56 nominations, according to the Recording Academy ([Recording Academy](https://www.grammy.com/artists/drake/12370/)). His first win was Best Rap Album for *Take Care*, and later wins included Best Rap Song for "God's Plan" in 2019 ([Recording Academy](https://www.grammy.com/artists/drake/12370/)).
+Drake has won five Grammy Awards from 56 nominations, according to [the Recording Academy](/organizations/recording-academy/) ([Recording Academy](https://www.grammy.com/artists/drake/12370/)). His first win was Best Rap Album for *Take Care*, and later wins included Best Rap Song for "God's Plan" in 2019 ([Recording Academy](https://www.grammy.com/artists/drake/12370/)).
 
 **What is OVO Sound?**
 OVO Sound is the record label Drake co-founded in Toronto in 2012 with producer Noah "40" Shebib and Oliver El-Khatib, growing out of their October's Very Own collective ([Encyclopaedia Britannica](https://www.britannica.com/biography/Drake)). It has represented acts including PartyNextDoor and Majid Jordan, and Drake has released all his albums on OVO Sound since *Care Package* in 2019 ([Encyclopaedia Britannica](https://www.britannica.com/biography/Drake)).

@@ -127,7 +127,7 @@ Cardless's funding history:
 | Venture round | $30 million | Nov 2024 | Activant Capital |
 | Venture round | $60 million | Sep 2025 | Spark Capital |
 
-The September 2025 round took total venture funding to $170 million ([Payments Dive](https://www.paymentsdive.com/news/cardless-raises-60m-credit-card-fintech-bilt-spark-spelfogel/760741/)). Spelfogel is co-founder and president and Kazmierowicz is co-founder and chief executive; Spelfogel previously worked at Visa and Lyft, while Kazmierowicz worked in banking at Allen & Company and Goldman Sachs ([BusinessWire](https://www.businesswire.com/news/home/20201118005639/en/Cardless-Launches-Co-Branded-Credit-Card-Platform)). Cards are issued by First Electronic Bank of Salt Lake City, with Cardless handling underwriting and compliance ([Payments Dive](https://www.paymentsdive.com/news/cardless-raises-60m-credit-card-fintech-bilt-spark-spelfogel/760741/)).
+The September 2025 round took total venture funding to $170 million ([Payments Dive](https://www.paymentsdive.com/news/cardless-raises-60m-credit-card-fintech-bilt-spark-spelfogel/760741/)). Spelfogel is co-founder and president and Kazmierowicz is co-founder and chief executive; Spelfogel previously worked at [Visa](/organizations/visa/) and Lyft, while Kazmierowicz worked in banking at Allen & Company and Goldman Sachs ([BusinessWire](https://www.businesswire.com/news/home/20201118005639/en/Cardless-Launches-Co-Branded-Credit-Card-Platform)). Cards are issued by First Electronic Bank of Salt Lake City, with Cardless handling underwriting and compliance ([Payments Dive](https://www.paymentsdive.com/news/cardless-raises-60m-credit-card-fintech-bilt-spark-spelfogel/760741/)).
 
 ## Why brands were locked out of credit cards
 

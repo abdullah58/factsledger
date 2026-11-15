@@ -102,7 +102,7 @@ Between "Versace" and their commercial peak, the trio released a run of mixtapes
 
 ## "MotorSport"
 
-On October 27, 2017, Migos released "MotorSport," uniting Cardi B and [Nicki Minaj](/people/nicki-minaj/) as the lead single from their third album, *Culture II*. ([REVOLT](https://www.revolt.tv/article/2017-10-27/34025/migos-unite-cardi-b-and-nicki-minaj-on-culture-ii-single-motor-sport)) Produced by Murda Beatz and Cubeatz, it was the first time all three acts had worked together; Minaj said the song had originally been just her and Quavo. ([REVOLT](https://www.revolt.tv/article/2017-10-27/34025/migos-unite-cardi-b-and-nicki-minaj-on-culture-ii-single-motor-sport))
+On October 27, 2017, Migos released "MotorSport," uniting [Cardi B](/people/cardi-b/) and [Nicki Minaj](/people/nicki-minaj/) as the lead single from their third album, *Culture II*. ([REVOLT](https://www.revolt.tv/article/2017-10-27/34025/migos-unite-cardi-b-and-nicki-minaj-on-culture-ii-single-motor-sport)) Produced by Murda Beatz and Cubeatz, it was the first time all three acts had worked together; Minaj said the song had originally been just her and Quavo. ([REVOLT](https://www.revolt.tv/article/2017-10-27/34025/migos-unite-cardi-b-and-nicki-minaj-on-culture-ii-single-motor-sport))
 
 ## Takeoff's death
 

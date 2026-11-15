@@ -74,7 +74,7 @@ sources:
     usedFor: "Amodei's work in Berry's retina lab, dissatisfaction with lab methods, co-invented sensor, Hertz Thesis Prize, and Berry's 'most talented graduate student' assessment."
     date: "2025-07-29"
 ---
-Michael J. Berry II is a Princeton neuroscientist whose lab studies the retina not as a simple camera but as a computing organ. Search results give you three facts about him — professor, retina recordings, ex-physicist — and then run dry. None of them tell you that the young graduate student who found the lab's measurement methods so inadequate that he built a better sensor was [Dario Amodei](/people/dario-amodei/), the future Anthropic CEO. That is where this profile starts, because it is the most human doorway into what the Berry Lab actually does ([Big Technology](https://kantrowitz.medium.com/the-making-of-anthropic-ceo-dario-amodei-449777529dd6)).
+Michael J. Berry II is a Princeton neuroscientist whose lab studies the retina not as a simple camera but as a computing organ. Search results give you three facts about him — professor, retina recordings, ex-physicist — and then run dry. None of them tell you that the young graduate student who found the lab's measurement methods so inadequate that he built a better sensor was [Dario Amodei](/people/dario-amodei/), the future [Anthropic](/organizations/anthropic/) CEO. That is where this profile starts, because it is the most human doorway into what the Berry Lab actually does ([Big Technology](https://kantrowitz.medium.com/the-making-of-anthropic-ceo-dario-amodei-449777529dd6)).
 
 ## The Amodei chapter
 

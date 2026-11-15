@@ -113,7 +113,7 @@ disbanding of an FBI foreign-influence task force and the sidelining of
 election-security staff at CISA
 ([Defense News (Associated Press)](https://www.Defensenews.Com/pentagon/2025/03/04/hegseth-halts-us-offensive-cyberoperations-against-russia/)).
 That is the tension at the heart of the command right now: an operational
-tempo at an all-time high, in a political environment that can switch the
+tempo at an all-[time](/organizations/time/) high, in a political environment that can switch the
 offense off.
 
 ## The dual-hat command born inside the NSA

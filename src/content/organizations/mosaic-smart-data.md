@@ -156,7 +156,7 @@ The firm's commercial model was subscription software: the UK government, which 
 | 2018 | JPMorgan takes a minority stake |
 | 2019 | $9 million round led by CommerzVentures, co-led by Octopus Ventures |
 | 2024 | UK export award winner; acquired by Behavox in December |
-| 2025 | Acquisition announced in February; Behavox launches Polaris trade surveillance |
+| 2025 | Acquisition announced in February; Behavox launches [Polaris](/creative-works/polaris/) trade surveillance |
 
 ## Founding and the JPMorgan relationship
 

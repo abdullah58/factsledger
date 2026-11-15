@@ -89,7 +89,7 @@ One SoHo Square has a detailed paper trail. Stellar acquired the property in 201
 
 ## Controversies under Gluck
 
-Stellar's growth was not without friction with tenants and regulators. The firm "has been at the center of controversy over the last 15 years, facing accusations of illegally deregulating rent-stabilized units and buying Mitchell-Lama properties to profit when affordability periods expired," as The Real Deal reported, via Bisnow's obituary coverage ([Bisnow](https://www.bisnow.com/new-york/news/commercial-real-estate/stellar-managements-larry-gluck-dies-at-71-124717?utm_source=outbound_pub_90&utm_campaign=outbound_issue_77893&utm_content=outbound_link_1&utm_medium=email)).
+Stellar's growth was not without friction with tenants and regulators. The firm "has been at the center of controversy over the last 15 years, facing accusations of illegally deregulating rent-stabilized units and buying Mitchell-Lama properties to profit when affordability periods expired," as The Real Deal reported, via [Bisnow](/organizations/bisnow/)'s obituary coverage ([Bisnow](https://www.bisnow.com/new-york/news/commercial-real-estate/stellar-managements-larry-gluck-dies-at-71-124717?utm_source=outbound_pub_90&utm_campaign=outbound_issue_77893&utm_content=outbound_link_1&utm_medium=email)).
 
 ## The 2024 succession and 2026 debt stress
 

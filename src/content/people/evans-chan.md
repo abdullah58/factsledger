@@ -134,7 +134,7 @@ draft: false
 
 ## Overview
 
-Evans Chan (陳耀成) is a Hong Kong-born, New York-based filmmaker, critic, playwright and librettist whose
+Evans Chan (陳耀成) is a [Hong Kong](/places/hong-kong/)-born, New York-based filmmaker, critic, playwright and librettist whose
 documentary-fiction hybrids examine Hong Kong's handover, the Chinese diaspora and postcolonial history through
 individual perspectives ([Jump Cut](https://www.ejumpcut.org/archive/jc57.2016/-SzetoEvansChan/index.html)).
 What no consolidated reference tells — but his own career record shows — is how unusual his position behind

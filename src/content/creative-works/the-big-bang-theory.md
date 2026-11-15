@@ -141,7 +141,7 @@ television — at the NAB Show luncheon that April in Las Vegas
 ([National Association of
 Broadcasters](https://www.nab.org/documents/newsroom/pressRelease.asp?id=2191)).
 The NAB's release is also the cleanest primary-source credit for the show's
-authorship: "The Big Bang Theory," co-created by Chuck Lorre and [Bill
+authorship: "The Big Bang Theory," co-created by [Chuck Lorre](/people/chuck-lorre/) and [Bill
 Prady](https://factsledger.com/people/bill-prady/)
 ([National Association of
 Broadcasters](https://www.nab.org/documents/newsroom/pressRelease.asp?id=2191)).

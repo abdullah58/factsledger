@@ -191,7 +191,7 @@ Adylov's route into financial technology ran through energy research and the tra
 | Year | Milestone | Source |
 | --- | --- | --- |
 | 2007 | Co-authors Chatham House paper on Asian national oil companies | Chatham House |
-| 2014 | Founds Behavox; $400,000 first raise | Global Venturing |
+| 2014 | Founds Behavox; $400,000 first raise | [Global Venturing](/organizations/global-venturing/) |
 | 2017 | $20m Series A1 led by Citigroup | Global Venturing |
 | 2019 | [CB Insights](/organizations/cb-insights/) AI 100; [Tech Nation](/organizations/tech-nation/) Future Fifty | AIThority; FF News |
 | 2020 | $100m from SoftBank Vision Fund 2; Forbes FinTech 50; Goldman Sachs 100 Most Intriguing Entrepreneurs | Global Venturing; FinTechtris; BusinessWire |

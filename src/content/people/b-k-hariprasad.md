@@ -193,7 +193,7 @@ His direct-election record is the paradox of his career. He contested two [Lok S
 | 2018 Rajya Sabha | Deputy Chairman vs Harivansh Narayan Singh (NDA) | Lost 105–125 |
 | 2019 Lok Sabha | Bangalore South vs Tejasvi Surya (BJP) | Lost by over 3.3 lakh votes (407,372 vs 736,605) |
 
-(The table distills The Hindu BusinessLine's 2018 result and The Financial Express's 2019 report ([The Hindu BusinessLine](https://www.thehindubusinessline.com/news/national/nda-candidate-harivansh-singh-elected-rajya-sabha-deputy-chairman/article24640415.ece); [The Financial Express](https://www.financialexpress.com/elections/bengaluru-south-election-result-live-updates-tejasvi-surya-bk-hariprasad-lok-sabha-2019-latest-news/1573137/)).)
+(The table distills The Hindu BusinessLine's 2018 result and The [Financial Express](/organizations/financial-express/)'s 2019 report ([The Hindu BusinessLine](https://www.thehindubusinessline.com/news/national/nda-candidate-harivansh-singh-elected-rajya-sabha-deputy-chairman/article24640415.ece); [The Financial Express](https://www.financialexpress.com/elections/bengaluru-south-election-result-live-updates-tejasvi-surya-bk-hariprasad-lok-sabha-2019-latest-news/1573137/)).)
 
 ## Karnataka: Council opposition leader to KPCC president
 

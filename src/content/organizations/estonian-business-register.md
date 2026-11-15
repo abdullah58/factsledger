@@ -126,7 +126,7 @@ The register is not a directory. Its entries have strong legal force and exist t
 | Portal operator | Centre of Registers and Information Systems (RIK) | European e-Justice Portal |
 | Register data from | 1 September 1995 | European e-Justice Portal |
 | Online filing from | February 2007 | European Commission |
-| Consolidated portal launched | 30 August 2021 | City of Tallinn |
+| Consolidated portal launched | 30 August 2021 | [City of Tallinn](/organizations/city-of-tallinn/) |
 | Data free to all from | 1 October 2022 | Estonian Business Register |
 | Scale | Hundreds of thousands of legal entities | Estonian Business Register |
 | Registry staff | 24 assistant judges, 24 registry secretaries | Estonian Business Register |

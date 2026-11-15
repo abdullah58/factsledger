@@ -220,5 +220,5 @@ On 1 February 2008 it collided with debris from a footbridge knocked down by a t
 - It does not give a year for Nottingham's UNESCO City of Literature designation, because no source read in full for this profile stated one; the designation itself is verified, the date is not asserted.
 - It does not present Robin Hood as a historical person; it records the legend and the statue as cultural facts.
 - It makes no claim about Nottingham's current population beyond the 2021 census figure of around 323,600; later estimates were not verified in a fully-read source.
-- It does not describe the 2008 derailment beyond the RAIB summary and the Rail Technology Magazine aftermath account; the full investigation belongs to the crash profile.
+- It does not describe the 2008 derailment beyond the RAIB summary and the [Rail Technology Magazine](/organizations/rail-technology-magazine/) aftermath account; the full investigation belongs to the crash profile.
 - It does not assert which university is larger or rank the city's industries by current employment, because no fully-read source verified those comparisons.

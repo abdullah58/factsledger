@@ -57,7 +57,7 @@ openItems:
     profile, so it is not detailed here.
 ---
 
-## The Hong Kong connection nobody mentions
+## The [Hong Kong](/places/hong-kong/) connection nobody mentions
 
 Peter Greenaway's The Pillow Book (1996) — the erotic drama of calligraphy written on human skin — is usually discussed as a European art film. Its production history runs through Hong Kong: line production was handled by Riverdrive Productions, the company founded by Hong Kong filmmaker [Evans Chan](/people/evans-chan/), who had backed it since 1991. The standard Greenaway biographies never mention this. It matters because The Pillow Book is Greenaway's most East Asian-facing work, and its route to the screen passed through one of Hong Kong's independent producers. ([MUBI Notebook](https://mubi.com/en/notebook/posts/i-leapt-into-the-puddle-an-interview-with-peter-greenaway); [DMovies](https://dmovies.org/2021/03/31/p-is-for-painting-p-is-for-puzzle-p-is-for-peter-greenaway/))
 

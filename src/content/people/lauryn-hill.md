@@ -156,7 +156,7 @@ Hill's career is unusual in popular music: almost everything that defines her re
 | Career Grammy total | 8 wins from 19 nominations ([Grammy.com](https://www.grammy.com/artists/lauryn-hill/9621/)) |
 | [RIAA](/organizations/riaa/) diamond | 17 February 2021, 10 million US units; first female rapper to reach diamond ([Guinness World Records](https://www.guinnessworldrecords.com/world-records/649379-first-female-rapper-to-reach-riaa-diamond-status)) |
 | Billboard, 2015 | No. 7 on the 10 Greatest Rappers of All Time, the sole woman on the list ([SA Hip Hop Mag](https://sahiphopmag.co.za/2015/11/check-out-the-10-greatest-rappers-of-all-time-by-billboard/)) |
-| Billboard, 2025 | No. 3 on the 25 greatest female rappers list, behind Nicki Minaj and Missy Elliott ([Black Enterprise](https://www.blackenterprise.com/nicki-minaj-best-female-rapper-of-all-time/)) |
+| Billboard, 2025 | No. 3 on the 25 greatest female rappers list, behind Nicki Minaj and [Missy Elliott](/people/missy-elliott/) ([Black Enterprise](https://www.blackenterprise.com/nicki-minaj-best-female-rapper-of-all-time/)) |
 | Apple Music, 2024 | *Miseducation* ranked No. 1 on the 100 Best Albums list ([Apple](https://www.apple.com/newsroom/2024/05/apple-music-reveals-top-10-albums-of-all-time-on-100-best-list/)) |
 | Rock & Roll Hall of Fame | First-time nominee for the class of 2026 ([Rock & Roll Hall of Fame](https://rockhall.com/press-release/rock-roll-hall-of-fame-foundation-reveals-2026-performer-nominees-list/)) |
 

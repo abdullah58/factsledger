@@ -155,7 +155,7 @@ Satchu and Wiczyk, both Harvard Business School graduates, launched MRC, an inde
 | Before MRC | Finance and operating roles; built StorageNow and SMKT | Virtual Globetrotting (tier3) |
 | 2003 | Co-founded MRC with Modi Wiczyk | Screen Daily |
 | 2008–2011 | Raised a $350m credit facility; signed a 20-film Universal deal; sold House of Cards to Netflix | Screen Daily; TechCrunch |
-| 2018 | Co-CEO of Valence Media, owner of Billboard and The Hollywood Reporter | MediaPost |
+| 2018 | Co-CEO of Valence Media, owner of Billboard and The Hollywood Reporter | [MediaPost](/organizations/mediapost/) |
 | 2020 | Co-announced the PMRC joint venture with Penske Media | Pollstar |
 | 2022 | Split from Eldridge; MRC returned to a standalone studio | BusinessWire; TheWrap |
 

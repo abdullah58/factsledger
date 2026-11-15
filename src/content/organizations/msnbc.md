@@ -92,11 +92,11 @@ Despite the split, the "MS" in MSNBC lingered for decades as a reminder of the 1
 
 ## The Tucker Carlson chapter (2005–2008)
 
-One of the least-remembered episodes in MSNBC's history involves the man who would become Fox News's biggest star. [Tucker Carlson](/people/tucker-carlson/)'s early-evening show *Tucker* premiered on MSNBC in June 2005, after Carlson moved to the channel at the invitation of then-MSNBC president Rick Kaplan ([Reuters (Hollywood Reporter)](https://www.reuters.com/article/industry-msnbc-dc/carlson-replaced-at-msnbc-idUSN1147956320080311/)).
+One of the least-remembered episodes in MSNBC's history involves the man who would become [Fox News](/organizations/fox-news/)'s biggest star. [Tucker Carlson](/people/tucker-carlson/)'s early-evening show *Tucker* premiered on MSNBC in June 2005, after Carlson moved to the channel at the invitation of then-MSNBC president Rick Kaplan ([Reuters (Hollywood Reporter)](https://www.reuters.com/article/industry-msnbc-dc/carlson-replaced-at-msnbc-idUSN1147956320080311/)).
 
 The show never found its footing. In March 2008, MSNBC canceled it outright, with Reuters reporting that "Tucker never really found its footing in the ratings, either in late primetime or early evening" ([Reuters (Hollywood Reporter)](https://www.reuters.com/article/industry-msnbc-dc/carlson-replaced-at-msnbc-idUSN1147956320080311/)). The cancellation was announced that month; Carlson stayed on briefly as the network's senior campaign correspondent for the 2008 election. His 6 p.m. slot went to NBC News chief White House correspondent David Gregory and a new campaign-focused hour, *Race for the White House*, while the network also shuffled primetime — adding repeat runs of *Countdown with Keith Olbermann* and rebranding Dan Abrams's 9 p.m. show as *Verdict with Dan Abrams* ([Reuters (Hollywood Reporter)](https://www.reuters.com/article/industry-msnbc-dc/carlson-replaced-at-msnbc-idUSN1147956320080311/)).
 
-The timing is telling. Carlson's exit came as the network was committing to a new direction, and within a year of his departure, MSNBC was beating CNN in primetime ([TheWrap](http://www.thewrap.com/msnbc-edges-cnn-primetime-2169/)).
+The timing is telling. Carlson's exit came as the network was committing to a new direction, and within a year of his departure, MSNBC was beating [CNN](/organizations/cnn/) in primetime ([TheWrap](http://www.thewrap.com/msnbc-edges-cnn-primetime-2169/)).
 
 ## The left-leaning turn and the CNN ratings wars
 

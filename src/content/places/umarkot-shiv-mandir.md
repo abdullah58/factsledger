@@ -215,7 +215,7 @@ The proposal framed the stakes: Umarkot is described as the only Hindu-majority 
 [Kartarpur Corridor](/places/kartarpur-corridor/) — opened on November 9, 2019, for visa-free Sikh pilgrimage to Gurdwara Darbar Sahib
 Kartarpur — as the model ([IANS](https://www.illustrateddailynews.com/world/sindh-govt-proposes-kartarpur-like-religious-corridor-for-hindu-jain-pilgrims-551062)).
 Meanwhile, heritage advocates have called for stronger governmental protection of the temple itself, with some
-advocates urging UNESCO World Heritage inclusion ([Sindh Renaissance](https://sindhrenaissance.com/umerkot-shiv-temple%F0%9F%94%B1%F0%9F%9B%95-a-timeless-beacon-of-faith-in-sindh%F0%9F%87%B5%F0%9F%87%B0/)) — a notable aspiration given the temple's
+advocates urging [UNESCO](/organizations/unesco/) World Heritage inclusion ([Sindh Renaissance](https://sindhrenaissance.com/umerkot-shiv-temple%F0%9F%94%B1%F0%9F%9B%95-a-timeless-beacon-of-faith-in-sindh%F0%9F%87%B5%F0%9F%87%B0/)) — a notable aspiration given the temple's
 current "Not Protected" status.
 
 ## What this profile does not claim

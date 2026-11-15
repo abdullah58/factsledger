@@ -103,7 +103,7 @@ Whatley was 56 in September 2026, according to the Associated Press, which puts 
 
 Whatley began his career as legal counsel to U.S. Sen. Paul Coverdell of Georgia in 2000, then served as a principal deputy assistant secretary at the U.S. Department of Energy from 2001 to 2003 under President George W. Bush. ([Ballotpedia](https://ballotpedia.org/Michael_Whatley)) He spent roughly two decades in Washington, including work on the Bush campaign's 2000 Florida recount team, and later became an energy lobbyist: executive vice president of the Consumer Energy Alliance from 2007 to 2019 and a partner at HBW Resources from 2007 to 2022. ([The Assembly](https://www.theassemblync.com/news/politics/michael-whatley-nc-senate/), [Ballotpedia](https://ballotpedia.org/Michael_Whatley))
 
-## North Carolina Republican Party chair
+## North Carolina [Republican Party](/organizations/republican-party/) chair
 
 Party leadership elected Whatley chairman of the North Carolina Republican Party in June 2019, and he held the post until March 2024. ([Ballotpedia](https://ballotpedia.org/Michael_Whatley)) He was credited with helping deliver the state for Trump in 2020 and led the state party's election-integrity effort that year. ([The Assembly](https://www.theassemblync.com/news/politics/michael-whatley-nc-senate/))
 
