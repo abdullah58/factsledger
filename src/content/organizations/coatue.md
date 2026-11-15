@@ -43,6 +43,12 @@ timeline:
       Coatue reportedly raises $700 million for an early-stage venture fund
       and hires former Facebook partnerships chief Dan Rose to oversee it.
     sourceType: Trade funding report
+  - year: "2021"
+    event: >-
+      Coatue co-leads Blend Labs $300 million Series G with Tiger Global
+      in January; after Blends July IPO, Coatue holds 5.3% of its Class A
+      shares.
+    sourceType: Global Venturing (tier2)
   - year: "2025"
     event: >-
       Coatue launches the Coatue Innovation Fund (CTEK), a tender-offer fund
@@ -61,7 +67,9 @@ sourceNote: >-
   Information's reporting for the 2019 venture fund, Institutional Investor
   for the Anysphere Series D and the 2025 venture fund, BusinessWire for CTEK
   and the firm's scale, and the Motley Fool's 2026 holdings analysis for the
-  AI-era portfolio. Wikipedia served only as a lead index and is not cited.
+  AI-era portfolio. Global Venturing was added 2026-11-15 (coordinator) for the
+  Blend Series G co-lead and post-IPO holding. Wikipedia served only as a lead
+  index and is not cited.
 openItems:
   - 'Assets under management vary by source, date, and scope: the profile headlines the firm''s own May 2026 figure of more than $70 billion; 13F-based public-portfolio figures (about $48.6 billion at end of Q2 2026) cover public equities, not firm-wide AUM.'
   - 'The 2019 $700 million venture fund and the Dan Rose hire rest on a trade report of The Information''s reporting and are flagged as reported, not independently confirmed.'
@@ -98,9 +106,15 @@ sources:
     tier: tier2
     date: "2026-08-21"
     usedFor: Roughly $48.6 billion AUM at end of Q2 2026; nearly 23% of capital in three AI stocks (TSMC 8.8%, Micron 7.5%, SpaceX 6.5%); SpaceX position disclosed at close to $3.2 billion, exposure reportedly gained in later private rounds (per CNBC); Tiger Cubs background
+  - title: "Blend Labs lands on NYSE in $360m IPO"
+    url: https://globalventuring.com/corporate/blend-labs-lands-on-nyse-in-360m-ipo/
+    publisher: Global Venturing
+    tier: tier2
+    date: "2021-07-19"
+    usedFor: Coatue and Tiger Global co-led Blend's $300 million Series G (January 2021); each held 5.3% of Blend's Class A shares after the July 2021 IPO; Series E/F context
 author: Muhammad Abdullah Al Yasin
 published: '2026-11-04'
-lastUpdated: '2026-11-04'
+lastUpdated: "2026-11-15"
 draft: false
 ---
 
@@ -113,6 +127,10 @@ Coatue, formally Coatue Management, is the American technology-focused investmen
 Laffont did not start as a stock picker by training. He left France to earn a computer science degree from the Massachusetts Institute of Technology in 1989, worked as a management consultant in Madrid, and then joined Tiger Management as an analyst covering European telecommunications stocks ([Pulse2](https://pulse2.com/coatue-management-raises-700-million-dan-rose/)). After three years at Tiger he raised $45 million in 1999 and launched Coatue, named for a beach off the coast of Nantucket, joining the ranks of Robertson's former employees known as "Tiger Cubs" ([Pulse2](https://pulse2.com/coatue-management-raises-700-million-dan-rose/); [The Motley Fool](https://www.fool.com/investing/how-to-invest/famous-investors/philippe-laffont/)). The timing was brutal: the Nasdaq crashed in the dot-com bust shortly after the first fund launched, but Laffont navigated it by going long on the most stable technology companies and short on companies struggling to compete against internet businesses ([Pulse2](https://pulse2.com/coatue-management-raises-700-million-dan-rose/)). He then hired his brother Thomas — working at the time as an agent for Hollywood actors — and their father briefly served as the firm's chief financial officer ([Pulse2](https://pulse2.com/coatue-management-raises-700-million-dan-rose/)).
 
 Coatue survived the dot-com bust and the 2008–2009 financial crisis, the two events that define its early resilience ([The Motley Fool](https://www.fool.com/investing/how-to-invest/famous-investors/philippe-laffont/)). In the crisis year of 2008 the brothers were managing $2.2 billion, the fund lost more than 14%, and they responded by adding 11 analysts and 4 partners, recovering and raising more money the following year ([Pulse2](https://pulse2.com/coatue-management-raises-700-million-dan-rose/)). The decisive structural shift came in 2012, when Thomas Laffont began overseeing Coatue's Silicon Valley office, opening the door to early-stage investing in companies such as Box, which Coatue backed at a $1.2 billion valuation ([Pulse2](https://pulse2.com/coatue-management-raises-700-million-dan-rose/)). From there the firm built out the private side of what became a lifecycle model: late-stage wins in Grab, Lyft, Snap, and Uber, plus investments in DoorDash, Lime, and Instacart, and pre-IPO positions in ByteDance, Snap, Instacart, Lyft, and Spotify ([Pulse2](https://pulse2.com/coatue-management-raises-700-million-dan-rose/); [The Motley Fool](https://www.fool.com/investing/how-to-invest/famous-investors/philippe-laffont/)). In 2019 the firm reportedly raised $700 million for a dedicated early-stage venture fund and hired Dan Rose, Facebook's former vice president of partnerships, to oversee it, with early bets on AppZen, Persona, and Sigma ([Pulse2](https://pulse2.com/coatue-management-raises-700-million-dan-rose/)). By then Coatue managed $17 billion, spent over $30 million a year buying data for its algorithms, and counted engineers as about half of its investment team ([Pulse2](https://pulse2.com/coatue-management-raises-700-million-dan-rose/)).
+
+## The Blend Series G — co-lead with Tiger Global
+
+In January 2021 Coatue co-led a $300 million Series G round for [Blend](/organizations/blend/), the mortgage-software company, alongside [Tiger Global](/organizations/tiger-global/), nearly doubling Blend's valuation to $3.3 billion in five months ([Global Venturing](https://globalventuring.com/corporate/blend-labs-lands-on-nyse-in-360m-ipo/)). When Blend listed on the New York Stock Exchange that July, raising $360 million, Coatue and Tiger Global each held 5.3% of its Class A shares ([Global Venturing](https://globalventuring.com/corporate/blend-labs-lands-on-nyse-in-360m-ipo/)). The deal was a late-stage private bet on financial infrastructure, made at the peak of the pandemic lending boom — the same boom whose end, a year later, cut Blend's refinancing-driven title business.
 
 ## The AI-era portfolio and the retail-access experiment
 

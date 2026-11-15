@@ -26,6 +26,9 @@ timeline:
     event: "Raises $1.8 billion across two funds, with $1.05 billion earmarked for growth-stage investing, more than double the prior growth fund"
     sourceType: "Reuters (tier1)"
   - year: "2021"
+    event: "An early backer of Blend Labs, Lightspeed holds 12.1% of the mortgage-software company's Class A shares after its July IPO"
+    sourceType: "Global Venturing (tier2)"
+  - year: "2021"
     event: "Leads Alloy's $100 million Series C at a $1.35 billion valuation, via partner Justin Overdorff"
     sourceType: "Finovate (tier2)"
   - year: "2022"
@@ -35,8 +38,9 @@ timeline:
     event: "Leads Anthropic's $3.5 billion Series E in March and later co-leads its $13 billion Series F at a $183 billion valuation in September"
     sourceType: "Reuters (tier1)"
 sourceNote: >-
-  Five independent sources were fetched and read in full: TechCrunch, Reuters
-  (via two republications, both labelled), Crunchbase News, and Finovate. No
+  Six independent sources were fetched and read in full: TechCrunch, Reuters
+  (via two republications, both labelled), Crunchbase News, Finovate, and
+  Global Venturing (added 2026-11-15, coordinator, for the Blend holding). No
   first-party material was used. The founding year 2000 is widely reported
   but is not printed in any fully-read source in this pass, so this profile
   says "early 2000s" and flags the point.
@@ -82,8 +86,15 @@ sources:
     date: "2021-09-30"
     usedFor: "Alloy's $100M Series C at $1.35B led by Lightspeed's Justin Overdorff, with Canapi, Bessemer, Avid, Felicis participating"
     sourceNote: "Independent fintech publication"
+  - title: "Blend Labs lands on NYSE in $360m IPO"
+    url: https://globalventuring.com/corporate/blend-labs-lands-on-nyse-in-360m-ipo/
+    publisher: "Global Venturing"
+    tier: tier2
+    date: "2021-07-19"
+    usedFor: "Lightspeed among Blend's pre-2019 funders and a Series E participant; held 12.1% of Blend's Class A shares post-offering; Series E/F/G context"
+    sourceNote: "Independent venture journalism"
 published: "2026-11-01"
-lastUpdated: "2026-11-01"
+lastUpdated: "2026-11-15"
 draft: false
 ---
 
@@ -103,7 +114,7 @@ The defining early bet was Snap. Lightspeed was the first outside investor in Sn
 
 In July 2022, Lightspeed raised three US funds totaling $6.6 billion plus a $500 million India early-stage fund, bringing its total committed capital to $18 billion ([Crunchbase News](https://news.crunchbase.com/venture/lightspeed-venture-partners-new-fund/)). By then the firm had invested in more than 500 companies across enterprise, consumer, fintech, and health, with around a quarter gone public or acquired and 33 companies through IPOs; notable exits included Snap, Affirm, MuleSoft, and GrubHub ([Crunchbase News](https://news.crunchbase.com/venture/lightspeed-venture-partners-new-fund/)). Alongside the funds it formed Lightspeed Faction, a team dedicated to crypto and blockchain investments ([Crunchbase News](https://news.crunchbase.com/venture/lightspeed-venture-partners-new-fund/)). The raise landed in a funding slowdown, in sharp contrast to the record venture dollars of 2021 — yet, as Crunchbase News noted, investment firms had not slowed their pace of closing new funds even as startup funding cooled ([Crunchbase News](https://news.crunchbase.com/venture/lightspeed-venture-partners-new-fund/)).
 
-The fintech thread runs through [Alloy](/organizations/alloy/): in September 2021 Lightspeed's Justin Overdorff led Alloy's $100 million Series C at a $1.35 billion valuation, with [Canapi Ventures](/organizations/canapi-ventures/), [Bessemer Venture Partners](/organizations/bessemer-venture-partners/), Avid Ventures, and Felicis Ventures participating ([Finovate](https://finovate.com/alloy-earns-1-35-billion-valuation-after-securing-series-c-investment/)). The firm's latest chapter is AI scale: Reuters reported that Lightspeed led Anthropic's $3.5 billion Series E round in March 2025 and later co-led its $13 billion Series F at a $183 billion valuation in September 2025 ([Reuters](https://www.lapost.com/content/from-amazon-to-google-the-deep-pocketed-investors-in-anthropic)).
+The fintech thread runs through [Alloy](/organizations/alloy/): in September 2021 Lightspeed's Justin Overdorff led Alloy's $100 million Series C at a $1.35 billion valuation, with [Canapi Ventures](/organizations/canapi-ventures/), [Bessemer Venture Partners](/organizations/bessemer-venture-partners/), Avid Ventures, and Felicis Ventures participating ([Finovate](https://finovate.com/alloy-earns-1-35-billion-valuation-after-securing-series-c-investment/)). The firm was also an early backer of mortgage-software company [Blend](/organizations/blend/): it was among Blend's pre-2019 funders, participated in Blend's $130 million Series E in June 2019, and held 12.1% of Blend's Class A shares after Blend's July 2021 listing ([Global Venturing](https://globalventuring.com/corporate/blend-labs-lands-on-nyse-in-360m-ipo/)). The firm's latest chapter is AI scale: Reuters reported that Lightspeed led Anthropic's $3.5 billion Series E round in March 2025 and later co-led its $13 billion Series F at a $183 billion valuation in September 2025 ([Reuters](https://www.lapost.com/content/from-amazon-to-google-the-deep-pocketed-investors-in-anthropic)).
 
 ## What this profile does not claim
 
