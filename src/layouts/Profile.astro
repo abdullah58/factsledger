@@ -6,6 +6,7 @@ import AiSummary from '../components/AiSummary.astro';
 import { SITE, CATEGORY_BY_SLUG } from '../site.config.js';
 import fs from 'node:fs';
 import path from 'node:path';
+import { buildEntitySchema } from '../lib/entity-schema.js';
 
 const { entry, category } = Astro.props;
 const d = entry.data;
@@ -13,19 +14,6 @@ const cat = CATEGORY_BY_SLUG[category];
 
 const fmt = (date: Date) =>
   new Intl.DateTimeFormat('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(date);
-
-const SCHEMA_TYPE: Record<string, string> = {
-  School: 'School',
-  University: 'CollegeOrUniversity',
-  College: 'CollegeOrUniversity',
-  Person: 'Person',
-  Organization: 'Organization',
-  TrainStation: 'TrainStation',
-  ReligiousSite: 'PlaceOfWorship',
-  Hospital: 'Hospital',
-  Place: 'Place',
-  Species: 'Taxon',
-};
 
 const pageUrl = new URL(Astro.url.pathname, Astro.site ?? SITE.url).href;
 
@@ -40,20 +28,7 @@ const heroImage: string | undefined =
   d.image ?? (fs.existsSync(heroFile) ? new URL(`/img/heroes/${category}/${entry.id}.jpg`, SITE.url).href : undefined);
 
 // Only evidenced fields go into structured data.
-const entityLd: Record<string, unknown> = {
-  '@type': SCHEMA_TYPE[d.entityType] ?? 'Thing',
-  name: d.title,
-  description: d.summary,
-  url: pageUrl,
-};
-// A postal address doesn't apply to a biological taxon's native range.
-if ((d.location || d.country) && d.entityType !== 'Species') {
-  entityLd.address = { '@type': 'PostalAddress', addressLocality: d.location, addressCountry: d.country };
-}
-if (d.established && d.entityType !== 'Species') entityLd.foundingDate = d.established;
-if (heroImage) entityLd.image = heroImage;
-const officialSite = d.sources.find((s: any) => s.tier === 'first-party');
-if (officialSite) entityLd.sameAs = [officialSite.url];
+const entityLd = buildEntitySchema(d, pageUrl, heroImage);
 
 const jsonLd = {
   '@context': 'https://schema.org',

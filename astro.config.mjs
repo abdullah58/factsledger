@@ -5,6 +5,7 @@ import { SITE } from './src/site.config.js';
 import { readdirSync, readFileSync } from 'node:fs';
 import { join, relative, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { extractLastmod } from './src/lib/sitemap-dates.js';
 
 /**
  * Build a pathname -> lastmod (YYYY-MM-DD) map from content frontmatter.
@@ -23,10 +24,8 @@ function buildLastmodMap() {
       const rel = relative(contentDir, full).slice(0, -3).split(sep).join('/');
       let text;
       try { text = readFileSync(full, 'utf8'); } catch { continue; }
-      const head = text.split('---')[1] ?? '';
-      const m = head.match(/^lastUpdated:\s*["']?(\d{4}-\d{2}-\d{2})["']?/m)
-        || head.match(/^published:\s*["']?(\d{4}-\d{2}-\d{2})["']?/m);
-      if (m) map.set(`/${rel}/`, m[1]);
+      const lastmod = extractLastmod(text);
+      if (lastmod) map.set(`/${rel}/`, lastmod);
     }
   };
   try { walk(contentDir); } catch { /* content dir missing -> no lastmod */ }

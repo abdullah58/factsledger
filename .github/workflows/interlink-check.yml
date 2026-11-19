@@ -1,4 +1,4 @@
-name: Interlink audit
+name: Content and generated SEO audit
 
 on:
   push:
@@ -20,5 +20,28 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install locked dependencies
+        run: npm ci --no-audit --no-fund
+
+      - name: Run schema regression tests
+        run: npm run test:unit
+
+      - name: Run interlink regression tests
+        run: npm run test:interlinks
+
       - name: Audit internal links
         run: npm run check:interlinks
+
+      - name: Build static pages without downloading optional hero images
+        run: npm run build:site
+        env:
+          ASTRO_TELEMETRY_DISABLED: '1'
+
+      - name: Audit generated HTML and sitemap
+        run: npm run check:seo

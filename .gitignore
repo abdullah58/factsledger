@@ -4,6 +4,7 @@ dist/
 .wrangler/
 .DS_Store
 *.log
+__pycache__/
 .env
 .env.*
 # Hero thumbnails are downloaded at build time (scripts/fetch-hero-images.mjs),
