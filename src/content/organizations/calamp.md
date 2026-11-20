@@ -32,12 +32,6 @@ timeline:
     event: "CalAmp's shares are officially delisted from Nasdaq after closing at $0.40 the prior day."
   - year: "2024-07-11"
     event: "The bankruptcy court confirms the restructuring plan; CalAmp emerges as a private company owned by Lynrock Lake."
-related:
-  - label: "U.S. Securities and Exchange Commission"
-    href: /organizations/us-securities-and-exchange-commission/
-  - label: "Nasdaq, Inc."
-    href: /organizations/nasdaq/
-
 sources:
   - title: "Form 8-K — CalAmp Corp. (Restructuring Support Agreement and Chapter 11 Filing)"
     url: "https://www.sec.gov/Archives/edgar/data/730255/000095017024067683/camp-20240522.htm"
@@ -74,15 +68,15 @@ lastUpdated: "2026-10-04"
 
 ## Overview
 
-CalAmp is an American telematics company based in Irvine, California, that spent decades as a major player in fleet tracking and vehicle-location technology before a 2024 balance-sheet crisis ended its run as a public company ([Location Business News](https://locationbusinessnews.com/telematics-company-calamp-declares-bankruptcy-goes-private); [SEC](https://www.sec.gov/Archives/edgar/data/730255/000095017024067683/camp-20240522.htm)).
+CalAmp is an American telematics company based in [Irvine](/places/irvine/), [California](/places/california/), that spent decades as a major player in fleet tracking and vehicle-location technology before a 2024 balance-sheet crisis ended its run as a public company ([Location Business News](https://locationbusinessnews.com/telematics-company-calamp-declares-bankruptcy-goes-private); [SEC](https://www.sec.gov/Archives/edgar/data/730255/000095017024067683/camp-20240522.htm)).
 
-CalAmp's Chapter 11 was not a liquidation but a surgical restructuring: on May 31, 2024, the company signed a Restructuring Support Agreement with its principal secured lender, Lynrock Lake Master Fund LP, to convert approximately $229 million of Convertible Senior Secured Notes into equity and take the company private, with allowed unsecured claims to be paid in full in cash ([SEC](https://www.sec.gov/Archives/edgar/data/730255/000095017024067683/camp-20240522.htm)).
+CalAmp's Chapter 11 was not a liquidation but a surgical restructuring: on May 31, 2024, the company signed a Restructuring Support Agreement with its principal secured lender, [Lynrock Lake Master Fund LP](/organizations/lynrock-lake-master-fund/), to convert approximately $229 million of Convertible Senior Secured Notes into equity and take the company private, with allowed unsecured claims to be paid in full in cash ([SEC](https://www.sec.gov/Archives/edgar/data/730255/000095017024067683/camp-20240522.htm)).
 
 ## The 60-day bankruptcy
 
-On June 3, 2024, CalAmp and its subsidiaries — CalAmp Wireless Networks Corporation, LoJack Global LLC, and Synovia Solutions LLC — filed voluntary Chapter 11 petitions in the U.S. Bankruptcy Court for the District of Delaware to execute the prepackaged plan, continuing to operate as debtors in possession ([SEC](https://www.sec.gov/Archives/edgar/data/730255/000095017024067683/camp-20240522.htm)). At filing, the company estimated assets of about $281.2 million against liabilities of about $355.4 million ([Location Business News](https://locationbusinessnews.com/telematics-company-calamp-declares-bankruptcy-goes-private)).
+On June 3, 2024, CalAmp and its subsidiaries — CalAmp Wireless Networks Corporation, [LoJack Global LLC](/organizations/lojack/), and [Synovia Solutions LLC](/organizations/synovia-solutions/) — filed voluntary Chapter 11 petitions in the [U.S. Bankruptcy Court for the District of Delaware](/organizations/us-bankruptcy-court-district-of-delaware/) to execute the prepackaged plan, continuing to operate as debtors in possession ([SEC](https://www.sec.gov/Archives/edgar/data/730255/000095017024067683/camp-20240522.htm)). At filing, the company estimated assets of about $281.2 million against liabilities of about $355.4 million ([Location Business News](https://locationbusinessnews.com/telematics-company-calamp-declares-bankruptcy-goes-private)).
 
-The market had already rendered its verdict: shares had fallen 54% in 2024, closed at $0.40 on June 11, and were officially delisted from Nasdaq on June 12 — a long fall from a reported high of $987.56 per share in July 2000 ([Location Business News](https://locationbusinessnews.com/telematics-company-calamp-declares-bankruptcy-goes-private)). The restructuring plan contemplated the cancellation of all existing equity interests, and the SEC filing warned shareholders they could face a complete loss ([SEC](https://www.sec.gov/Archives/edgar/data/730255/000095017024067683/camp-20240522.htm); [Nasdaq](https://www.nasdaq.com/articles/calamps-restructuring-journey-debt-bankruptcy-and-future)).
+The market had already rendered its verdict: shares had fallen 54% in 2024, closed at $0.40 on June 11, and were officially delisted from [Nasdaq](/organizations/nasdaq/) on June 12 — a long fall from a reported high of $987.56 per share in July 2000 ([Location Business News](https://locationbusinessnews.com/telematics-company-calamp-declares-bankruptcy-goes-private)). The restructuring plan contemplated the cancellation of all existing equity interests, and the [SEC](/organizations/us-securities-and-exchange-commission/) filing warned shareholders they could face a complete loss ([SEC](https://www.sec.gov/Archives/edgar/data/730255/000095017024067683/camp-20240522.htm); [Nasdaq](https://www.nasdaq.com/articles/calamps-restructuring-journey-debt-bankruptcy-and-future)).
 
 The court confirmed the plan on July 11, 2024 — completing the restructuring in under 60 days. Lynrock Lake Master Fund took 100% ownership of the reorganized private company, and prior shareholders were wiped out ([ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/ueberblick/calamp-s-rebirth-a-private-company-emerges-from-restructuring/68573728)).
 
