@@ -25,7 +25,7 @@ facts:
   - label: 2024 revenue
     value: "$2.81 billion; net income $21 million"
   - label: 2025 revenue
-    value: "$3.5 billion; net loss $273 million"
+    value: "$3.5 billion; consolidated net loss $273 million ($294 million attributable to shareholders)"
   - label: Active consumers
     value: "118 million (Q4 2025)"
   - label: Merchants
@@ -62,7 +62,7 @@ timeline:
     event: "Klarna lists on the New York Stock Exchange under the ticker KLAR at $40 a share, raising about $1.37 billion in the largest US IPO of 2025."
     sourceType: National newspaper
   - year: "2026-02-19"
-    event: "Klarna reports full-year 2025 revenue of $3.5 billion but a $273 million net loss; shares fall 26% on the results."
+    event: "Klarna reports full-year 2025 revenue of $3.5 billion but a $273 million consolidated net loss ($294 million attributable to shareholders); shares fall 26% on the results."
     sourceType: Financial press
 sources:
   - title: "Klarna IPO surges 30% in NYSE debut, raises $1.37 billion"
@@ -112,7 +112,13 @@ sources:
     publisher: "Sharecast"
     tier: "tier2"
     date: "2026-02-19"
-    usedFor: "Full-year 2025 revenue $3.5 billion and net loss $273 million, Q4 first billion-dollar quarter, 118 million active consumers, 966,000 merchants, 26% share fall and ~70% drop since IPO"
+    usedFor: "Full-year 2025 revenue $3.5 billion and consolidated net loss $273 million, Q4 first billion-dollar quarter, 118 million active consumers, 966,000 merchants, 26% share fall and ~70% drop since IPO"
+  - title: "Klarna Group (KLAR) Financials"
+    url: "https://www.marketbeat.com/stocks/NYSE/KLAR/financials/"
+    publisher: "MarketBeat (from Klarna's SEC filings)"
+    tier: "tier2"
+    date: "2026-02-26"
+    usedFor: "Full-year 2025 net loss split in Klarna's annual filing: consolidated net loss $273 million, net loss attributable to common shareholders $294 million, $21 million attributable to noncontrolling interests"
   - title: "Klarna takes payment from DST"
     url: "https://globalventuring.com/blog/2011/12/09/klarna-takes-payment-from-dst/"
     publisher: "Global Venturing"
@@ -135,7 +141,7 @@ sourceNote: >-
   corroborated by PitchBook.
 openItems:
   - "First-day close: the Associated Press reports $45.82 (+14.6%); Crunchbase News reports $46.40. This profile uses the AP figure."
-  - "Full-year 2025 net loss: $273 million is the consolidated net loss reported by Sharecast from the annual filing; other outlets report $294 million as the net loss attributable to common shareholders (EPS -$0.79). The two figures are different line items, not a correction."
+  - "Full-year 2025 net loss has two correct figures for two different line items: $273 million consolidated (Sharecast, from the annual filing) and $294 million attributable to common shareholders (EPS -$0.79, per Klarna's results release and the filing data). This profile states both, labelled; neither replaces the other."
   - "2021 peak valuation: $45.6 billion per Crunchbase News; PitchBook rounds it to $46 billion. This profile uses $45.6 billion."
   - "Down-round month: contemporaneous reports date the $800 million / $6.7 billion round to July 2022; PitchBook's pre-IPO piece says October 2022, which appears to be an error."
   - "SOFORT acquisition year: TechCrunch's contemporaneous report is December 2013; some later histories date it to 2014."
@@ -151,7 +157,7 @@ draft: false
 
 Klarna Group plc is a Swedish financial-technology company that pioneered buy now, pay later (BNPL) payments: shoppers receive goods before paying, while Klarna takes on the credit and fraud risk for the merchant ([Global Venturing](https://globalventuring.com/blog/2011/12/09/klarna-takes-payment-from-dst/)). Founded in Stockholm in 2005 by three economics students — Sebastian Siemiatkowski, Niklas Adalberth and Victor Jacobsson — as Kreditor, renamed Klarna in 2009, it grew from a Nordic invoicing service into a licensed Swedish bank operating in 26 markets, and on September 10, 2025 it listed on the New York Stock Exchange under the ticker KLAR at $40 a share, raising about $1.37 billion in the largest US IPO of 2025 ([TechCrunch](https://techcrunch.com/2011/12/08/klarna-155-millio/); [Global Venturing](https://globalventuring.com/blog/2011/12/09/klarna-takes-payment-from-dst/); [Associated Press](https://virginiabusiness.com/klarna-ipo-nyse-debut-2025/)).
 
-The scale of the business is the core of the Klarna story: by the fourth quarter of 2025 it served 118 million active consumers and 966,000 merchants, processed $127.9 billion of gross merchandise volume in the year, and reported revenue of $3.5 billion — but also a net loss of $273 million, after its first full-year profit of $21 million in 2024 ([Sharecast](https://www.investments.lloydsbank.com/markets-and-commentary/market-news/article/?id=21764108&type=bsm); [PitchBook](https://pitchbook.com/news/articles/whats-behind-klarnas-14b-ipo-valuation)). That swing — rapid growth, thin profitability, and a share price down almost 70% from its IPO within five months — is the tension running through the company's two decades.
+The scale of the business is the core of the Klarna story: by the fourth quarter of 2025 it served 118 million active consumers and 966,000 merchants, processed $127.9 billion of gross merchandise volume in the year, and reported revenue of $3.5 billion — but also a consolidated net loss of $273 million ($294 million attributable to shareholders), after its first full-year profit of $21 million in 2024 ([Sharecast](https://www.investments.lloydsbank.com/markets-and-commentary/market-news/article/?id=21764108&type=bsm); [PitchBook](https://pitchbook.com/news/articles/whats-behind-klarnas-14b-ipo-valuation)). That swing — rapid growth, thin profitability, and a share price down almost 70% from its IPO within five months — is the tension running through the company's two decades.
 
 ## From Kreditor to a European payments network
 
@@ -169,7 +175,7 @@ The road back ran through the United States. In March 2025 Klarna filed its F-1 
 
 Klarna was also one of the loudest corporate champions of AI-driven cost-cutting: it built an assistant powered by OpenAI in 2023 and pursued an aggressive AI-first workforce-reduction strategy, then had to reverse course in 2025 when customer-service quality suffered ([PitchBook](https://pitchbook.com/news/articles/whats-behind-klarnas-14b-ipo-valuation)). The financials behind the IPO told a similar story of progress with a thin margin for error. In 2024 Klarna reported its first full-year profit since 2019 — $21 million of net income on $2.81 billion of revenue and $105 billion of gross merchandise volume — but the profit rested on a $181 million adjusted operating figure that excluded one-time charges and non-cash items ([PitchBook](https://pitchbook.com/news/articles/whats-behind-klarnas-14b-ipo-valuation)).
 
-The first results as a public company undid that narrative. For full-year 2025 Klarna reported revenue of $3.5 billion, up 25%, and gross merchandise volume of $127.9 billion, up 22%, but swung to a net loss of $273 million from the $21 million profit a year earlier; the fourth quarter was its first billion-dollar revenue quarter at $1.1 billion, yet still produced a $26 million net loss ([Sharecast](https://www.investments.lloydsbank.com/markets-and-commentary/market-news/article/?id=21764108&type=bsm)). Shares fell 26% on the results, taking the drop since the September IPO to almost 70%, as investors weighed rising credit losses and heavier regulation against a consumer base that kept growing — 118 million active consumers, up 28%, and 966,000 merchants, up 42% ([Sharecast](https://www.investments.lloydsbank.com/markets-and-commentary/market-news/article/?id=21764108&type=bsm)).
+The first results as a public company undid that narrative. For full-year 2025 Klarna reported revenue of $3.5 billion, up 25%, and gross merchandise volume of $127.9 billion, up 22%, but swung to a consolidated net loss of $273 million from the $21 million profit a year earlier — $294 million attributable to common shareholders, a loss of $0.79 per share, the difference being the share of the loss attributable to noncontrolling interests ([Sharecast](https://www.investments.lloydsbank.com/markets-and-commentary/market-news/article/?id=21764108&type=bsm); [MarketBeat](https://www.marketbeat.com/stocks/NYSE/KLAR/financials/)). The fourth quarter was its first billion-dollar revenue quarter at $1.1 billion, yet still produced a $26 million net loss ([Sharecast](https://www.investments.lloydsbank.com/markets-and-commentary/market-news/article/?id=21764108&type=bsm)). Shares fell 26% on the results, taking the drop since the September IPO to almost 70%, as investors weighed rising credit losses and heavier regulation against a consumer base that kept growing — 118 million active consumers, up 28%, and 966,000 merchants, up 42% ([Sharecast](https://www.investments.lloydsbank.com/markets-and-commentary/market-news/article/?id=21764108&type=bsm)).
 
 ## What this profile does not claim
 
