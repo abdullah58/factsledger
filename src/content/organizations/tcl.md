@@ -194,7 +194,7 @@ In August 2025, Cerence — the automotive voice-AI company — filed complaints
 
 **What does TCL stand for?** The letters originally stood for Telephone Communication Limited; the company now also markets the name as "The Creative Life" ([SlashGear](https://www.slashgear.com/1788802/tcl-tvs-who-owns-where-made/)).
 
-**Is TCL a Chinese company?** Yes. TCL Technology Group Corp. is headquartered in Huizhou, Guangdong province, China, and is partly state-owned; its consumer arm, TCL Electronics, is listed in Hong Kong ([EDN](https://www.edn.com/branded-in-china/); [Caixin Global](https://www.caixinglobal.com/2020-01-14/chinese-electronics-giant-tcl-to-rename-itself-tcl-tech-focus-on-display-panels-101503704.html)).
+**Is TCL a Chinese company?** Yes. TCL Technology Group Corp. is headquartered in Huizhou, Guangdong province, China, and is partly state-owned; its consumer arm, TCL Electronics, is listed in [Hong Kong](/places/hong-kong/) ([EDN](https://www.edn.com/branded-in-china/); [Caixin Global](https://www.caixinglobal.com/2020-01-14/chinese-electronics-giant-tcl-to-rename-itself-tcl-tech-focus-on-display-panels-101503704.html)).
 
 **Who makes TCL TVs?** TCL Electronics, the consumer arm of the wider TCL group, designs and sells them; it shipped a record 29 million TVs in 2024, making TCL one of the world's top two TV brands ([TCL Electronics Holdings Limited (HKEX filing)](https://cdn.financialreports.eu/financialreports/media/filings/50591/2025/RNS/50591_rns_2025-04-28_059ca1ff-e177-4cc7-9f00-86446ac36e1a.pdf)).
 

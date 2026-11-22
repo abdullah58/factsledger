@@ -150,7 +150,7 @@ The third-generation chip, the WSE-3, unveiled on March 13, 2024, is the current
 | On-chip memory | 44 GB (880x more) | — |
 | Memory bandwidth | 7,000x more | — |
 
-The comparison figures come from Cerebras's own filing as reported by the Motley Fool, so they are the company's claims rather than independent benchmarks — but they explain why investors treat the firm as the most credible challenger to Nvidia's grip on AI computing ([Nasdaq](https://www.nasdaq.com/articles/company-nvidia-killer-what-know-about-cerebras-ipo)).
+The comparison figures come from Cerebras's own filing as reported by [the Motley Fool](/organizations/motley-fool/), so they are the company's claims rather than independent benchmarks — but they explain why investors treat the firm as the most credible challenger to Nvidia's grip on AI computing ([Nasdaq](https://www.nasdaq.com/articles/company-nvidia-killer-what-know-about-cerebras-ipo)).
 
 ## G42, Condor Galaxy, and the concentration problem
 

@@ -213,7 +213,7 @@ Six years later the relationship moved to large language models: on 5 January 20
 
 ## Frequently asked questions
 
-**Who owns Geely?** Geely is privately held by its founder, Li Shufu, who started the business in 1986 and remains its chairman ([IMD](https://www.imd.org/ibyimd/innovation/geely-the-ever-evolving-business/); [Zhejiang Geely Holding Group](https://mb.cision.com/Main/23620/4198481/3565062.pdf)). The listed carmaker, Geely Automobile Holdings, trades in Hong Kong, but the holding group itself is private.
+**Who owns Geely?** Geely is privately held by its founder, Li Shufu, who started the business in 1986 and remains its chairman ([IMD](https://www.imd.org/ibyimd/innovation/geely-the-ever-evolving-business/); [Zhejiang Geely Holding Group](https://mb.cision.com/Main/23620/4198481/3565062.pdf)). The listed carmaker, Geely Automobile Holdings, trades in [Hong Kong](/places/hong-kong/), but the holding group itself is private.
 
 **Does Geely own Volvo?** Yes. Geely bought 100% of Volvo Car Corporation from Ford in August 2010 for $1.8 billion, and Volvo kept its Swedish headquarters and management autonomy ([Fleet News](https://www.fleetnews.co.uk/news/2010/8/3/zhejiang-geely-completes-acquisition-of-volvo-cars/37302/)).
 

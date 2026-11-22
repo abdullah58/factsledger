@@ -294,7 +294,7 @@ No. Flexport is privately held and has not announced an IPO in any source read f
 
 ## What this profile does not claim
 
-- This profile does not state a 2018 revenue figure: a Forbes copy reports $471 million while TechCrunch's 2019 reporting attributes $441 million to Forbes, and Forbes itself was not readable here.
+- This profile does not state a 2018 revenue figure: a [Forbes](/organizations/forbes/) copy reports $471 million while TechCrunch's 2019 reporting attributes $441 million to Forbes, and Forbes itself was not readable here.
 - It does not state a current valuation. Secondary estimates of around $3.8 billion circulate in analyst dossiers that were not read in full; only the last published valuation ($8 billion, February 2022) is stated.
 - It does not present the January 2024 layoffs as confirmed: they were reported as planned by The Information, and Flexport declined to comment. The confirmed cuts are January 2023 (~700 people) and October 2023 (~600 people).
 - It does not settle whether Dave Clark resigned or was fired: Clark said the departure was mutual; FreightWaves' sources said the board voted to fire him. Both framings are given.

@@ -142,7 +142,7 @@ General Augusto Pinochet led a 1973 military coup that deposed the democraticall
 As of 2024, Chile was the world's largest producer of copper and its second-largest producer of lithium, according to the United States Geological Survey. Living standards rose sharply between 1990 and 2022, with real GDP per capita up 154% and poverty falling from 68.5% to 6.5%, though growth averaged only 1.8% a year in 2022–2024.
 
 **What is Rapa Nui National Park?**
-Rapa Nui National Park covers almost half of Easter Island, about 3,700 kilometres off continental Chile. It has been a UNESCO World Heritage Site since 1995, the first in Chile, and holds the island's most important archaeological sites, including the Rano Raraku quarry where many moai were carved and the Orongo ceremonial village.
+Rapa Nui National Park covers almost half of Easter Island, about 3,700 kilometres off continental Chile. It has been a [UNESCO](/organizations/unesco/) World Heritage Site since 1995, the first in Chile, and holds the island's most important archaeological sites, including the Rano Raraku quarry where many moai were carved and the Orongo ceremonial village.
 
 **How is Chile's population changing?**
 Chile's population is ageing and its households are shrinking. The share aged 65 or over rose from 6.6% in 1992 to 14% in 2024, while the share aged 14 or under fell from 29.4% to 17.7%. Average household size fell from four persons in 1992 to 2.8 in 2024, with single-person households reaching 21.8%.

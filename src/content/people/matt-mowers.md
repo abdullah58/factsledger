@@ -134,7 +134,7 @@ When Christie's presidential bid collapsed — he dropped out one day after fini
 
 ## The State Department years
 
-Mowers served in the Trump administration first as the White House liaison to the U.S. Department of State, and then as a senior White House advisor and as chief of staff and chief policy officer in the Office of the Global AIDS Coordinator and Special Representative for Global Health Diplomacy. It is the least-discussed stretch of his résumé — most coverage introduces him only as a "former Trump State Department official" — but it was a substantive policy post, not a political appointment's parking spot. ([New Jersey Globe](https://newjerseyglobe.com/congress/mowers-loses-new-hampshire-congressional-bid/); [New Jersey Globe](https://newjerseyglobe.com/congress/new-jerseyan-matt-mowers-is-top-fundraiser-in-bid-for-new-hampshire-congressional-seat/))
+Mowers served in the Trump administration first as [the White House](/organizations/the-white-house/) liaison to the U.S. Department of State, and then as a senior White House advisor and as chief of staff and chief policy officer in the Office of the Global AIDS Coordinator and Special Representative for Global Health Diplomacy. It is the least-discussed stretch of his résumé — most coverage introduces him only as a "former Trump State Department official" — but it was a substantive policy post, not a political appointment's parking spot. ([New Jersey Globe](https://newjerseyglobe.com/congress/mowers-loses-new-hampshire-congressional-bid/); [New Jersey Globe](https://newjerseyglobe.com/congress/new-jerseyan-matt-mowers-is-top-fundraiser-in-bid-for-new-hampshire-congressional-seat/))
 
 ## Two runs at the same seat
 

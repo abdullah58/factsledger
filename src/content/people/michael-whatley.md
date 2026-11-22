@@ -91,7 +91,7 @@ sources:
     date: "2026-06-25"
 ---
 
-# Michael Whatley
+# [Michael](/creative-works/michael-2026-film/) Whatley
 
 Michael Whatley is a North Carolina Republican who chaired the Republican National Committee from March 2024 to August 2025 and is the party's nominee for the U.S. Senate in North Carolina's 2026 election. ([Ballotpedia](https://ballotpedia.org/Michael_Whatley)) He advanced from the March 3, 2026 Republican primary with 64.6% of the vote and faces former governor Roy Cooper in the November 3 general election. ([Ballotpedia](https://ballotpedia.org/Michael_Whatley))
 

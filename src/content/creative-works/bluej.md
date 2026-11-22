@@ -223,7 +223,7 @@ The tool also feeds research back into teaching. Where users permit it, BlueJ co
 
 ## Not Blue J Legal
 
-BlueJ must not be confused with Blue J, an unrelated Toronto legal-technology company founded in 2015 by University of Toronto law professors that builds a generative-AI tax research platform and raised US$122 million in August 2025 ([University of Toronto](https://www.utoronto.ca/news/u-t-startup-blue-j-legal-raises-167-million-globe-and-mail)). The two share nothing but a similar name: one is a free Java environment for beginners that has been in classrooms since 1999; the other is a commercial AI tax product. The spelling is the tell — BlueJ is one word; Blue J Legal is two.
+BlueJ must not be confused with Blue J, an unrelated Toronto legal-technology company founded in 2015 by [University of Toronto](/universities/university-of-toronto/) law professors that builds a generative-AI tax research platform and raised US$122 million in August 2025 ([University of Toronto](https://www.utoronto.ca/news/u-t-startup-blue-j-legal-raises-167-million-globe-and-mail)). The two share nothing but a similar name: one is a free Java environment for beginners that has been in classrooms since 1999; the other is a commercial AI tax product. The spelling is the tell — BlueJ is one word; Blue J Legal is two.
 
 ## Frequently asked questions
 

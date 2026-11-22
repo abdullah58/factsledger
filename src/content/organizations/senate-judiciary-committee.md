@@ -170,7 +170,7 @@ distribution of the dossier's contents
 ([Haaretz](https://www.haaretz.com/us-news/2018-01-05/ty-article/.premium/u-s-senators-grassley-graham-refer-dossier-author-steele-for-criminal-investigation/0000017f-df42-dfb9-a77c-ffdeb57f0004)).
 The referral letter's own text identified the document as the "Trump
 dossier" that Steele had "compiled on behalf of Fusion GPS for the
-Clinton Campaign and the Democratic National Committee and also
+Clinton Campaign and the [Democratic National Committee](/organizations/democratic-national-committee/) and also
 provided to the FBI"
 ([People's Pundit Daily](https://www.peoplespunditdaily.com/news/politics/2018/01/05/chairmen-grassley-graham-refer-dossier-author-christopher-steele-criminal-investigation/)) —
 the committee putting [Hillary Clinton](https://factsledger.com/people/hillary-clinton/)'s

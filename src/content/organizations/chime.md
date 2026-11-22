@@ -89,4 +89,4 @@ The market disagreed with the discount. On June 12, 2025, Chime's shares opened 
 
 ## What this profile does not claim
 
-This profile does not name Chime's partner banks or detail the 2021 California settlement over its use of the word "bank" — neither was verified from a fully-read source in this pass. The founding year is given as 2012 per co-founder King's account; some sources say 2013. Revenue and profitability figures are per the company's SEC filing as reported by Entrepreneur, not independently audited here. The profile does not predict whether the IPO pop sustained or how later quarters performed.
+This profile does not name Chime's partner banks or detail the 2021 California settlement over its use of the word "bank" — neither was verified from a fully-read source in this pass. The founding year is given as 2012 per co-founder King's account; some sources say 2013. Revenue and profitability figures are per the company's SEC filing as reported by [Entrepreneur](/organizations/entrepreneur/), not independently audited here. The profile does not predict whether the IPO pop sustained or how later quarters performed.

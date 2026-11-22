@@ -270,7 +270,7 @@ first-time entrants, and a committee process with three "saves" narrowed the
 field to nine shortlisted films and then five nominees
 ([The Playlist](https://theplaylist.net/record-92-countries-submit-foreign-language-film-entries-90th-oscars-20171005/)).
 [Turkey](/places/turkey/) submitted [*Ayla: The Daughter of War*](/creative-works/ayla-the-daughter-of-war/),
-[Can Ülkay](/people/can-ulkay/)'s film about a Turkish sergeant and a Korean War orphan
+[Can Ülkay](/people/can-ulkay/)'s film about a Turkish sergeant and a [Korean War](/events/korean-war/) orphan
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/amp/ayla-a-story-of-love-turkeys-oscar-entry-121072));
 it was not among the five nominees, and Sebastián Lelio's *A Fantastic
 Woman* went on to win

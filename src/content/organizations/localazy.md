@@ -269,7 +269,7 @@ Named clients in independent press include the virtual-cycling platform ROUVY an
 Donar Online and CARE
 ([AIN](https://en.ain.ua/2023/06/30/czech-localazy-secures-1m/);
 [Slator](https://slator.com/localazy-secures-1m-remove-language-barriers-1b-people-new-investment-round/)). In April
-2024 Localazy expanded into the Polish market, covered by AIN and independently by Tech.eu
+2024 Localazy expanded into the Polish market, covered by AIN and independently by [Tech.eu](/organizations/tech-eu/)
 ([AIN](https://en.ain.ua/2024/04/30/localazy-expands-into-polish-cee-markets/);
 [Tech.eu](https://tech.eu/2024/04/30/localazy-brings-its-localised-translation-services-to-polish-brands/)); Hodek
 called Poland "the natural next step," noting that part of the team is based in Katowice

@@ -122,7 +122,7 @@ draft: false
 
 ## Overview
 
-Ramp is a New York-based financial operations platform founded in 2019 by co-founder and CEO Eric Glyman, offering corporate cards, expense management, bill pay, procurement, travel and AI-driven finance automation ([Tech:NYC](https://www.technyc.org/leaders/eric-glyman)). Its valuation history is among the most volatile in fintech: a $8.1 billion peak in March 2022, a 28 percent down round to $5.8 billion in 2023, then five repricings in 18 months to a $750 million Series F at $44 billion in June 2026 — with reported talks of a $60 billion round three months later ([TechCrunch](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/); [PYMNTS](https://www.pymnts.com/spend-management/2026/ramp-eyes-60-billion-valuation-just-months-after-series-f/)).
+Ramp is a New York-based financial operations platform founded in 2019 by co-founder and CEO [Eric Glyman](/people/eric-glyman/), offering corporate cards, expense management, bill pay, procurement, travel and AI-driven finance automation ([Tech:NYC](https://www.technyc.org/leaders/eric-glyman)). Its valuation history is among the most volatile in fintech: a $8.1 billion peak in March 2022, a 28 percent down round to $5.8 billion in 2023, then five repricings in 18 months to a $750 million Series F at $44 billion in June 2026 — with reported talks of a $60 billion round three months later ([TechCrunch](https://techcrunch.com/2025/11/17/ramp-hits-32b-valuation-just-three-months-after-hitting-22-5b/); [PYMNTS](https://www.pymnts.com/spend-management/2026/ramp-eyes-60-billion-valuation-just-months-after-series-f/)).
 
 ## From Paribus to the corporate card
 
