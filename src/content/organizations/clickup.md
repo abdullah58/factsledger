@@ -29,6 +29,10 @@ facts:
   - label: Workforce reductions
     value: 7% (May 2022), 10% (July 2023, ~90 employees), 22% (May 2026)
 timeline:
+  - year: "2017"
+    event: >-
+      Zeb Evans and Alex Yurkowski found ClickUp in San Diego.
+    sourceType: Technology industry press
   - year: "2021"
     event: >-
       $400M Series C co-led by Andreessen Horowitz and Tiger Global at a $4B
@@ -53,17 +57,8 @@ timeline:
       salary bands for AI-leveraged top performers.
     sourceType: Technology industry press
 openItems:
-  - Founding year (widely given as 2017) and co-founder Alex Yurkowski were not verified from a fully-read independent source this pass.
   - The $300 million annual recurring revenue figure attributed to ClickUp in 2026 secondary coverage was not verified from a fully-read source this pass.
   - Whether ClickUp has raised additional funding after the 2021 Series C, or revised its $4B valuation, was not verified from a fully-read source this pass.
-related:
-  - label: "Netflix"
-    href: /organizations/netflix/
-  - label: "Google"
-    href: /organizations/google/
-  - label: "Gartner"
-    href: /organizations/gartner/
-
 sources:
   - title: "What ClickUp's mass layoff tells us about the future of work"
     url: https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/
@@ -98,6 +93,15 @@ sources:
       point tools (task managers, email, chat, time trackers, Jira); 1,000+
       integrations; 90% of customers use 3+ tools; 85,000+ paying businesses;
       tripled revenue; 40% of business outside US
+  - title: "ClickUp, a productivity platform that was last valued at $4B, cuts 10% of workforce"
+    url: https://techcrunch.com/2023/07/04/clickup-layoffs/
+    publisher: TechCrunch
+    tier: tier2
+    date: "2023-07-04"
+    usedFor: >-
+      ClickUp founded in 2017 by Zeb Evans and Alex Yurkowski; July 2023 cut
+      of 10% (~90 employees); investors include Lightspeed Venture Partners,
+      Meritech Capital Partners, Craft Ventures and Georgian Partners
   - title: "Productivity software startup ClickUp lets go 10% of its workforce"
     url: https://siliconangle.com/2023/07/04/productivity-software-startup-clickup-lets-go-10-workforce/
     publisher: SiliconANGLE
@@ -120,31 +124,30 @@ sources:
       >1,000 employees by 2023; skepticism that headcount cuts demonstrate AI
       productivity gains
 published: "2026-10-04"
-lastUpdated: "2026-10-04"
+lastUpdated: "2026-11-24"
 ---
 
 ## Overview
 
-ClickUp is a San Diego productivity-software company — legally Mango Technologies Inc. — that sells an all-in-one workplace platform combining project management, documents, spreadsheets, chat, and goals in a single product ([SiliconANGLE](https://siliconangle.com/2021/10/27/productivity-platform-provider-clickup-valued-4-billion-raising-400-million-series-c/)). It rose on a classic 2021-vintage trajectory: a $400 million Series C in October 2021, co-led by Andreessen Horowitz and Tiger Global, that valued the company at $4 billion post-money and brought total funding past $535 million ([TechCrunch](https://techcrunch.com/?p=2224795)). What makes ClickUp distinctive now is what came after the peak: three successive workforce reductions — 7% in May 2022, 10% in July 2023, and 22% in May 2026 — with the last one framed not as cost-cutting but as a deliberate rebuild around AI agents, which CEO Zeb Evans calls a "100x org" ([TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)).
+ClickUp is a [San Diego](/places/san-diego/) productivity-software company — legally Mango Technologies Inc., founded in 2017 by [Zeb Evans](/people/zeb-evans/) and [Alex Yurkowski](/people/alex-yurkowski/) ([TechCrunch](https://techcrunch.com/2023/07/04/clickup-layoffs/)) — that sells an all-in-one workplace platform combining project management, documents, spreadsheets, chat, and goals in a single product ([SiliconANGLE](https://siliconangle.com/2021/10/27/productivity-platform-provider-clickup-valued-4-billion-raising-400-million-series-c/)). It rose on a classic 2021-vintage trajectory: a $400 million Series C in October 2021, co-led by [Andreessen Horowitz](/organizations/andreessen-horowitz/) and [Tiger Global](/organizations/tiger-global/), that valued the company at $4 billion post-money and brought total funding past $535 million ([TechCrunch](https://techcrunch.com/?p=2224795)). What makes ClickUp distinctive now is what came after the peak: three successive workforce reductions — 7% in May 2022, 10% in July 2023, and 22% in May 2026 — with the last one framed not as cost-cutting but as a deliberate rebuild around AI agents, which CEO Zeb Evans calls a "100x org" ([TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)).
 
 ## The funding peak
 
-At its October 2021 Series C, ClickUp described the round as the largest Series C to date in the workplace productivity market, coming less than a year after a $100 million round at a $1 billion valuation ([SiliconANGLE](https://siliconangle.com/2021/10/27/productivity-platform-provider-clickup-valued-4-billion-raising-400-million-series-c/)). The company's pitch was consolidation: a single platform to replace the "polyglot mixture" of task managers, email clients, chat apps, time trackers, and tools like Atlassian's Jira, with more than 1,000 integrations for importing from the tools it aimed to displace ([SiliconANGLE](https://siliconangle.com/2021/10/27/productivity-platform-provider-clickup-valued-4-billion-raising-400-million-series-c/)). The numbers it disclosed were striking: 800,000 teams on the platform, quadrupled in a year; more than 85,000 paying businesses; revenue tripled off an undisclosed base after 900% growth during the first nine months of COVID-19 ([SiliconANGLE](https://siliconangle.com/2021/10/27/productivity-platform-provider-clickup-valued-4-billion-raising-400-million-series-c/)). Forty percent of its business was already outside the United States, and the round funded a 600-job European expansion with a new headquarters in Ireland ([TechCrunch](https://techcrunch.com/?p=2224795)). Its enterprise customers included Google, McDonald's, Booking.com, and Netflix ([TechCrunch](https://techcrunch.com/?p=2224795)).
+At its October 2021 Series C, ClickUp described the round as the largest Series C to date in the workplace productivity market, coming less than a year after a $100 million round at a $1 billion valuation ([SiliconANGLE](https://siliconangle.com/2021/10/27/productivity-platform-provider-clickup-valued-4-billion-raising-400-million-series-c/)). The company's pitch was consolidation: a single platform to replace the "polyglot mixture" of task managers, email clients, chat apps, time trackers, and tools like [Atlassian](/organizations/atlassian/)'s [Jira](/creative-works/jira/), with more than 1,000 integrations for importing from the tools it aimed to displace ([SiliconANGLE](https://siliconangle.com/2021/10/27/productivity-platform-provider-clickup-valued-4-billion-raising-400-million-series-c/)). The numbers it disclosed were striking: 800,000 teams on the platform, quadrupled in a year; more than 85,000 paying businesses; revenue tripled off an undisclosed base after 900% growth during the first nine months of [COVID-19](/events/covid-19-pandemic/) ([SiliconANGLE](https://siliconangle.com/2021/10/27/productivity-platform-provider-clickup-valued-4-billion-raising-400-million-series-c/)). Forty percent of its business was already outside the [United States](/places/united-states/), and the round funded a 600-job European expansion with a new headquarters in [Ireland](/places/ireland/) ([TechCrunch](https://techcrunch.com/?p=2224795)). Its enterprise customers included [Google](/organizations/google/), [McDonald's](/organizations/mcdonalds/), [Booking.com](/organizations/booking-com/), and [Netflix](/organizations/netflix/) ([TechCrunch](https://techcrunch.com/?p=2224795)).
 
 ## Three rounds of cuts
 
-The comedown came in stages. In May 2022 ClickUp laid off 7% of its workforce, about 60 employees, describing the restructuring as a move toward profitability ([SiliconANGLE](https://siliconangle.com/2023/07/04/productivity-software-startup-clickup-lets-go-10-workforce/)). In July 2023 it cut another 10%, about 90 employees, concentrated in customer support and service roles with additional engineering cuts; founder-CEO Zeb Evans told TechCrunch the "realignment enables us to be a best-in-class IPO-ready company in efficiency while continuing to overachieve in growth" ([SiliconANGLE](https://siliconangle.com/2023/07/04/productivity-software-startup-clickup-lets-go-10-workforce/)). Affected workers received 12 weeks of severance pay, six months of insurance coverage, visa support, and kept their company laptops ([SiliconANGLE](https://siliconangle.com/2023/07/04/productivity-software-startup-clickup-lets-go-10-workforce/)). Then in May 2026 came the largest cut: 22% of the workforce, announced by Evans on X and framed as something else entirely ([TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)).
+The comedown came in stages. In May 2022 ClickUp laid off 7% of its workforce, about 60 employees, describing the restructuring as a move toward profitability ([SiliconANGLE](https://siliconangle.com/2023/07/04/productivity-software-startup-clickup-lets-go-10-workforce/)). In July 2023 it cut another 10%, about 90 employees, concentrated in customer support and service roles with additional engineering cuts; founder-CEO Zeb Evans told TechCrunch the "realignment enables us to be a best-in-class IPO-ready company in efficiency while continuing to overachieve in growth" ([SiliconANGLE](https://siliconangle.com/2023/07/04/productivity-software-startup-clickup-lets-go-10-workforce/)). Affected workers received 12 weeks of severance pay, six months of insurance coverage, visa support, and kept their company laptops ([SiliconANGLE](https://siliconangle.com/2023/07/04/productivity-software-startup-clickup-lets-go-10-workforce/)). Then in May 2026 came the largest cut: 22% of the workforce, announced by Evans on [X](/organizations/x/) and framed as something else entirely ([TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)).
 
 ## The "100x org" thesis
 
-Evans insisted the 2026 reduction "wasn't about cutting costs" but about rebuilding the company around AI execution ([TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)). The company had introduced roughly 3,000 internal AI agents to handle complex tasks on employees' behalf, according to Fortune's reporting; staff are now expected to direct those agents and review their output rather than perform the work directly ([TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)). Evans described a future workforce in three groups — builders who orchestrate AI systems, system managers who automate their own roles, and front-liners in customer-facing jobs — and promised that "most savings from this change will flow directly back into the people who stay" through million-dollar salary bands for those who "create outsized impact using AI" ([TechRepublic](https://www.techrepublic.com/article/news-clickup-cuts-staff-ai-restructuring/)). One growth operations manager, Andy Cabasso, was reported to oversee 37 AI agents himself ([TechRepublic](https://www.techrepublic.com/article/news-clickup-cuts-staff-ai-restructuring/)).
+Evans insisted the 2026 reduction "wasn't about cutting costs" but about rebuilding the company around AI execution ([TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)). The company had introduced roughly 3,000 internal AI agents to handle complex tasks on employees' behalf, according to [Fortune](/organizations/fortune/)'s reporting; staff are now expected to direct those agents and review their output rather than perform the work directly ([TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)). Evans described a future workforce in three groups — builders who orchestrate AI systems, system managers who automate their own roles, and front-liners in customer-facing jobs — and promised that "most savings from this change will flow directly back into the people who stay" through million-dollar salary bands for those who "create outsized impact using AI" ([TechRepublic](https://www.techrepublic.com/article/news-clickup-cuts-staff-ai-restructuring/)). One growth operations manager, [Andy Cabasso](/people/andy-cabasso/), was reported to oversee 37 AI agents himself ([TechRepublic](https://www.techrepublic.com/article/news-clickup-cuts-staff-ai-restructuring/)).
 
-The claim deserves the skepticism it received. A Gartner survey cited by TechCrunch found that about 80% of companies using autonomous technology had cut jobs, but that those reductions were not necessarily translating into meaningful financial returns — suggesting some companies use unproven AI as cover for downsizing ([TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)). TechRepublic noted the core evidentiary gap: cutting headcount lowers costs quickly, but does not by itself demonstrate that AI improved work quality, customer experience, or resilience ([TechRepublic](https://www.techrepublic.com/article/news-clickup-cuts-staff-ai-restructuring/)). Evans told TechCrunch the company is measuring productivity gains internally and plans to productize them for customers — "instead of gamifying token cost, we gamify value created and time saved" ([TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)). Whether the "100x org" is a genuine operating-model breakthrough or a 2021-vintage valuation story in AI clothing remains, as TechRepublic put it, an open question ([TechRepublic](https://www.techrepublic.com/article/news-clickup-cuts-staff-ai-restructuring/)).
+The claim deserves the skepticism it received. A [Gartner](/organizations/gartner/) survey cited by TechCrunch found that about 80% of companies using autonomous technology had cut jobs, but that those reductions were not necessarily translating into meaningful financial returns — suggesting some companies use unproven AI as cover for downsizing ([TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)). TechRepublic noted the core evidentiary gap: cutting headcount lowers costs quickly, but does not by itself demonstrate that AI improved work quality, customer experience, or resilience ([TechRepublic](https://www.techrepublic.com/article/news-clickup-cuts-staff-ai-restructuring/)). Evans told TechCrunch the company is measuring productivity gains internally and plans to productize them for customers — "instead of gamifying token cost, we gamify value created and time saved" ([TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)). Whether the "100x org" is a genuine operating-model breakthrough or a 2021-vintage valuation story in AI clothing remains, as TechRepublic put it, an open question ([TechRepublic](https://www.techrepublic.com/article/news-clickup-cuts-staff-ai-restructuring/)).
 
 ## What this profile does not claim
 
-- It does not state ClickUp's founding year or name a co-founder beyond Zeb Evans — neither was verified from a fully-read independent source this pass.
 - It does not give current revenue, profitability status, or headcount — the company has not disclosed whether it is profitable, and post-2023 figures were not verified from fully-read sources.
 - It does not assert that the 2026 layoffs were caused by AI productivity gains rather than cost pressure — Evans claims the former; Gartner's survey data counsels skepticism, and the profile reports both.
-- It does not cover product features, pricing, or competitive comparisons with Asana, Monday.com, or Notion beyond what the cited sources state.
+- It does not cover product features, pricing, or competitive comparisons with [Asana](/organizations/asana/), [Monday.com](/organizations/monday-com/), or [Notion](/organizations/notion/) beyond what the cited sources state.
 - "ClickUp" here means Mango Technologies Inc. d/b/a ClickUp, the San Diego software company — not unrelated products sharing the name.
