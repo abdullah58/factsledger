@@ -84,7 +84,12 @@ sources:
     usedFor: >-
       The film as Turkey's foreign-language Oscar submission, the TRT
       documentary that made the story public, the cast and director, the Yiğit
-      Güralp screenplay controversy, and the release and campaign timeline.
+      Güralp screenplay controversy, and the announced limited screening and campaign plans.
+  - title: "Ayla (2017) — release dates and credits"
+    url: https://boxofficeturkiye.com/film/ayla--2013844
+    publisher: Box Office Türkiye
+    tier: tier2
+    usedFor: "The first Turkish theatrical release on 27 October 2017, distinct from the planned September limited screening, and the music credit for Fahir Atakoğlu."
   - title: "'Ayla' Kim Eunja passes away at 80"
     url: https://www.hurriyetdailynews.com/ayla-kim-eunja-passes-away-at-80-209134
     publisher: Hürriyet Daily News
@@ -153,7 +158,7 @@ openItems:
     year is not established.
 author: Muhammad Abdullah Al Yasin
 published: 2026-09-01
-lastUpdated: 2026-10-10
+lastUpdated: 2026-10-22
 draft: false
 ---
 
@@ -269,12 +274,15 @@ Hürriyet feature
 ## The film and the final years
 
 In 2016 it was announced that Dilbirliği's story would become a feature film; most
-of it was shot in Turkey, the score was by Fahit Atakoğlu, the production company
+of it was shot in Turkey, the production company
 was Dijital Sanatlar, and [Turkish Airlines](/organizations/turkish-airlines/) sponsored it
 ([Korea.net](https://www.korea.net/NewsFocus/Culture/view?articleId=145773)).
-The film, "Ayla: The Daughter of War," directed by [Can Ülkay](/people/can-ulkay/), opened in Turkey on 8
-September 2017 and was chosen as Turkey's submission for the foreign-language-film
-Oscar; [İsmail Hacıoğlu](/people/ismail-hacioglu/) and Çetin Tekindor played the young and elderly Dilbirliği,
+Box Office Türkiye credits Fahir Atakoğlu with the film's music
+([Box Office Türkiye](https://boxofficeturkiye.com/film/ayla--2013844)).
+The film, "Ayla: The Daughter of War," directed by [Can Ülkay](/people/can-ulkay/), was chosen as Turkey's submission for the foreign-language-film
+Oscar. A 6 September report announced a limited screening for 8 September; Box Office Türkiye records 27 October 2017 as its first Turkish theatrical release, so the two dates refer to different stages
+([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633); [Box Office Türkiye](https://boxofficeturkiye.com/film/ayla--2013844)).
+[İsmail Hacıoğlu](/people/ismail-hacioglu/) and Çetin Tekindor played the young and elderly Dilbirliği,
 while [Kim Seol](/people/kim-seol/) and [Lee Kyung-Jin](/people/lee-kyung-jin/) played the young and adult Ayla
 ([Hürriyet Daily News](https://www.hurriyetdailynews.com/turkeys-oscar-nominee-ayla-brings-korean-war-memories-117633)).
 The publicity campaign drew on support from Turkish Airlines and Turkey's Culture
