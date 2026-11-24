@@ -121,12 +121,12 @@ The product's founding idea was refusal to specialize. Investors who looked at t
 
 | Milestone | Date | What happened |
 | --- | --- | --- |
-| Series A | June 2020 | $35 million from Craft Ventures |
-| Series B | December 2020 | $100 million at a $1 billion valuation, led by Georgian; 2 million users, revenue up 9x in the year |
+| Series A | June 2020 | $35 million from [Craft Ventures](/organizations/craft-ventures/) |
+| Series B | December 2020 | $100 million at a $1 billion valuation, led by [Georgian](/organizations/georgian/); 2 million users, revenue up 9x in the year |
 | Scale | January 2021 | Millions of users, 200,000+ teams, headcount in the mid-100s (Yurkowski's own figures) |
-| Series C | October 2021 | $400 million at a $4 billion post-money valuation, co-led by [Andreessen Horowitz](/organizations/andreessen-horowitz/) and [Tiger Global](/organizations/tiger-global/), with [Lightspeed Venture Partners](/organizations/lightspeed-venture-partners/) and Meritech participating; $535 million raised in total |
+| Series C | October 2021 | $400 million at a $4 billion post-money valuation, co-led by [Andreessen Horowitz](/organizations/andreessen-horowitz/) and [Tiger Global](/organizations/tiger-global/), with [Lightspeed Venture Partners](/organizations/lightspeed-venture-partners/) and [Meritech Capital Partners](/organizations/meritech-capital-partners/) participating; $535 million raised in total |
 
-The Series C figures come from [TechCrunch](https://techcrunch.com/?p=2224795)'s funding coverage: the round funded a 600-job European expansion, and by then 800,000 teams were on the platform — up from 200,000 a year earlier — including enterprise customers such as [Google](/organizations/google/), McDonald's, Booking.com, and [Netflix](/organizations/netflix/), with 40% of the business already outside the [United States](/places/united-states/) ([TechCrunch](https://techcrunch.com/?p=2224795)). The Series B numbers — $100 million, $1 billion valuation, 2 million users — come from the same outlet's December 2020 report ([TechCrunch](https://techcrunch.com/2020/12/15/clickup-hits-1-billion-valuation-in-100m-series-b-raise/)).
+The Series C figures come from [TechCrunch](https://techcrunch.com/?p=2224795)'s funding coverage: the round funded a 600-job European expansion, and by then 800,000 teams were on the platform — up from 200,000 a year earlier — including enterprise customers such as [Google](/organizations/google/), [McDonald's](/organizations/mcdonalds/), [Booking.com](/organizations/booking-com/), and [Netflix](/organizations/netflix/), with 40% of the business already outside the [United States](/places/united-states/) ([TechCrunch](https://techcrunch.com/?p=2224795)). The Series B numbers — $100 million, $1 billion valuation, 2 million users — come from the same outlet's December 2020 report ([TechCrunch](https://techcrunch.com/2020/12/15/clickup-hits-1-billion-valuation-in-100m-series-b-raise/)).
 
 What followed the peak is company context rather than Yurkowski's story: ClickUp cut 7% of staff in May 2022, 10% (about 90 people) in July 2023, and 22% in May 2026, with Evans framing the last cut as a rebuild around roughly 3,000 internal AI agents and a "100x org" ([TechCrunch](https://techcrunch.com/2023/07/04/clickup-layoffs/); [TechCrunch](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)). No fully-read source describes Yurkowski's role in those decisions, and this profile does not assert one.
 
@@ -148,7 +148,7 @@ On security, his position is that it must be "baked into your development proces
 
 **Is Alex Yurkowski still ClickUp's CTO?** He is documented as co-founder and CTO in 2021–2023 sources, but no fully-read source from 2024–2026 confirms his current title, and some secondary listings describe him as a former CTO. His present-day role is an open item in this profile.
 
-**What is ClickUp?** An all-in-one workplace platform combining tasks, docs, chat, whiteboards, goals, and time tracking, founded in 2017 in San Diego. It raised $400 million in October 2021 at a $4 billion valuation and counted Google and Netflix among its enterprise customers ([TechCrunch](https://techcrunch.com/?p=2224795)).
+**What is ClickUp?** An all-in-one workplace platform combining tasks, docs, chat, whiteboards, goals, and time tracking, founded in 2017 in [San Diego](/places/san-diego/). It raised $400 million in October 2021 at a $4 billion valuation and counted Google and Netflix among its enterprise customers ([TechCrunch](https://techcrunch.com/?p=2224795)).
 
 ## What this profile does not claim
 
