@@ -53,9 +53,6 @@ openItems:
     building was found; none is claimed here.
   - The eventual outcome of the 2020 lawsuit against the City of Chicago could not be independently confirmed and is not stated here.
   - A claimed association with Chicago's Pulaski Day Parade, mentioned in a promotional brochure, is not independently corroborated and is not repeated here.
-related:
-  - label: "ProPublica"
-    href: /organizations/propublica/
 
 sources:
   - title: "Nicolaus Copernicus Monument"
@@ -94,33 +91,28 @@ draft: false
 
 ## Overview
 
-The Copernicus Foundation is a Chicago-based Polish-American cultural nonprofit that traces its origin to a 1970
-civic effort to raise funds for a monument to Nicolaus Copernicus, marking the 500th anniversary of the
-astronomer's birth. The Chicago Park District, which maintains the monument today, confirms that "the Copernicus
-Foundation of Chicago raised $150,000 to replicate" a Warsaw original, dedicated on 14 October 1973 at Solidarity
-Drive before the Adler Planetarium, with Mayor Richard J. Daley attending and proclaiming the date Nicolaus
+The Copernicus Foundation is a [Chicago](/places/chicago/)-based Polish-American cultural nonprofit that traces its origin to a 1970
+civic effort to raise funds for a [monument](/places/nicolaus-copernicus-monument/) to [Nicolaus Copernicus](/people/nicolaus-copernicus/), marking the 500th anniversary of the
+astronomer's birth. The [Chicago Park District](/organizations/chicago-park-district/), which maintains the monument today, confirms that "the Copernicus
+Foundation of Chicago raised $150,000 to replicate" a [Warsaw](/places/warsaw/) original, dedicated on 14 October 1973 at Solidarity Drive before the [Adler Planetarium](/organizations/adler-planetarium/), with Mayor [Richard J. Daley](/people/richard-j-daley/) attending and proclaiming the date Nicolaus
 Copernicus Day ([Chicago Park District](https://www.chicagoparkdistrict.com/parks-facilities/nicolaus-copernicus-monument)).
 The Foundation has been a registered 501(c)(3) nonprofit since October 1972
-([ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237164993)).
+([ProPublica](/organizations/propublica/) Nonprofit Explorer).
 
 ## The Copernicus Center and Taste of Polonia
 
-In 1979, using surplus funds from the monument campaign, the Foundation purchased the former Gateway Theatre in
-Chicago's Jefferson Park neighbourhood, built in the late 1920s as one of the city's first theatres built for
+In 1979, using surplus funds from the monument campaign, the Foundation purchased the former [Gateway Theatre](/organizations/copernicus-center/) in Chicago's [Jefferson Park](/places/jefferson-park/) neighbourhood, built in the late 1920s as one of the city's first theatres built for
 sound film; it was later renamed the Mitchell Kobelinski Theater. The venue, now known overall as the Copernicus
-Center, has hosted Pope John Paul II during his 1979 U.S. visit as well as former presidents George H.W. Bush
-and Barack Obama ([Block Club Chicago](https://blockclubchicago.org/2021/07/26/jefferson-parks-copernicus-foundation-marks-50-years-with-history-book-this-place-is-a-legacy/)).
-In 1980, the Foundation established the Taste of Polonia Festival, which has grown into one of the largest Polish
-festivals in the United States. As of fiscal year 2025, IRS filings show the Foundation reporting $2.33 million in
+Center, has hosted former presidents [George H.W. Bush](/people/george-h-w-bush/) and [Barack Obama](/people/barack-obama/), while [Pope John Paul II](/people/pope-john-paul-ii/) drove past it from O'Hare airport during his 1979 [U.S.](/places/united-states/) visit as the Polish community waited in the parking lot ([Block Club Chicago](https://blockclubchicago.org/2021/07/26/jefferson-parks-copernicus-foundation-marks-50-years-with-history-book-this-place-is-a-legacy/)).
+In 1980, the Foundation established the [Taste of Polonia Festival](/events/taste-of-polonia-festival/), which has grown into one of the largest Polish
+festivals in the United States. As of fiscal year 2025, [IRS](/organizations/internal-revenue-service/) filings show the Foundation reporting $2.33 million in
 revenue and $4.73 million in net assets, with Kamila Sumelka serving as Executive Director
 ([ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237164993)).
 
 ## The 2020 firehouse lawsuit
 
-In November 2020, the Chicago Sun-Times reported that the Copernicus Foundation had sued the City of Chicago after
-the city agreed to sell a long-vacant former firehouse near its Jefferson Park headquarters to a rival developer,
-Ambrosia Homes Development, for $10, rejecting the Foundation's $300,000 offer. Attorney Robert Fioretti,
-representing the Foundation, said: "Sometimes, things go on behind the scenes. We are advocating for an open,
+In November 2020, the [Chicago Sun-Times](/organizations/chicago-sun-times/) reported that the Copernicus Foundation had sued the [City of Chicago](/organizations/city-of-chicago/) after
+the city agreed to sell a long-vacant former firehouse near its Jefferson Park headquarters to a rival developer, [Ambrosia Homes Development](/organizations/ambrosia-homes-development/), for $10, rejecting the Foundation's $300,000 offer. Attorney [Robert Fioretti](/people/robert-fioretti/), representing the Foundation, said: "Sometimes, things go on behind the scenes. We are advocating for an open,
 transparent and fair process"
 ([Chicago Sun-Times](https://chicago.suntimes.com/2020/11/11/21561394/chicago-firehouse-sale-copernicus-foundation-lawsuit-jefferson-park)).
 
